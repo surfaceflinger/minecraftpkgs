@@ -27,8 +27,8 @@ are minimum-version floors, not ceilings — do not rename.
 
 ## Shared (`minecraftpkgs`)
 
-- [ ] `lib/mkMod { loader, minecraftVersion, src, lockFile, ... }` dispatching to `loaders/<loader>/`
-- [ ] One `gradle.lock` checked in per (mod × loader × mc)
+- [x] `lib/mkMod { pname, envs }` dispatching to `loaders/<loader>/build.nix`; flake merges per-mod maps into `packages`
+- [ ] One `gradle.lock` checked in per (mod × loader × mc), at `packages/mods/<mod>/locks/<env>.lock`
 - [ ] Test matrix: 1.8.9 Ornithe × 1.12.2 Cleanroom × 26.3 Fabric, all three green before adding more mods
 
 ## Loaders (plain versioned packages, no env matrix)

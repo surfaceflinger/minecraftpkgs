@@ -8,11 +8,13 @@ Nix-built Minecraft mods, pack assets, and (later) modpacks. Source builds via o
 flake.nix                  # nixpkgs-nixos-unstable-small, flake-parts, gradle2nix (nixpkgs follows ours)
 loaders/fabric/caches.nix  # Loom offline cache derivation, takes { minecraftVersion }
 loaders/fabric/versions.json  # pinned Mojang/Fabric URLs+hashes per MC version
-packages/mods/<mod>/       # env matrix via lib.mkMod (PLANNED, not yet written)
+loaders/fabric/build.nix     # fabric env builder: buildGradlePackage + loom cache + --offline
+lib/mkMod.nix                # matrix: { pname, envs } -> { "<pname>-<env>" = drv; }, dispatches on env.loader
+packages/mods/<mod>/default.nix  # spec only; locks live in locks/<env>.lock
+packages/loaders/<name>/      # plain versioned loader packages (fabric-loader done)
 packages/datapacks/<name>/ # plain fetchers (PLANNED)
 packages/resourcepacks/<name>/  # MC-version table via lib.mkPackAsset (PLANNED)
 packages/packs/<pack>/     # assembly only: .mrpack / instance zips (PLANNED)
-packages/loaders/          # plain versioned loader packages (PLANNED)
 docs/DEBT.md               # ordered checklist: Ornithe 1.8.9, Cleanroom 1.12.2, shared items
 ```
 
@@ -36,7 +38,7 @@ New files must be `git add -N` before nix sees them (flake requires tracked file
 - Proven: tool builds on Gradle 8.14.7 and locks Gradle 7.5 through 9.x. No `plugin/gradle90` shim needed.
 - JDK matrix: Gradle 8.x runs on Java 8-24 only; Java 25 needs Gradle 9.1+. Fabric Loom 1.19 requires JDK 25 to run. Ornithe example pins Gradle 7.5.1. Cleanroom template pins Gradle 9.8.1.
 - Our fork's `nix/init.gradle` carries two generic extras: skip redirecting `file://` repos (toolchain caches) and reproducible archive flags. Keep them loader-agnostic; anything naming "loom" belongs in minecraftpkgs.
-- Mods' Gradle must come from their own wrapper, never from `pkgs.gradle`.
+- Mods' Gradle must match the wrapper's major line: pin `gradle_8`/`gradle_9` per env (nixpkgs), never the default `pkgs.gradle`. Loom 1.17+ plugins declare `org.gradle.plugin.api-version` 9.5+ and fail variant resolution on Gradle 8.
 
 ## Loom cache knowledge (Fabric)
 
@@ -47,7 +49,7 @@ New files must be `git add -N` before nix sees them (flake requires tracked file
 
 ## Target environments
 
-- **Fabric 26.3 (focus):** Gradle 9.8.x, Loom 1.19, JDK 25 to run. Locking proven green; loom cache ready (`loaders/fabric/`).
+- **Fabric 26.3 (focus):** Gradle 9.8.x, Loom 1.17/1.19, JDK 25 to run. Locking proven green; loom cache ready; first full offline mod build green (`fabric-api-fabric-26_3`, 0.166.2).
 - **OrnitheMC 1.8.9:** `ornithe-loom` 1.0+, Gradle 7.5.1, JDK 8-18. Covered by the `gradle75` shim for locking; loom cache layer still TBD (needs a normal build + cache inspection; old era likely still uses intermediary mappings, unlike 26.x).
 - **CleanroomMC 1.12.2:** CleanroomGradle (modern ForgeGradle rewrite), Gradle 9.8.1, JDK 17+ to run while targeting Java 8 bytecode. Template needs `tokens.properties` stubbed for lock runs. Unknown whether its MC/MCP artifacts ride Maven (lock covers it) or need a cache layer like Loom. See `docs/DEBT.md` for both checklists.
 
