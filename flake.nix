@@ -43,7 +43,8 @@
               };
             };
           }
-          // pkgs.callPackage ./packages/mods/fabric-api { inherit mkMod; };
+          // pkgs.callPackage ./packages/mods/fabric-api { inherit mkMod; }
+          // pkgs.callPackage ./packages/mods/sodium { inherit mkMod; };
         };
     };
 }

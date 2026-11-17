@@ -39,13 +39,14 @@ New files must be `git add -N` before nix sees them (flake requires tracked file
 - JDK matrix: Gradle 8.x runs on Java 8-24 only; Java 25 needs Gradle 9.1+. Fabric Loom 1.19 requires JDK 25 to run. Ornithe example pins Gradle 7.5.1. Cleanroom template pins Gradle 9.8.1.
 - Our fork's `nix/init.gradle` carries two generic extras: skip redirecting `file://` repos (toolchain caches) and reproducible archive flags. Keep them loader-agnostic; anything naming "loom" belongs in minecraftpkgs.
 - Mods' Gradle must match the wrapper's major line: pin `gradle_8`/`gradle_9` per env (nixpkgs), never the default `pkgs.gradle`. Loom 1.17+ plugins declare `org.gradle.plugin.api-version` 9.5+ and fail variant resolution on Gradle 8.
+- Drop unrelated loader subprojects via `postPatch` (e.g. sodium's `include("neoforge")`): the recipe builds one loader, and other loaders' subprojects can break configuration under our Gradle.
 
 ## Loom cache knowledge (Fabric)
 
 - MC 26.x is unobfuscated (no `client_mappings` in Mojang manifest, no `intermediary` on Fabric maven). Loom 1.19 needs no mappings download.
-- Observed offline input set (from a real Loom 1.19 + 26.3 cache): `mojang_versions_manifest.json`, `<ver>/minecraft-client.jar`, `<ver>/minecraft-server.jar`, `<ver>/mojang_minecraft_info.json`. Everything under `minecraftMaven/` and the processed jars are Loom outputs, regenerated offline.
+- Observed offline input set (from a real Loom 1.19 + 26.3 cache): `mojang_versions_manifest.json`, `<ver>/minecraft-client.jar`, `<ver>/minecraft-server.jar`, `<ver>/mojang_minecraft_info.json`, plus per-mod `fabric-api/fabric-api-<fapi-ver>.pom` when the build maps FAPI module versions through loom (e.g. sodium). Everything under `minecraftMaven/` and the processed jars are Loom outputs, regenerated offline.
 - `caches.nix` output is copied (plain `cp -r`, then `chmod -R u+w`) into `$GRADLE_USER_HOME/caches/fabric-loom` at build time. No symlinks: store files carry 1970 mtimes and read-only modes, and loom re-downloads "outdated" files and writes hashes/lock files next to them. Planned wiring lives in `mkMod` as a `postConfigure` snippet; `loomDependencies` passed through `buildGradlePackage` (it forwards unknown attrs to the derivation).
-- `versions.json` pins: live Mojang `version_manifest_v2.json` (moving snapshot, re-pin when adding versions), per-version manifest/client/server URLs+hashes. No generator script yet; see DEBT.md.
+- `versions.json` pins: live Mojang `version_manifest_v2.json` (moving snapshot, re-pin when adding versions), per-version manifest/client/server/intermediary URLs+hashes, plus a `fabricApi` map of version→POM for mods that map FAPI modules through loom. No generator script yet; see DEBT.md.
 
 ## Target environments
 
@@ -56,6 +57,7 @@ New files must be `git add -N` before nix sees them (flake requires tracked file
 ## Workflow
 
 - Long builds/downloads: run in background, never poll.
+- Lock runs: reuse one Gradle via `gradle2nix --gradle-wrapper <version>` (newest already in `~/.gradle/wrapper/dists`) instead of each project's wrapper dist. Patch-version drift doesn't change resolution; the sandbox builds with nixpkgs `gradle_9` anyway, so lock-run and sandbox Gradle already differ by design. New distinct versions download once (~140MB) then cache forever. (`--gradle-home` with nixpkgs Gradle is broken — `ClassNotFoundException: WrapUtil` — don't use it.)
 - Verify with real builds (`nix build`, lock runs against example mods), not reasoning.
 - Commit messages: short upstream-style subject, body wrapped at 72 cols, footer `Assisted-by: OpenCode:muse-spark-1.3-contributor`.
 - Never push; the human pushes.
