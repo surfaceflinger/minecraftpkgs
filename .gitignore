@@ -1,0 +1,16 @@
+# nix build outputs
+result
+result-*
+
+# direnv
+.direnv/
+
+# gradle (lock runs happen in throwaway clones, never in-tree)
+.gradle/
+build/
+
+# editors and OS noise
+.idea/
+.vscode/
+*~
+.DS_Store

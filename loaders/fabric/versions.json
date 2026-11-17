@@ -1,0 +1,40 @@
+{
+  "manifest": {
+    "url": "https://piston-meta.mojang.com/mc/game/version_manifest_v2.json",
+    "sha256": "8nMm/hNJItHJg9NeItZQjI0Ok8eQtguVKIY7CFzvG6Y="
+  },
+  "versions": {
+    "26.3": {
+      "manifest": {
+        "url": "https://piston-meta.mojang.com/v1/packages/9f67e10ed013deeaad20ac3c800652765d493408/26.3.json",
+        "sha1": "9f67e10ed013deeaad20ac3c800652765d493408"
+      },
+      "clientJar": {
+        "url": "https://piston-data.mojang.com/v1/objects/e877b6a07acd633fb3bb475002175cec036e7b87/client.jar",
+        "sha256": "RQjQBjI/JPoCh2MQwZLXOa9WUW6yWQAKxQ8JCaaMmi0="
+      },
+      "serverJar": {
+        "url": "https://piston-data.mojang.com/v1/objects/33680f5f2ac32864d6d7cf5e56a705fdb3e05f4c/server.jar",
+        "sha256": "0FLxTXoXNzT7pVNxHltXAWLi8qMTJn7jGiG5daZ5vmQ="
+      }
+    },
+    "1.20.2": {
+      "manifest": {
+        "url": "https://piston-meta.mojang.com/v1/packages/2b1c2be7cf1d1137b77716962b71e147b614c50c/1.20.2.json",
+        "sha1": "2b1c2be7cf1d1137b77716962b71e147b614c50c"
+      },
+      "clientJar": {
+        "url": "https://piston-data.mojang.com/v1/objects/82d1974e75fc984c5ed4b038e764e50958ac61a0/client.jar",
+        "sha256": "+hoZvlalBkJjCKu8HK2F8pmn/G2uQzVVk1G6AkZxP9o="
+      },
+      "serverJar": {
+        "url": "https://piston-data.mojang.com/v1/objects/5b868151bd02b41319f54c8d4061b8cae84e665c/server.jar",
+        "sha256": "Ha7kg4VprUbkHwpvRZaExQDH8mhTVqQM+36DjW546ug="
+      },
+      "intermediaryJar": {
+        "url": "https://maven.fabricmc.net/net/fabricmc/intermediary/1.20.2/intermediary-1.20.2-v2.jar",
+        "sha256": "g/kNxmpW+0McI64hkDi+BhcTa0OJUmUoNY26XzNUPkE="
+      }
+    }
+  }
+}
