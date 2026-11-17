@@ -21,10 +21,13 @@
           pkgs = import inputs.nixpkgs { inherit system; };
           builders = inputs.gradle2nix.builders.${system};
           loaders = {
-            fabric = pkgs.callPackage ./loaders/fabric/build.nix {
+            fabric = pkgs.callPackage ./builders/fabric/build.nix {
               inherit (builders) buildGradlePackage;
             };
-            ornithe = pkgs.callPackage ./loaders/ornithe/build.nix {
+            ornithe = pkgs.callPackage ./builders/ornithe/build.nix {
+              inherit (builders) buildGradlePackage;
+            };
+            ploceus = pkgs.callPackage ./builders/ploceus/build.nix {
               inherit (builders) buildGradlePackage;
             };
           };
@@ -35,28 +38,29 @@
           packages = {
             inherit (inputs.gradle2nix.packages.${system}) gradle2nix;
             gradle_7 = gradle7;
-            loom-cache-1_20_2 = pkgs.callPackage ./loaders/fabric/caches.nix { } {
+            loom-cache-1_20_2 = pkgs.callPackage ./builders/fabric/caches.nix { } {
               minecraftVersion = "1.20.2";
             };
-            loom-cache-26_3 = pkgs.callPackage ./loaders/fabric/caches.nix { } {
+            loom-cache-26_3 = pkgs.callPackage ./builders/fabric/caches.nix { } {
               minecraftVersion = "26.3";
             };
-            loom-cache-ornithe-1_8_9 = pkgs.callPackage ./loaders/ornithe/caches.nix { } {
+            loom-cache-ornithe-1_8_9 = pkgs.callPackage ./builders/ornithe/caches.nix { } {
               minecraftVersion = "1.8.9";
             };
             fabric-loader = pkgs.callPackage ./packages/loaders/fabric-loader {
               inherit (builders) buildGradlePackage;
-              loomCache = pkgs.callPackage ./loaders/fabric/caches.nix { } {
+              loomCache = pkgs.callPackage ./builders/fabric/caches.nix { } {
                 minecraftVersion = "1.20.2";
               };
             };
           }
-          // pkgs.callPackage ./packages/mods/fabric-api { inherit mkMod; }
-          // pkgs.callPackage ./packages/mods/sodium { inherit mkMod; }
-          // pkgs.callPackage ./packages/mods/ornithe-example-mod {
+          // (pkgs.callPackage ./packages/mods/fabric-api { inherit mkMod; }).packages
+          // (pkgs.callPackage ./packages/mods/sodium { inherit mkMod; }).packages
+          // (pkgs.callPackage ./packages/mods/argentum { inherit mkMod; }).packages
+          // (pkgs.callPackage ./packages/mods/ornithe-example-mod {
             inherit mkMod;
             gradle_7' = gradle7;
-          };
+          }).packages;
         };
     };
 }

@@ -6,9 +6,9 @@ Nix-built Minecraft mods, pack assets, and (later) modpacks. Source builds via o
 
 ```
 flake.nix                  # nixpkgs-nixos-unstable-small, flake-parts, gradle2nix (nixpkgs follows ours)
-loaders/fabric/caches.nix  # Loom offline cache derivation, takes { minecraftVersion }
-loaders/fabric/versions.json  # pinned Mojang/Fabric URLs+hashes per MC version
-loaders/fabric/build.nix     # fabric env builder: buildGradlePackage + loom cache + --offline
+builders/fabric/caches.nix  # Loom offline cache derivation, takes { minecraftVersion }
+builders/fabric/versions.json  # pinned Mojang/Fabric URLs+hashes per MC version
+builders/fabric/build.nix     # fabric env builder: buildGradlePackage + loom cache + --offline
 lib/mkMod.nix                # matrix: { pname, envs } -> { "<pname>-<env>" = drv; }, dispatches on env.loader
 packages/mods/<mod>/default.nix  # spec only; locks live in locks/<env>.lock
 packages/loaders/<name>/      # plain versioned loader packages (fabric-loader done)
@@ -29,7 +29,7 @@ New files must be `git add -N` before nix sees them (flake requires tracked file
 - Loaders (`packages/loaders/*`) are plain versioned packages, no env matrix. Fabric API is a mod (goes through `mkMod`), not loader infra.
 - Resourcepacks/datapacks get an MC-version-only table (`mkPackAsset`), no loader axis, no lock, no build. They do cut per-MC releases (pack_format bumps).
 - Packs only assemble (jars into `overrides/mods/`); they are leaf derivations, never dependencies of mods. No installers, no launcher integration.
-- `nix-fabric` is dead (last push Oct 2024, static 1.21-era snapshot). Its URL/hashes live in our own `loaders/fabric/versions.json`. No extra flake input for MC jars.
+- `nix-fabric` is dead (last push Oct 2024, static 1.21-era snapshot). Its URL/hashes live in our own `builders/fabric/versions.json`. No extra flake input for MC jars.
 
 ## gradle2nix fork knowledge
 
@@ -40,6 +40,19 @@ New files must be `git add -N` before nix sees them (flake requires tracked file
 - Our fork's `nix/init.gradle` carries two generic extras: skip redirecting `file://` repos (toolchain caches) and reproducible archive flags. Keep them loader-agnostic; anything naming "loom" belongs in minecraftpkgs.
 - Mods' Gradle must match the wrapper's major line: pin `gradle_8`/`gradle_9` per env (nixpkgs), never the default `pkgs.gradle`. Loom 1.17+ plugins declare `org.gradle.plugin.api-version` 9.5+ and fail variant resolution on Gradle 8.
 - Drop unrelated loader subprojects via `postPatch` (e.g. sodium's `include("neoforge")`): the recipe builds one loader, and other loaders' subprojects can break configuration under our Gradle.
+
+## Legacy Minecraft via ploceus (modern Loom)
+
+Argentum-style projects target old MC (1.8.9) with **upstream Loom + ploceus**, not ornithe-loom. Cache lives in `caches/fabric-loom` but needs its own inputs, all in `builders/ploceus/`:
+
+- `ornithe-gen2_versions_manifest.json` from `https://ornithemc.net/mc-versions/gen2/version_manifest.json`
+- `<ver>/ornithe-gen2_minecraft_info.json` (the `manifest/` json) and `<ver>/minecraft-details.json` (the `version/` json) — they differ: details has `libraries` as strings, info as objects, and Loom needs the object form
+- `<ver>/library-upgrades.json` = `{"gen2": [names]}` derived from `meta.ornithemc.net/v3/versions/gen2/libraries/<ver>`
+- `osl-base-versions.json` = `{"gen2": {oslVersion: {module: version}}}` derived from `meta.ornithemc.net/v3/versions/gen2/osl/<oslVersion>`
+- `<ver>/calamus-gen2-intermediary-v2.tiny` from `net.ornithemc:calamus-intermediary-gen2`
+- `<ver>/osl-versions.json` has no single endpoint (aggregates per-module lookups) so it is vendored under `builders/ploceus/osl-versions/`
+
+Ploceus treats caches older than a day as stale and re-fetches, falling back to the cache when the download fails, so copies must be fresh (`cp -rL` refreshes mtimes).
 
 ## Loom cache knowledge (Fabric)
 

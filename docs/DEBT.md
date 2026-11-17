@@ -12,7 +12,7 @@ are minimum-version floors, not ceilings — do not rename.
 
 - [ ] Lock run: our `gradle2nix` vs `ornithe-example-mod` (Gradle 7.5.1, JDK 8–18) — expect green, confirm
 - [ ] Normal (non-nix) build once, inspect `~/.gradle/caches` — list everything ornithe-loom fetches outside Maven (MC jars, intermediary/feather mappings, manifest)
-- [ ] Vendor `loaders/ornithe/caches.nix` mirroring `fabric2nix`'s `build-loom-caches.nix`, fed by explicit `minecraftVersion` (no Kotlin fork)
+- [ ] Vendor `builders/ornithe/caches.nix` mirroring `fabric2nix`'s `build-loom-caches.nix`, fed by explicit `minecraftVersion` (no Kotlin fork)
 - [ ] Setup-hook snippet symlinking the cache into `GRADLE_USER_HOME` (check dir name ornithe-loom expects — likely same `fabric-loom`)
 - [ ] Pin `buildJdk` for the 1.8.9 era (Gradle 7.5 runs 8–18; game wants 8 — verify which actually survives Loom's decompile steps)
 - [ ] Sandboxed `nix build` of the example mod, then one real 1.8.9 mod
@@ -21,7 +21,7 @@ are minimum-version floors, not ceilings — do not rename.
 
 - [ ] Lock run vs `CleanroomModTemplate` (Gradle 9.8.1, JDK 17+/21) — stub `tokens.properties` with dummies first
 - [ ] Normal build once, inspect caches — determine whether CleanroomGradle routes MC/MCP/SRG through Maven (lock covers it, nothing to do) or custom downloads (cache layer needed)
-- [ ] If custom: `loaders/cleanroom/caches.nix` + hook, same pattern as above
+- [ ] If custom: `builders/cleanroom/caches.nix` + hook, same pattern as above
 - [ ] Pin `buildJdk` (Gradle 9 needs 17+ to run; mod targets Java 8 bytecode — verify)
 - [ ] Sandboxed `nix build` of the template, then one real 1.12.2 mod
 

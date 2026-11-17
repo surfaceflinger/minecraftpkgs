@@ -1,0 +1,32 @@
+{
+  "manifest": {
+    "url": "https://ornithemc.net/mc-versions/gen2/version_manifest.json",
+    "sha256": "/bpI51YruEFd97LweYQ3AAs9SZKpWvYrIXuTVOOLySM="
+  },
+  "versions": {
+    "1.8.9": {
+      "info": {
+        "url": "https://ornithemc.net/mc-versions/gen2/version/manifest/1.8.9.json",
+        "sha256": "qNVg88W+KsMVXHCaMKAC1kmkKwe9iphTl60hCmw1EaI="
+      },
+      "details": {
+        "url": "https://ornithemc.net/mc-versions/gen2/version/1.8.9.json",
+        "sha256": "LRNyCJJ9FQcg7QRszn7AETtjxTUWU+3xaJZ3r+5anGw="
+      },
+      "libraries": {
+        "url": "https://meta.ornithemc.net/v3/versions/gen2/libraries/1.8.9",
+        "sha256": "TzpLVx7jzahlZu4MTQQVZRDYKqocPRLAjQD83HaH4q0="
+      },
+      "calamus": {
+        "url": "https://maven.ornithemc.net/releases/net/ornithemc/calamus-intermediary-gen2/1.8.9/calamus-intermediary-gen2-1.8.9-v2.jar",
+        "sha256": "RVUqYifEC70XLCszwhMDZcDBVbqu+QahnkrTE/3IiiU="
+      }
+    }
+  },
+  "osl": {
+    "0.22.0": {
+      "url": "https://meta.ornithemc.net/v3/versions/gen2/osl/0.22.0",
+      "sha256": "rA1jBeAFR8PIxzdrzoC01DZ7R8ikapM7OUjkTwjtlGw="
+    }
+  }
+}

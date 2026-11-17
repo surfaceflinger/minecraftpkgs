@@ -1,0 +1,109 @@
+{
+  "gen2": {
+    "core": {
+      "0.11.0": {
+        "merged": "0.11.0+mc14w27a-mc1.14.4"
+      }
+    },
+    "entrypoints": {
+      "0.6.1": {
+        "merged": "0.6.1+mc13w16a-mc1.14.4"
+      }
+    },
+    "lifecycle-events": {
+      "0.6.1": {
+        "merged": "0.6.1+mc13w36a-mc19w07a"
+      }
+    },
+    "executors": {
+      "0.1.0": {
+        "merged": "0.1.0+mc14w21a-mc1.13.2"
+      }
+    },
+    "text-components": {
+      "0.1.0-alpha.6": {
+        "merged": "0.1.0-alpha.6+mc13w36a-mc1.14.4"
+      }
+    },
+    "networking": {
+      "0.10.1": {
+        "merged": "0.10.1+mc13w41a-mc18w30b"
+      }
+    },
+    "networking-impl": {
+      "0.2.1": {
+        "merged": "0.2.1+mc14w31a-mc1.13-pre2"
+      }
+    },
+    "registries": {
+      "0.2.0": {
+        "merged": "0.2.0+mc14w27a-mc17w46a"
+      }
+    },
+    "resource-loader": {
+      "0.8.1": {
+        "merged": "0.8.1+mc1.8.2-pre5-mc1.12.2"
+      }
+    },
+    "localization": {
+      "0.1.2": {
+        "merged": "0.1.2+mc13w26a-mc18w01a"
+      }
+    },
+    "biomes": {
+      "0.1.0": {
+        "merged": "0.1.0+mc1.8.2-pre5-mc15w51b"
+      }
+    },
+    "blockentities": {
+      "0.1.0": {
+        "merged": "0.1.0+mca1.0.1_01-mc1.10.2"
+      }
+    },
+    "blockentities-rendering": {
+      "0.1.0": {
+        "merged": "0.1.0+mca1.0.1_01-mc1.14.4"
+      }
+    },
+    "blockstates": {
+      "0.1.0": {
+        "merged": "0.1.0+mc14w32c-mc1.8.9"
+      }
+    },
+    "blocks": {
+      "0.3.0": {
+        "merged": "0.3.0+mc14w27a-mc15w35a"
+      }
+    },
+    "branding": {
+      "0.4.3": {
+        "merged": "0.4.3+mc14w30a-mc16w05a"
+      }
+    },
+    "config": {
+      "0.6.2": {
+        "merged": "0.6.2+mc14w27a-mc15w39c"
+      }
+    },
+    "entities": {
+      "0.1.0": {
+        "merged": "0.1.0+mc1.8.2-pre5-mc1.10.2"
+      }
+    },
+    "entities-rendering": {
+      "0.1.0": {
+        "merged": "0.1.0+mc14w05a-mc1.14.4"
+      }
+    },
+    "items": {
+      "0.3.0": {
+        "merged": "0.3.0+mc14w26a-mc17w46a"
+      }
+    },
+    "keybinds": {
+      "0.3.0": {
+        "merged": "0.3.0+mc13w36a-mc17w15a"
+      }
+    }
+  }
+}
