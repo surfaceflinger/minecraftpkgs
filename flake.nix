@@ -20,6 +20,12 @@
         let
           pkgs = import inputs.nixpkgs { inherit system; };
           builders = inputs.gradle2nix.builders.${system};
+          loaders = {
+            fabric = pkgs.callPackage ./loaders/fabric/build.nix {
+              inherit (builders) buildGradlePackage;
+            };
+          };
+          mkMod = pkgs.callPackage ./lib/mkMod.nix { inherit loaders; };
         in
         {
           packages = {
@@ -27,13 +33,17 @@
             loom-cache-1_20_2 = pkgs.callPackage ./loaders/fabric/caches.nix { } {
               minecraftVersion = "1.20.2";
             };
+            loom-cache-26_3 = pkgs.callPackage ./loaders/fabric/caches.nix { } {
+              minecraftVersion = "26.3";
+            };
             fabric-loader = pkgs.callPackage ./packages/loaders/fabric-loader {
               inherit (builders) buildGradlePackage;
               loomCache = pkgs.callPackage ./loaders/fabric/caches.nix { } {
                 minecraftVersion = "1.20.2";
               };
             };
-          };
+          }
+          // pkgs.callPackage ./packages/mods/fabric-api { inherit mkMod; };
         };
     };
 }
