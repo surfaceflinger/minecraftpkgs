@@ -5,7 +5,10 @@
   unzip,
 }:
 
-{ minecraftVersion }:
+{
+  minecraftVersion,
+  fabricApiVersion ? null,
+}:
 
 let
   versions = lib.importJSON ./versions.json;
@@ -13,6 +16,18 @@ let
   version =
     versions.versions.${minecraftVersion}
       or (throw "unknown minecraft version ${minecraftVersion}, add it to loaders/fabric/versions.json");
+
+  fabricApi =
+    if fabricApiVersion == null then
+      null
+    else
+      versions.fabricApi.${fabricApiVersion}
+        or (throw "unknown fabric-api version ${fabricApiVersion}, add it to loaders/fabric/versions.json");
+
+  # Main POM maps current module names; deprecated POM is loom's fallback.
+  fabricApiPom = if fabricApi == null then null else fetchurl { inherit (fabricApi) url sha256; };
+  fabricApiDeprecatedPom =
+    if fabricApi == null || !(fabricApi ? deprecated) then null else fetchurl fabricApi.deprecated;
 
   manifest = fetchurl versions.manifest;
   clientJar = fetchurl version.clientJar;
@@ -55,6 +70,8 @@ stdenv.mkDerivation {
     serverJar
     versionInfo
     intermediary
+    fabricApiPom
+    fabricApiDeprecatedPom
     ;
 
   installPhase = ''
@@ -70,5 +87,13 @@ stdenv.mkDerivation {
   ''
   + lib.optionalString (intermediary != null) ''
     ln -s $intermediary $out/${minecraftVersion}/intermediary-v2.tiny
+  ''
+  + lib.optionalString (fabricApiPom != null) ''
+    mkdir -p $out/fabric-api
+    ln -s $fabricApiPom $out/fabric-api/fabric-api-${fabricApiVersion}.pom
+  ''
+  + lib.optionalString (fabricApiDeprecatedPom != null) ''
+    mkdir -p $out/fabric-api
+    ln -s $fabricApiDeprecatedPom $out/fabric-api/fabric-api-deprecated-${fabricApiVersion}.pom
   '';
 }

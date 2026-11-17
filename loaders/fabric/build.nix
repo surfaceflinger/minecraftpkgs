@@ -10,10 +10,12 @@
   src,
   lockFile,
   minecraftVersion,
+  fabricApiVersion ? null,
   buildJdk ? null,
   gradle ? null,
   gradleInstallFlags ? [ "assemble" ],
   gradleFlags ? [ ],
+  postPatch ? "",
   postInstall,
 }:
 
@@ -27,13 +29,14 @@ buildGradlePackage {
     buildJdk
     gradle
     postInstall
+    postPatch
     ;
 
   # Everything (deps + MC files) is vendored; the sandbox has no network.
   gradleFlags = [ "--offline" ] ++ gradleFlags;
 
   # Loom resolves MC outside Maven; feed it the offline cache.
-  loomDependencies = callPackage ./caches.nix { } { inherit minecraftVersion; };
+  loomDependencies = callPackage ./caches.nix { } { inherit minecraftVersion fabricApiVersion; };
   postConfigure = ''
     mkdir -p "$GRADLE_USER_HOME/caches"
     cp -r "$loomDependencies" "$GRADLE_USER_HOME/caches/fabric-loom"

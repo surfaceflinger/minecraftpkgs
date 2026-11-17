@@ -3,6 +3,16 @@
     "url": "https://piston-meta.mojang.com/mc/game/version_manifest_v2.json",
     "sha256": "8nMm/hNJItHJg9NeItZQjI0Ok8eQtguVKIY7CFzvG6Y="
   },
+  "fabricApi": {
+    "0.160.5+26.3": {
+      "url": "https://maven.fabricmc.net/net/fabricmc/fabric-api/fabric-api/0.160.5+26.3/fabric-api-0.160.5+26.3.pom",
+      "sha256": "w+iSvRKiIoLXoHdfS/ETBhseluVoVHh8GWFIoXg08Og=",
+      "deprecated": {
+        "url": "https://maven.fabricmc.net/net/fabricmc/fabric-api/fabric-api-deprecated/0.160.5+26.3/fabric-api-deprecated-0.160.5+26.3.pom",
+        "sha256": "g0x65TDi+vUVmmUq0YV4Pj480a3eqofQKMURq58oac4="
+      }
+    }
+  },
   "versions": {
     "26.3": {
       "manifest": {
