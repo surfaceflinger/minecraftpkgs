@@ -44,11 +44,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1794872223,
-        "narHash": "sha256-ACyxibhdogGEmcumjkmgQ8tiNN0UpL0HeykM3nM0muY=",
+        "lastModified": 1794921648,
+        "narHash": "sha256-h0xsGOiBR+CPmvWeqG5FruBVIequA/tzcEqW/SuoYEQ=",
         "owner": "surfaceflinger",
         "repo": "gradle2nix",
-        "rev": "8d600848b90c16a52f52e25e187846dfd8bbd18a",
+        "rev": "57dd46435d73eb965466291331b2cc135106ffcd",
         "type": "github"
       },
       "original": {

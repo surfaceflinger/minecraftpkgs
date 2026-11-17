@@ -24,17 +24,25 @@
             fabric = pkgs.callPackage ./loaders/fabric/build.nix {
               inherit (builders) buildGradlePackage;
             };
+            ornithe = pkgs.callPackage ./loaders/ornithe/build.nix {
+              inherit (builders) buildGradlePackage;
+            };
           };
           mkMod = pkgs.callPackage ./lib/mkMod.nix { inherit loaders; };
+          gradle7 = pkgs.callPackage ./packages/devel/gradle_7 { };
         in
         {
           packages = {
             inherit (inputs.gradle2nix.packages.${system}) gradle2nix;
+            gradle_7 = gradle7;
             loom-cache-1_20_2 = pkgs.callPackage ./loaders/fabric/caches.nix { } {
               minecraftVersion = "1.20.2";
             };
             loom-cache-26_3 = pkgs.callPackage ./loaders/fabric/caches.nix { } {
               minecraftVersion = "26.3";
+            };
+            loom-cache-ornithe-1_8_9 = pkgs.callPackage ./loaders/ornithe/caches.nix { } {
+              minecraftVersion = "1.8.9";
             };
             fabric-loader = pkgs.callPackage ./packages/loaders/fabric-loader {
               inherit (builders) buildGradlePackage;
@@ -44,7 +52,11 @@
             };
           }
           // pkgs.callPackage ./packages/mods/fabric-api { inherit mkMod; }
-          // pkgs.callPackage ./packages/mods/sodium { inherit mkMod; };
+          // pkgs.callPackage ./packages/mods/sodium { inherit mkMod; }
+          // pkgs.callPackage ./packages/mods/ornithe-example-mod {
+            inherit mkMod;
+            gradle_7' = gradle7;
+          };
         };
     };
 }

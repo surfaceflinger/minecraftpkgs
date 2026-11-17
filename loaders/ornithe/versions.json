@@ -1,0 +1,26 @@
+{
+  "manifest": {
+    "url": "https://piston-meta.mojang.com/mc/game/version_manifest_v2.json",
+    "sha256": "8nMm/hNJItHJg9NeItZQjI0Ok8eQtguVKIY7CFzvG6Y="
+  },
+  "versions": {
+    "1.8.9": {
+      "manifest": {
+        "url": "https://piston-meta.mojang.com/v1/packages/d546f1707a3f2b7d034eece5ea2e311eda875787/1.8.9.json",
+        "sha256": "NBr19HprW8E3v+aB9PNTPggQQSkKq7+dfr6umIHedo8="
+      },
+      "clientJar": {
+        "url": "https://launcher.mojang.com/v1/objects/3870888a6c3d349d3771a3e9d16c9bf5e076b908/client.jar",
+        "sha256": "FPDZbRpW+09cOyIz0AaZUliT/lzj3PGB595ZEgWV0pg="
+      },
+      "serverJar": {
+        "url": "https://launcher.mojang.com/v1/objects/b58b2ceb36e01bcd8dbf49c8fb66c55a9f0676cd/server.jar",
+        "sha256": "wY5CRQc6r/WA63NZkC8CUUNlaLFkep5EOpJM23P6gxI="
+      },
+      "calamus": {
+        "url": "https://maven.ornithemc.net/releases/net/ornithemc/calamus/1.8.9/calamus-1.8.9-v2.jar",
+        "sha256": "/JuRup/5Y23IDJQWfMgI9ozUo89UU6S/vtAqd5PSQlU="
+      }
+    }
+  }
+}
