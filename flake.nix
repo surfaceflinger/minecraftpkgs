@@ -38,6 +38,7 @@
           packages = {
             inherit (inputs.gradle2nix.packages.${system}) gradle2nix;
             gradle_7 = gradle7;
+            neoforge = pkgs.callPackage ./packages/loaders/neoforge { };
             loom-cache-1_20_2 = pkgs.callPackage ./builders/fabric/caches.nix { } {
               minecraftVersion = "1.20.2";
             };
