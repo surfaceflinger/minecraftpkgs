@@ -35,11 +35,25 @@ are minimum-version floors, not ceilings — do not rename.
 
 Loaders run across MC versions, so no matrix: `version + src + lock`.
 
-- [ ] `packages/loaders/fabric-loader/` (first, easiest)
+- [x] `packages/loaders/fabric-loader/`
+- [x] `packages/loaders/neoforge/` (universal jar only)
 - [ ] `packages/loaders/quilt-loader/`
-- [ ] Forge/NeoForge installers last — likely prebuilt fat jars, so plain
-  `fetchurl` packages, not source builds. No installer/launch-wrapping
-  scope beyond that.
+- [ ] Forge — prebuilt fat jar, plain `fetchurl`
+
+### Launch closure (needed before Prism instance export)
+
+An instance zip must be launchable offline, which needs more than the loader jar:
+
+- [ ] Decide per loader: vendor the full runtime closure, or emit only the version
+  (`mmc-pack.json` component) and let Prism download it. Vendoring is the only
+  offline-reproducible option, and the user wants that.
+- [ ] NeoForge: `universal.jar` + the `version.json` inside the installer
+  (libraries, `mainClass`, JVM/game args) + FML/bootstraplauncher libraries.
+  The installer is *not* wanted as a package; only its metadata matters.
+- [ ] Fabric: `fabric-loader` jar + `fabric-loader.json` profile (libraries, mainClass).
+- [ ] Per-version: MC client jar, asset index + assets objects, natives.
+- [ ] Instance metadata: `mmc-pack.json` (component + version), `instance.cfg`,
+  mods/config overrides.
 
 ## Resourcepacks / datapacks (MC-version table, no loader axis, no build)
 

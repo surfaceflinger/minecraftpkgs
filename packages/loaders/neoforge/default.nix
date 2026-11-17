@@ -11,7 +11,6 @@ stdenv.mkDerivation {
   pname = "neoforge";
   inherit version;
 
-  # The loader jar; the installer is the same artifacts plus install logic.
   src = fetchurl {
     url = "https://maven.neoforged.net/releases/net/neoforged/neoforge/${version}/neoforge-${version}-universal.jar";
     hash = "sha256-Twpo1U/ugzu4ARnq5lrSTnlgUz54voW4htS2IPicMxA=";
