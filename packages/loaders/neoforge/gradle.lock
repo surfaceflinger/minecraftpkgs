@@ -1,0 +1,2866 @@
+{
+  "at.yawk.lz4:lz4-java:1.10.1": {
+    "lz4-java-1.10.1.jar": {
+      "url": "https://libraries.minecraft.net/at/yawk/lz4/lz4-java/1.10.1/lz4-java-1.10.1.jar",
+      "hash": "sha256-pYqExCceUN9Mlu2RbMt+SKhp+O2c3Noa1dPUwzsCFKM="
+    },
+    "lz4-java-1.10.1.pom": {
+      "url": "https://libraries.minecraft.net/at/yawk/lz4/lz4-java/1.10.1/lz4-java-1.10.1.pom",
+      "hash": "sha256-VEI2lbOnXGfp2tA4LBsw2vgIsy+deOvNMCIPAK5GaYA="
+    }
+  },
+  "ca.weblite:java-objc-bridge:1.1": {
+    "java-objc-bridge-1.1.jar": {
+      "url": "https://libraries.minecraft.net/ca/weblite/java-objc-bridge/1.1/java-objc-bridge-1.1.jar",
+      "hash": "sha256-d+NKE7zP/GyLGg4+1G3bDqfdVvIQTs36yq7J5AVKwzI="
+    },
+    "java-objc-bridge-1.1.pom": {
+      "url": "https://libraries.minecraft.net/ca/weblite/java-objc-bridge/1.1/java-objc-bridge-1.1.pom",
+      "hash": "sha256-iM3eabiUjaMW4Tes2EO/25VcNoXIe1p+yg2mcziviWo="
+    }
+  },
+  "com.azure:azure-client-sdk-parent:1.7.0": {
+    "azure-client-sdk-parent-1.7.0.pom": {
+      "url": "https://maven.neoforged.net/releases/com/azure/azure-client-sdk-parent/1.7.0/azure-client-sdk-parent-1.7.0.pom",
+      "hash": "sha256-wefnVlRCMD/1TD6GNXTreh9pIR2EX6Q1/thCgxNL0Uo="
+    }
+  },
+  "com.azure:azure-json:1.4.0": {
+    "azure-json-1.4.0.jar": {
+      "url": "https://libraries.minecraft.net/com/azure/azure-json/1.4.0/azure-json-1.4.0.jar",
+      "hash": "sha256-xQvJmM0abGifhkS1HCBiF78toJ1blJ53dJCmApDMOg0="
+    },
+    "azure-json-1.4.0.pom": {
+      "url": "https://libraries.minecraft.net/com/azure/azure-json/1.4.0/azure-json-1.4.0.pom",
+      "hash": "sha256-i8sJaTkZWuBRD6AMRQP9fTYGtPh031HwAzsfjk16MRc="
+    }
+  },
+  "com.azure:azure-sdk-parent:1.6.0": {
+    "azure-sdk-parent-1.6.0.pom": {
+      "url": "https://maven.neoforged.net/releases/com/azure/azure-sdk-parent/1.6.0/azure-sdk-parent-1.6.0.pom",
+      "hash": "sha256-mDP57zl7whd1s4m+gWtWpomRiCIKJa0qQ4mwk2UDnJY="
+    }
+  },
+  "com.electronwill.night-config:core:3.9.0": {
+    "core-3.9.0.jar": {
+      "url": "https://maven.neoforged.net/releases/com/electronwill/night-config/core/3.9.0/core-3.9.0.jar",
+      "hash": "sha256-zYkFIL08aAz4LnnxYHHenI82cgai+EHHd9lEKJ80Prw="
+    },
+    "core-3.9.0.module": {
+      "url": "https://maven.neoforged.net/releases/com/electronwill/night-config/core/3.9.0/core-3.9.0.module",
+      "hash": "sha256-sxEMLwnUktu5woSFpnjHXBirwZCQ4ipw0FNmHHjKqVg="
+    },
+    "core-3.9.0.pom": {
+      "url": "https://maven.neoforged.net/releases/com/electronwill/night-config/core/3.9.0/core-3.9.0.pom",
+      "hash": "sha256-U6FSTeroDWQfQqf+GTr7oUrI2Mkld+F/COarY3/gBBM="
+    }
+  },
+  "com.electronwill.night-config:core:3.8.0": {
+    "core-3.8.0.jar": {
+      "url": "https://maven.neoforged.net/releases/com/electronwill/night-config/core/3.8.0/core-3.8.0.jar",
+      "hash": "sha256-gt4oY5b7xkAgWn7r4eSgWn5W95FebuIHaAy/O9EsvFw="
+    },
+    "core-3.8.0.module": {
+      "url": "https://maven.neoforged.net/releases/com/electronwill/night-config/core/3.8.0/core-3.8.0.module",
+      "hash": "sha256-qFlSpJmekJ+F9gujHSEMu+k0hzEB4AUItaxABccYzUk="
+    },
+    "core-3.8.0.pom": {
+      "url": "https://maven.neoforged.net/releases/com/electronwill/night-config/core/3.8.0/core-3.8.0.pom",
+      "hash": "sha256-gm91ljUhebJPUVQK0vfUdHzFk0X7Am4297I3asvYXkY="
+    }
+  },
+  "com.electronwill.night-config:toml:3.9.0": {
+    "toml-3.9.0.jar": {
+      "url": "https://maven.neoforged.net/releases/com/electronwill/night-config/toml/3.9.0/toml-3.9.0.jar",
+      "hash": "sha256-R15vozFWGSlNWrdPLrgPBwUSnUPmUtPM1TN8d9Cimms="
+    },
+    "toml-3.9.0.module": {
+      "url": "https://maven.neoforged.net/releases/com/electronwill/night-config/toml/3.9.0/toml-3.9.0.module",
+      "hash": "sha256-awaskoTw2qGUZCY4UrBMuk535tEZPMvgaTruSolkD+E="
+    },
+    "toml-3.9.0.pom": {
+      "url": "https://maven.neoforged.net/releases/com/electronwill/night-config/toml/3.9.0/toml-3.9.0.pom",
+      "hash": "sha256-zTqg6oElir/HMFk4ALvVp1ikD6epESMjPIbvHDxnNL8="
+    }
+  },
+  "com.electronwill.night-config:toml:3.8.0": {
+    "toml-3.8.0.jar": {
+      "url": "https://maven.neoforged.net/releases/com/electronwill/night-config/toml/3.8.0/toml-3.8.0.jar",
+      "hash": "sha256-JxoPBPe1sxVTEq0tNYj8b8xjEtQeco8CMYozeUt3qsY="
+    },
+    "toml-3.8.0.module": {
+      "url": "https://maven.neoforged.net/releases/com/electronwill/night-config/toml/3.8.0/toml-3.8.0.module",
+      "hash": "sha256-NEICSfHP9u94G+7SO9yz0J3Bjv1EjM8Fk3+4P+7BrFE="
+    },
+    "toml-3.8.0.pom": {
+      "url": "https://maven.neoforged.net/releases/com/electronwill/night-config/toml/3.8.0/toml-3.8.0.pom",
+      "hash": "sha256-vULx/wpHEuXFSlDhHfDv+SKCPEfB9WWZauvcHLeWX5c="
+    }
+  },
+  "com.fasterxml:oss-parent:69": {
+    "oss-parent-69.pom": {
+      "url": "https://maven.neoforged.net/releases/com/fasterxml/oss-parent/69/oss-parent-69.pom",
+      "hash": "sha256-OFbVhKqhyOM86UxnJE9x9vcFOKJZ/+jngXYbn6qth18="
+    }
+  },
+  "com.fasterxml:oss-parent:56": {
+    "oss-parent-56.pom": {
+      "url": "https://maven.neoforged.net/releases/com/fasterxml/oss-parent/56/oss-parent-56.pom",
+      "hash": "sha256-/UkfeIV0JBBtLj1gW815m1PTGlZc3IaEY8p+h120WlA="
+    }
+  },
+  "com.fasterxml.jackson:jackson-bom:2.19.2": {
+    "jackson-bom-2.19.2.pom": {
+      "url": "https://maven.neoforged.net/releases/com/fasterxml/jackson/jackson-bom/2.19.2/jackson-bom-2.19.2.pom",
+      "hash": "sha256-IgBr5w/QGAmemcbCesCYIyDzoPPCzgU8VXA1eaXuowM="
+    }
+  },
+  "com.fasterxml.jackson:jackson-bom:2.16.0": {
+    "jackson-bom-2.16.0.pom": {
+      "url": "https://maven.neoforged.net/releases/com/fasterxml/jackson/jackson-bom/2.16.0/jackson-bom-2.16.0.pom",
+      "hash": "sha256-Wqooh0QFvwT7qOLFcVkieCRGG6b31VKr246NOgum+L8="
+    }
+  },
+  "com.fasterxml.jackson:jackson-parent:2.19.3": {
+    "jackson-parent-2.19.3.pom": {
+      "url": "https://maven.neoforged.net/releases/com/fasterxml/jackson/jackson-parent/2.19.3/jackson-parent-2.19.3.pom",
+      "hash": "sha256-I9GGyNjNBgFdAixxDHFUI9Zg1J4pc7FYcLApzCYBhoI="
+    }
+  },
+  "com.fasterxml.jackson:jackson-parent:2.16": {
+    "jackson-parent-2.16.pom": {
+      "url": "https://maven.neoforged.net/releases/com/fasterxml/jackson/jackson-parent/2.16/jackson-parent-2.16.pom",
+      "hash": "sha256-i/YUKBIUiiq/aFCycvCvTD2P8RIe1gTEAvPzjJ5lRqs="
+    }
+  },
+  "com.github.oshi:oshi-core:6.9.0": {
+    "oshi-core-6.9.0.jar": {
+      "url": "https://libraries.minecraft.net/com/github/oshi/oshi-core/6.9.0/oshi-core-6.9.0.jar",
+      "hash": "sha256-spupvOBB5uqCIgPVtaaSZgyHVRJBUQ68du7f/mhIRMc="
+    },
+    "oshi-core-6.9.0.pom": {
+      "url": "https://libraries.minecraft.net/com/github/oshi/oshi-core/6.9.0/oshi-core-6.9.0.pom",
+      "hash": "sha256-TiCHGVy18bO+UjV5md7zYBzacCQPT2Swj/vD2xHT/t8="
+    }
+  },
+  "com.github.oshi:oshi-parent:6.9.0": {
+    "oshi-parent-6.9.0.pom": {
+      "url": "https://maven.neoforged.net/releases/com/github/oshi/oshi-parent/6.9.0/oshi-parent-6.9.0.pom",
+      "hash": "sha256-fpPEREL+uMe+yFvKnhY/2yjLin8QCj1En1mA64b4yPA="
+    }
+  },
+  "com.google.code.findbugs:jsr305:3.0.2": {
+    "jsr305-3.0.2.jar": {
+      "url": "https://plugins.gradle.org/m2/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar",
+      "hash": "sha256-dmrSoHg/JoeWLIrXTO7MOKKLn3Ki0IXuQ4t4E+ko0Mc="
+    },
+    "jsr305-3.0.2.pom": {
+      "url": "https://maven.neoforged.net/releases/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.pom",
+      "hash": "sha256-GYidvfGyVLJgGl7mRbgUepdGRIgil2hMeYr+XWPXjf4="
+    }
+  },
+  "com.google.code.gson:gson:2.14.0": {
+    "gson-2.14.0.jar": {
+      "url": "https://plugins.gradle.org/m2/com/google/code/gson/gson/2.14.0/gson-2.14.0.jar",
+      "hash": "sha256-LL0Rm/GWHCh4gxCWPcgLpl9Yze7B3ROci9sSQPqiw28="
+    },
+    "gson-2.14.0.pom": {
+      "url": "https://plugins.gradle.org/m2/com/google/code/gson/gson/2.14.0/gson-2.14.0.pom",
+      "hash": "sha256-H6ASLA43MxkmQoYcNr5Mb3maeVMnojvdKSJpG26bpIA="
+    }
+  },
+  "com.google.code.gson:gson:2.11.0": {
+    "gson-2.11.0.jar": {
+      "url": "https://plugins.gradle.org/m2/com/google/code/gson/gson/2.11.0/gson-2.11.0.jar",
+      "hash": "sha256-V5KNblpu3rKr03cKj5W6RNzkXzsjt6ncKzCcWBVSp4s="
+    },
+    "gson-2.11.0.pom": {
+      "url": "https://plugins.gradle.org/m2/com/google/code/gson/gson/2.11.0/gson-2.11.0.pom",
+      "hash": "sha256-wOVHvqmYiI5uJcWIapDnYicryItSdTQ90sBd7Wyi42A="
+    }
+  },
+  "com.google.code.gson:gson:2.10.1": {
+    "gson-2.10.1.jar": {
+      "url": "https://libraries.minecraft.net/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar",
+      "hash": "sha256-QkHBSncnw0/uplB+yAExij1KkPBw5FJWgQefuU7kxZM="
+    },
+    "gson-2.10.1.pom": {
+      "url": "https://libraries.minecraft.net/com/google/code/gson/gson/2.10.1/gson-2.10.1.pom",
+      "hash": "sha256-0rEVY09cCF20ucn/wmWOieIx/b++IkISGhzZXU2Ujdc="
+    }
+  },
+  "com.google.code.gson:gson:2.10": {
+    "gson-2.10.pom": {
+      "url": "https://libraries.minecraft.net/com/google/code/gson/gson/2.10/gson-2.10.pom",
+      "hash": "sha256-rGnZ8lQmDK6rOZjqrWDzVVmcJRIeGVFWv9/8ijVfxr0="
+    }
+  },
+  "com.google.code.gson:gson:2.8.9": {
+    "gson-2.8.9.pom": {
+      "url": "https://libraries.minecraft.net/com/google/code/gson/gson/2.8.9/gson-2.8.9.pom",
+      "hash": "sha256-r97W5qaQ+/OtSuZa2jl/CpCl9jCzA9G3QbnJeSb91N4="
+    }
+  },
+  "com.google.code.gson:gson-parent:2.14.0": {
+    "gson-parent-2.14.0.pom": {
+      "url": "https://plugins.gradle.org/m2/com/google/code/gson/gson-parent/2.14.0/gson-parent-2.14.0.pom",
+      "hash": "sha256-grD2aUxXWKuLsH4FYwII1Q9YnUteBP0KBG1Zzfe6PR0="
+    }
+  },
+  "com.google.code.gson:gson-parent:2.11.0": {
+    "gson-parent-2.11.0.pom": {
+      "url": "https://plugins.gradle.org/m2/com/google/code/gson/gson-parent/2.11.0/gson-parent-2.11.0.pom",
+      "hash": "sha256-issfO3Km8CaRasBzW62aqwKT1Sftt7NlMn3vE6k2e3o="
+    }
+  },
+  "com.google.code.gson:gson-parent:2.10.1": {
+    "gson-parent-2.10.1.pom": {
+      "url": "https://maven.neoforged.net/releases/com/google/code/gson/gson-parent/2.10.1/gson-parent-2.10.1.pom",
+      "hash": "sha256-QkjgiCQmxhUYI4XWCGw+8yYudplXGJ4pMGKAuFSCuDM="
+    }
+  },
+  "com.google.code.gson:gson-parent:2.10": {
+    "gson-parent-2.10.pom": {
+      "url": "https://maven.neoforged.net/releases/com/google/code/gson/gson-parent/2.10/gson-parent-2.10.pom",
+      "hash": "sha256-+1OsCwbBkRbKYaw0S03+inwpzE+Bs1POiJSTpQOQBPs="
+    }
+  },
+  "com.google.code.gson:gson-parent:2.8.9": {
+    "gson-parent-2.8.9.pom": {
+      "url": "https://maven.neoforged.net/releases/com/google/code/gson/gson-parent/2.8.9/gson-parent-2.8.9.pom",
+      "hash": "sha256-sW4CbmNCfBlyrQ/GhwPsN5sVduQRuknDL6mjGrC7z/s="
+    }
+  },
+  "com.google.errorprone:error_prone_annotations:2.48.0": {
+    "error_prone_annotations-2.48.0.jar": {
+      "url": "https://plugins.gradle.org/m2/com/google/errorprone/error_prone_annotations/2.48.0/error_prone_annotations-2.48.0.jar",
+      "hash": "sha256-tJxclYMW7WegnGmd2pqnScr0NNUdhj3qWZ7zakm5yFU="
+    },
+    "error_prone_annotations-2.48.0.pom": {
+      "url": "https://plugins.gradle.org/m2/com/google/errorprone/error_prone_annotations/2.48.0/error_prone_annotations-2.48.0.pom",
+      "hash": "sha256-GJ4JrQSJwyXpDaqp1cj0BjMGAvo2Zgm8oHy82tA6udo="
+    }
+  },
+  "com.google.errorprone:error_prone_annotations:2.27.0": {
+    "error_prone_annotations-2.27.0.jar": {
+      "url": "https://plugins.gradle.org/m2/com/google/errorprone/error_prone_annotations/2.27.0/error_prone_annotations-2.27.0.jar",
+      "hash": "sha256-JMkjNyxY410LnxagKJKbua7cd1IYZ8J08r0HNd9bofU="
+    },
+    "error_prone_annotations-2.27.0.pom": {
+      "url": "https://plugins.gradle.org/m2/com/google/errorprone/error_prone_annotations/2.27.0/error_prone_annotations-2.27.0.pom",
+      "hash": "sha256-TKWjXWEjXhZUmsNG0eNFUc3w/ifoSqV+A8vrJV6k5do="
+    }
+  },
+  "com.google.errorprone:error_prone_annotations:2.11.0": {
+    "error_prone_annotations-2.11.0.pom": {
+      "url": "https://maven.neoforged.net/releases/com/google/errorprone/error_prone_annotations/2.11.0/error_prone_annotations-2.11.0.pom",
+      "hash": "sha256-AmHKAfLS6awq4uznXULFYyOzhfspS2vJQ/Yu9Okt3wg="
+    }
+  },
+  "com.google.errorprone:error_prone_parent:2.48.0": {
+    "error_prone_parent-2.48.0.pom": {
+      "url": "https://plugins.gradle.org/m2/com/google/errorprone/error_prone_parent/2.48.0/error_prone_parent-2.48.0.pom",
+      "hash": "sha256-sz+opFyfF5SlAIwLLYOoTrKLXQEXptFW8AP58JvnQQ8="
+    }
+  },
+  "com.google.errorprone:error_prone_parent:2.27.0": {
+    "error_prone_parent-2.27.0.pom": {
+      "url": "https://plugins.gradle.org/m2/com/google/errorprone/error_prone_parent/2.27.0/error_prone_parent-2.27.0.pom",
+      "hash": "sha256-+oGCnQSVWd9pJ/nJpv1rvQn4tQ5tRzaucsgwC2w9dlQ="
+    }
+  },
+  "com.google.errorprone:error_prone_parent:2.11.0": {
+    "error_prone_parent-2.11.0.pom": {
+      "url": "https://maven.neoforged.net/releases/com/google/errorprone/error_prone_parent/2.11.0/error_prone_parent-2.11.0.pom",
+      "hash": "sha256-goPwy0TGJKedMwtv2AuLinFaaLNoXJqVHD3oN9RUBVE="
+    }
+  },
+  "com.google.guava:failureaccess:1.0.3": {
+    "failureaccess-1.0.3.jar": {
+      "url": "https://libraries.minecraft.net/com/google/guava/failureaccess/1.0.3/failureaccess-1.0.3.jar",
+      "hash": "sha256-y/w5BrGbj1XdfP1t/gqkUy6DQlDX8IC9jSEaPiRrWcs="
+    },
+    "failureaccess-1.0.3.pom": {
+      "url": "https://libraries.minecraft.net/com/google/guava/failureaccess/1.0.3/failureaccess-1.0.3.pom",
+      "hash": "sha256-xUvv839tQtQ+FHItVKUiya1R75f8W3knfmKj6/iC87s="
+    }
+  },
+  "com.google.guava:failureaccess:1.0.1": {
+    "failureaccess-1.0.1.jar": {
+      "url": "https://plugins.gradle.org/m2/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar",
+      "hash": "sha256-oXHuTHNN0tqDfksWvp30Zhr6typBra8x64Tf2vk2yiY="
+    },
+    "failureaccess-1.0.1.pom": {
+      "url": "https://plugins.gradle.org/m2/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.pom",
+      "hash": "sha256-6WBCznj+y6DaK+lkUilHyHtAopG1/TzWcqQ0kkEDxLk="
+    }
+  },
+  "com.google.guava:guava:33.6.0-jre": {
+    "guava-33.6.0-jre.jar": {
+      "url": "https://libraries.minecraft.net/com/google/guava/guava/33.6.0-jre/guava-33.6.0-jre.jar",
+      "hash": "sha256-3Fc+H8pP1UVPSl/T19ot8DACh2pBdbr8FKlZgN13E7M="
+    },
+    "guava-33.6.0-jre.pom": {
+      "url": "https://libraries.minecraft.net/com/google/guava/guava/33.6.0-jre/guava-33.6.0-jre.pom",
+      "hash": "sha256-tFt4lEKABUMRxT2pJwgJ+0Dcq8QIzmbOVXMAmbT1fTI="
+    }
+  },
+  "com.google.guava:guava:31.1-jre": {
+    "guava-31.1-jre.jar": {
+      "url": "https://plugins.gradle.org/m2/com/google/guava/guava/31.1-jre/guava-31.1-jre.jar",
+      "hash": "sha256-pC7cnKt5Ljn+ObuU8/ymVe0Vf/h6iveOHWulsHxKAKs="
+    },
+    "guava-31.1-jre.pom": {
+      "url": "https://plugins.gradle.org/m2/com/google/guava/guava/31.1-jre/guava-31.1-jre.pom",
+      "hash": "sha256-kZPQe/T2YBCNc1jliyfSG0TjToDWc06Y4hkWN28nDeI="
+    }
+  },
+  "com.google.guava:guava-parent:33.6.0-jre": {
+    "guava-parent-33.6.0-jre.pom": {
+      "url": "https://maven.neoforged.net/releases/com/google/guava/guava-parent/33.6.0-jre/guava-parent-33.6.0-jre.pom",
+      "hash": "sha256-N0vTH2Gxz2Er7pqy5NcLvfd92FpJtDH4CdT73JAfLdQ="
+    }
+  },
+  "com.google.guava:guava-parent:33.4.0-android": {
+    "guava-parent-33.4.0-android.pom": {
+      "url": "https://maven.neoforged.net/releases/com/google/guava/guava-parent/33.4.0-android/guava-parent-33.4.0-android.pom",
+      "hash": "sha256-ciDt5hAmWW+8cg7kuTJG+i0U8ygFhTK1nvBT3jl8fYM="
+    }
+  },
+  "com.google.guava:guava-parent:31.1-jre": {
+    "guava-parent-31.1-jre.pom": {
+      "url": "https://plugins.gradle.org/m2/com/google/guava/guava-parent/31.1-jre/guava-parent-31.1-jre.pom",
+      "hash": "sha256-RDliZ4O0StJe8F/wdiHdS7eWzE608pZqSkYf6kEw4Pw="
+    }
+  },
+  "com.google.guava:guava-parent:26.0-android": {
+    "guava-parent-26.0-android.pom": {
+      "url": "https://maven.neoforged.net/releases/com/google/guava/guava-parent/26.0-android/guava-parent-26.0-android.pom",
+      "hash": "sha256-+GmKtGypls6InBr8jKTyXrisawNNyJjUWDdCNgAWzAQ="
+    }
+  },
+  "com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava": {
+    "listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar": {
+      "url": "https://plugins.gradle.org/m2/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar",
+      "hash": "sha256-s3KgN9QjCqV/vv/e8w/WEj+cDC24XQrO0AyRuXTzP5k="
+    },
+    "listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.pom": {
+      "url": "https://plugins.gradle.org/m2/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.pom",
+      "hash": "sha256-GNSx2yYVPU5VB5zh92ux/gXNuGLvmVSojLzE/zi4Z5s="
+    }
+  },
+  "com.google.j2objc:j2objc-annotations:3.1": {
+    "j2objc-annotations-3.1.jar": {
+      "url": "https://maven.neoforged.net/releases/com/google/j2objc/j2objc-annotations/3.1/j2objc-annotations-3.1.jar",
+      "hash": "sha256-hNOhUFGEhfgUDqmbiphWVnSWKfZDPJK4DHWzaro7CZs="
+    },
+    "j2objc-annotations-3.1.pom": {
+      "url": "https://maven.neoforged.net/releases/com/google/j2objc/j2objc-annotations/3.1/j2objc-annotations-3.1.pom",
+      "hash": "sha256-FFcIOFAANPwbR8ggXOHJ1rJVwczdLRr9zcv3XomySjM="
+    }
+  },
+  "com.google.j2objc:j2objc-annotations:1.3": {
+    "j2objc-annotations-1.3.jar": {
+      "url": "https://plugins.gradle.org/m2/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.jar",
+      "hash": "sha256-Ia8wySJnvWEiwOC00gzMtmQaN+r5VsZUDsRx1YTmSns="
+    },
+    "j2objc-annotations-1.3.pom": {
+      "url": "https://maven.neoforged.net/releases/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.pom",
+      "hash": "sha256-X6yoJLoRW+5FhzAzff2y/OpGui/XdNQwTtvzD6aj8FU="
+    }
+  },
+  "com.googlecode.javaewah:JavaEWAH:1.2.3": {
+    "JavaEWAH-1.2.3.jar": {
+      "url": "https://plugins.gradle.org/m2/com/googlecode/javaewah/JavaEWAH/1.2.3/JavaEWAH-1.2.3.jar",
+      "hash": "sha256-1lImlJcTxMYaeE9BxRFn57Axb5N2Q5jrup5DNrPZVMI="
+    },
+    "JavaEWAH-1.2.3.pom": {
+      "url": "https://plugins.gradle.org/m2/com/googlecode/javaewah/JavaEWAH/1.2.3/JavaEWAH-1.2.3.pom",
+      "hash": "sha256-5O1sZpYgNm+ZOSBln+CsfLyD11PbwNwOseUplzr5byM="
+    }
+  },
+  "com.ibm.icu:icu4j:78.3": {
+    "icu4j-78.3.jar": {
+      "url": "https://libraries.minecraft.net/com/ibm/icu/icu4j/78.3/icu4j-78.3.jar",
+      "hash": "sha256-6WLBdY2WWeoeH7q5nFhoP2VNME4RJqzhmqq/454O2yU="
+    },
+    "icu4j-78.3.pom": {
+      "url": "https://libraries.minecraft.net/com/ibm/icu/icu4j/78.3/icu4j-78.3.pom",
+      "hash": "sha256-O1lA3xM8NasdURpLNOJx0VLhpRYJvFytLuIoKfrmrco="
+    }
+  },
+  "com.microsoft.azure:msal4j:1.24.1": {
+    "msal4j-1.24.1.jar": {
+      "url": "https://libraries.minecraft.net/com/microsoft/azure/msal4j/1.24.1/msal4j-1.24.1.jar",
+      "hash": "sha256-EuYvedGnHRdqQcFowFh/gWfwrdmbePAG85WVvXJCrr4="
+    },
+    "msal4j-1.24.1.pom": {
+      "url": "https://libraries.minecraft.net/com/microsoft/azure/msal4j/1.24.1/msal4j-1.24.1.pom",
+      "hash": "sha256-GzYuNQpu9l2/7q4zvWtgsY8EdlnfLKhZ7SIJ2+CmYMc="
+    }
+  },
+  "com.mojang:authlib:10.0.77": {
+    "authlib-10.0.77.jar": {
+      "url": "https://libraries.minecraft.net/com/mojang/authlib/10.0.77/authlib-10.0.77.jar",
+      "hash": "sha256-UhZyhmWCYzpBLIIXHTz6QW7KzN8FpDuvgJwW+a7AcGg="
+    },
+    "authlib-10.0.77.module": {
+      "url": "https://libraries.minecraft.net/com/mojang/authlib/10.0.77/authlib-10.0.77.module",
+      "hash": "sha256-GiCsJfvpIpmFT80w083L18iPqkcEU12kokb+mkis/FM="
+    },
+    "authlib-10.0.77.pom": {
+      "url": "https://libraries.minecraft.net/com/mojang/authlib/10.0.77/authlib-10.0.77.pom",
+      "hash": "sha256-bPsms7eMkRRPAiJmohBZU4UxOcY4SaOs/NkBXNeous4="
+    }
+  },
+  "com.mojang:blocklist:1.0.10": {
+    "blocklist-1.0.10.jar": {
+      "url": "https://libraries.minecraft.net/com/mojang/blocklist/1.0.10/blocklist-1.0.10.jar",
+      "hash": "sha256-gwv9Y5yNtJI2u9jkXTorjJbFb/ZUoQEYZUlYpiNdTEQ="
+    },
+    "blocklist-1.0.10.pom": {
+      "url": "https://libraries.minecraft.net/com/mojang/blocklist/1.0.10/blocklist-1.0.10.pom",
+      "hash": "sha256-c7SqOT6d9mRxrN1D5G0/2Eo8z9IrnKgQRYj1LfJhOdM="
+    }
+  },
+  "com.mojang:brigadier:1.3.11": {
+    "brigadier-1.3.11.jar": {
+      "url": "https://libraries.minecraft.net/com/mojang/brigadier/1.3.11/brigadier-1.3.11.jar",
+      "hash": "sha256-nQnPSBneg9/NOLyyEtXyInExeRzvOrv8ozIdb7K5pk0="
+    },
+    "brigadier-1.3.11.pom": {
+      "url": "https://libraries.minecraft.net/com/mojang/brigadier/1.3.11/brigadier-1.3.11.pom",
+      "hash": "sha256-sSf7b/UG4aWCqzcEcUwNXhcTCcAv8kAEadByJfuPLnI="
+    }
+  },
+  "com.mojang:datafixerupper:10.0.21": {
+    "datafixerupper-10.0.21.jar": {
+      "url": "https://libraries.minecraft.net/com/mojang/datafixerupper/10.0.21/datafixerupper-10.0.21.jar",
+      "hash": "sha256-NUfLHaiZP7fr1CSU0OeJl9LPvpDEIfXv0CKGPmkJlB4="
+    },
+    "datafixerupper-10.0.21.module": {
+      "url": "https://libraries.minecraft.net/com/mojang/datafixerupper/10.0.21/datafixerupper-10.0.21.module",
+      "hash": "sha256-lSArhqC357A0uVoaApSEeB4krNjnD0xNknpx1kiEKp8="
+    },
+    "datafixerupper-10.0.21.pom": {
+      "url": "https://libraries.minecraft.net/com/mojang/datafixerupper/10.0.21/datafixerupper-10.0.21.pom",
+      "hash": "sha256-koG4e6mkpUbQLXO0UgEppJrVWf0N7kimZVbYgsRHHJM="
+    }
+  },
+  "com.mojang:jtracy:1.14.38": {
+    "jtracy-1.14.38-natives-linux.jar": {
+      "url": "https://libraries.minecraft.net/com/mojang/jtracy/1.14.38/jtracy-1.14.38-natives-linux.jar",
+      "hash": "sha256-bGT0VeuqX2YxNhArdfymNQeNee/ihKoKo8YPoxzkggM="
+    },
+    "jtracy-1.14.38.jar": {
+      "url": "https://libraries.minecraft.net/com/mojang/jtracy/1.14.38/jtracy-1.14.38.jar",
+      "hash": "sha256-chv/UCqWZNaJ14Gre/7RkzBgbC4e9rjk1Z+6Z+fnZdo="
+    },
+    "jtracy-1.14.38.module": {
+      "url": "https://libraries.minecraft.net/com/mojang/jtracy/1.14.38/jtracy-1.14.38.module",
+      "hash": "sha256-W3QTTBkrTwXsvbyVENKZtrxkeCnYTVMbwCr4DC/lNUM="
+    },
+    "jtracy-1.14.38.pom": {
+      "url": "https://libraries.minecraft.net/com/mojang/jtracy/1.14.38/jtracy-1.14.38.pom",
+      "hash": "sha256-xJijJezSA7jfetp9ka+TJtXdmhUE05naLCXcPJj78EM="
+    }
+  },
+  "com.mojang:logging:1.7.12": {
+    "logging-1.7.12.jar": {
+      "url": "https://libraries.minecraft.net/com/mojang/logging/1.7.12/logging-1.7.12.jar",
+      "hash": "sha256-PHrJdC+pjHcydTeesQRsBItdLumJFSqMaee6aWw/hTg="
+    },
+    "logging-1.7.12.module": {
+      "url": "https://libraries.minecraft.net/com/mojang/logging/1.7.12/logging-1.7.12.module",
+      "hash": "sha256-GEZAN0mS9KH2EtGq95elDV+BHqc0uD1yP5kZjhBxYVY="
+    },
+    "logging-1.7.12.pom": {
+      "url": "https://libraries.minecraft.net/com/mojang/logging/1.7.12/logging-1.7.12.pom",
+      "hash": "sha256-jyrD8LqxGcnwrARFPUE8HsQYLJJxPMRwY88YXOOjY28="
+    }
+  },
+  "com.mojang:logging:1.1.1": {
+    "logging-1.1.1.module": {
+      "url": "https://libraries.minecraft.net/com/mojang/logging/1.1.1/logging-1.1.1.module",
+      "hash": "sha256-0k0PJc5w5xh8TWPf5a42Jh4GQgRJwCMTfJek8suypEA="
+    },
+    "logging-1.1.1.pom": {
+      "url": "https://libraries.minecraft.net/com/mojang/logging/1.1.1/logging-1.1.1.pom",
+      "hash": "sha256-LTJ4iLsXMVL6X9r30N54D6JqqtIqfWFE0h0OcF5SbxY="
+    }
+  },
+  "com.mojang:patchy:2.2.10": {
+    "patchy-2.2.10.jar": {
+      "url": "https://libraries.minecraft.net/com/mojang/patchy/2.2.10/patchy-2.2.10.jar",
+      "hash": "sha256-FtcOeWi0XK/8gVdiaOsAD0c/tgvyVxgtNEfeqOyRnVo="
+    },
+    "patchy-2.2.10.pom": {
+      "url": "https://libraries.minecraft.net/com/mojang/patchy/2.2.10/patchy-2.2.10.pom",
+      "hash": "sha256-sMilwV8n7YgAg7vgXPri1ZVEKDHben8Ijtk+0KTQ3Xw="
+    }
+  },
+  "com.mojang:text2speech:1.19.12": {
+    "text2speech-1.19.12.jar": {
+      "url": "https://libraries.minecraft.net/com/mojang/text2speech/1.19.12/text2speech-1.19.12.jar",
+      "hash": "sha256-Y3aab2Yq2JQ632vhSkXjdddqVn17pQwqfx+VCCyTuBY="
+    },
+    "text2speech-1.19.12.module": {
+      "url": "https://libraries.minecraft.net/com/mojang/text2speech/1.19.12/text2speech-1.19.12.module",
+      "hash": "sha256-zRi3joTwZrbZurM5gT4SJ9PMfyFPR3OvwAFHvhvIbkg="
+    },
+    "text2speech-1.19.12.pom": {
+      "url": "https://libraries.minecraft.net/com/mojang/text2speech/1.19.12/text2speech-1.19.12.pom",
+      "hash": "sha256-o8e0qIvunfAoQOWC75IzE4A9K0FjAHlgQiAbF1C5u2E="
+    }
+  },
+  "com.nothome:javaxdelta:2.0.1": {
+    "javaxdelta-2.0.1.jar": {
+      "url": "https://maven.neoforged.net/releases/com/nothome/javaxdelta/2.0.1/javaxdelta-2.0.1.jar",
+      "hash": "sha256-pmHfy3SQU/wm6toqCo5hmo6tHKntop4WmGh6os3YAVI="
+    },
+    "javaxdelta-2.0.1.pom": {
+      "url": "https://maven.neoforged.net/releases/com/nothome/javaxdelta/2.0.1/javaxdelta-2.0.1.pom",
+      "hash": "sha256-k7vourxw4XXUBqxom5DmifSRXG455zjrZAb6W1Kc42w="
+    }
+  },
+  "commons-codec:commons-codec:1.22.0": {
+    "commons-codec-1.22.0.jar": {
+      "url": "https://plugins.gradle.org/m2/commons-codec/commons-codec/1.22.0/commons-codec-1.22.0.jar",
+      "hash": "sha256-0WT+efJiwy2bGKC1stMX0cJ2U9Xpj9K5mMJL+QHHLOQ="
+    },
+    "commons-codec-1.22.0.pom": {
+      "url": "https://plugins.gradle.org/m2/commons-codec/commons-codec/1.22.0/commons-codec-1.22.0.pom",
+      "hash": "sha256-2aVl2Xj6pp0rEZX7HsJ+YPKef+sJr7ha2sePKABo+P4="
+    }
+  },
+  "commons-io:commons-io:2.22.0": {
+    "commons-io-2.22.0.jar": {
+      "url": "https://plugins.gradle.org/m2/commons-io/commons-io/2.22.0/commons-io-2.22.0.jar",
+      "hash": "sha256-K5p7H3JvuGIW29LIMh6r4CIdvVsb6BwY4ctTgRsQR1g="
+    },
+    "commons-io-2.22.0.pom": {
+      "url": "https://plugins.gradle.org/m2/commons-io/commons-io/2.22.0/commons-io-2.22.0.pom",
+      "hash": "sha256-ZCXOwOp2ADXvp3J33oX4n6bb7RR6s92VuNLLxVNArM8="
+    }
+  },
+  "commons-io:commons-io:2.20.0": {
+    "commons-io-2.20.0.jar": {
+      "url": "https://plugins.gradle.org/m2/commons-io/commons-io/2.20.0/commons-io-2.20.0.jar",
+      "hash": "sha256-35C7oP48tYa38WTnj+j49No/LdXCf6ZF+IgQDMwl3XI="
+    },
+    "commons-io-2.20.0.pom": {
+      "url": "https://plugins.gradle.org/m2/commons-io/commons-io/2.20.0/commons-io-2.20.0.pom",
+      "hash": "sha256-vb34EHLBkO6aixgaXFj1vZF6dQ+xOiVt679T9dvTOio="
+    }
+  },
+  "commons-io:commons-io:2.11.0": {
+    "commons-io-2.11.0.pom": {
+      "url": "https://libraries.minecraft.net/commons-io/commons-io/2.11.0/commons-io-2.11.0.pom",
+      "hash": "sha256-LgFv1+MkS18sIKytg02TqkeQSG7h5FZGQTYaPoMe71k="
+    }
+  },
+  "de.siegmar:fastcsv:2.0.0": {
+    "fastcsv-2.0.0.jar": {
+      "url": "https://maven.neoforged.net/releases/de/siegmar/fastcsv/2.0.0/fastcsv-2.0.0.jar",
+      "hash": "sha256-Zl1Sy281yiNpGb6ayBZTwghihQf5HWvxNHm8EUltthY="
+    },
+    "fastcsv-2.0.0.module": {
+      "url": "https://maven.neoforged.net/releases/de/siegmar/fastcsv/2.0.0/fastcsv-2.0.0.module",
+      "hash": "sha256-pu3O1sGgAU6c3RfyMPGxPA/a+hZP/sjSKCjzH+FmwTQ="
+    },
+    "fastcsv-2.0.0.pom": {
+      "url": "https://maven.neoforged.net/releases/de/siegmar/fastcsv/2.0.0/fastcsv-2.0.0.pom",
+      "hash": "sha256-eoqXr1YT7mwwR8RCscRiyZWAilVvccaXgTaSdSbWS5s="
+    }
+  },
+  "dev.lukebemish:forkedtaskexecutor:0.1.4": {
+    "forkedtaskexecutor-0.1.4.jar": {
+      "url": "https://plugins.gradle.org/m2/dev/lukebemish/forkedtaskexecutor/0.1.4/forkedtaskexecutor-0.1.4.jar",
+      "hash": "sha256-JWF8QzC8/ZEtyNkevna8KU9kcm0trPs7oNNYkIF1/Zk="
+    },
+    "forkedtaskexecutor-0.1.4.module": {
+      "url": "https://plugins.gradle.org/m2/dev/lukebemish/forkedtaskexecutor/0.1.4/forkedtaskexecutor-0.1.4.module",
+      "hash": "sha256-hmfHWezv7ZoJWy/hlzUDqU2LA5F7mpqHMTfd8+VzBeg="
+    },
+    "forkedtaskexecutor-0.1.4.pom": {
+      "url": "https://plugins.gradle.org/m2/dev/lukebemish/forkedtaskexecutor/0.1.4/forkedtaskexecutor-0.1.4.pom",
+      "hash": "sha256-VWkNJu5aTqh/B5yH5z0tMynFr5WZGIPc0ikpS4lyhcU="
+    }
+  },
+  "dev.lukebemish:immaculate:0.2.5": {
+    "immaculate-0.2.5.jar": {
+      "url": "https://plugins.gradle.org/m2/dev/lukebemish/immaculate/0.2.5/immaculate-0.2.5.jar",
+      "hash": "sha256-ijZD47wsNg3eRoceGP73iGGelPMz82uZ8vfPS8xGFy0="
+    },
+    "immaculate-0.2.5.module": {
+      "url": "https://plugins.gradle.org/m2/dev/lukebemish/immaculate/0.2.5/immaculate-0.2.5.module",
+      "hash": "sha256-6S+cSxZrVcfqn3kGqxas8WXoxvTyfm5741KP7hOc060="
+    },
+    "immaculate-0.2.5.pom": {
+      "url": "https://plugins.gradle.org/m2/dev/lukebemish/immaculate/0.2.5/immaculate-0.2.5.pom",
+      "hash": "sha256-6zKr+kLm8kjinAzCJIP8na3RktAU0q101dEseP0t9Cg="
+    }
+  },
+  "dev.lukebemish.immaculate:dev.lukebemish.immaculate.gradle.plugin:0.2.5": {
+    "dev.lukebemish.immaculate.gradle.plugin-0.2.5.pom": {
+      "url": "https://plugins.gradle.org/m2/dev/lukebemish/immaculate/dev.lukebemish.immaculate.gradle.plugin/0.2.5/dev.lukebemish.immaculate.gradle.plugin-0.2.5.pom",
+      "hash": "sha256-RygmAAvHFcFmKA63fv4t7xQGe0VQwIM+1Yp7jKyzKEs="
+    }
+  },
+  "gradle.plugin.org.jetbrains.gradle.plugin.idea-ext:gradle-idea-ext:1.2": {
+    "gradle-idea-ext-1.2.jar": {
+      "url": "https://plugins.gradle.org/m2/gradle/plugin/org/jetbrains/gradle/plugin/idea-ext/gradle-idea-ext/1.2/gradle-idea-ext-1.2.jar",
+      "hash": "sha256-ZirlNthOe4RH0QwkboMXCn8fwUcmyoDNelCUff5YlY8="
+    },
+    "gradle-idea-ext-1.2.pom": {
+      "url": "https://plugins.gradle.org/m2/gradle/plugin/org/jetbrains/gradle/plugin/idea-ext/gradle-idea-ext/1.2/gradle-idea-ext-1.2.pom",
+      "hash": "sha256-Y3nZLiA8tmrxRil0lIOu8/ZTC47INeEl0E+1mIXAstU="
+    }
+  },
+  "io.codechicken:DiffPatch:2.1.0.43": {
+    "DiffPatch-2.1.0.43.jar": {
+      "url": "https://plugins.gradle.org/m2/io/codechicken/DiffPatch/2.1.0.43/DiffPatch-2.1.0.43.jar",
+      "hash": "sha256-O7oW2pkF+H2iYX3UGti3V2N5DSy3ImdWnzHwPt15+B0="
+    },
+    "DiffPatch-2.1.0.43.module": {
+      "url": "https://plugins.gradle.org/m2/io/codechicken/DiffPatch/2.1.0.43/DiffPatch-2.1.0.43.module",
+      "hash": "sha256-94DHDLGCbvlqPzJYAz59l+bGjMa7SONtwV4H8upGI4M="
+    },
+    "DiffPatch-2.1.0.43.pom": {
+      "url": "https://plugins.gradle.org/m2/io/codechicken/DiffPatch/2.1.0.43/DiffPatch-2.1.0.43.pom",
+      "hash": "sha256-l3WJ8PPUMVaFdUebawyeeHqO82DVQM1WbKwheys7IHs="
+    }
+  },
+  "io.codechicken:DiffPatch:2.0.0.36": {
+    "DiffPatch-2.0.0.36-all.jar": {
+      "url": "https://maven.neoforged.net/releases/io/codechicken/DiffPatch/2.0.0.36/DiffPatch-2.0.0.36-all.jar",
+      "hash": "sha256-MNH/JsESvzpIjh5aMqNF91/w75hcMxWy2YfWB+cDhYA="
+    },
+    "DiffPatch-2.0.0.36.module": {
+      "url": "https://maven.neoforged.net/releases/io/codechicken/DiffPatch/2.0.0.36/DiffPatch-2.0.0.36.module",
+      "hash": "sha256-XxwniFxbZ19oKjRvNEA7T+jSbJZSgW1+AtXcXplbmK8="
+    },
+    "DiffPatch-2.0.0.36.pom": {
+      "url": "https://maven.neoforged.net/releases/io/codechicken/DiffPatch/2.0.0.36/DiffPatch-2.0.0.36.pom",
+      "hash": "sha256-MGDv1p9zwtn/cs9VYspkYXS7SrNFxYlMFKsdJ3RGPbk="
+    }
+  },
+  "io.fabric8:kubernetes-client-bom:5.12.4": {
+    "kubernetes-client-bom-5.12.4.pom": {
+      "url": "https://maven.neoforged.net/releases/io/fabric8/kubernetes-client-bom/5.12.4/kubernetes-client-bom-5.12.4.pom",
+      "hash": "sha256-0jI5KonD79yFqymcWpToud01vALzQM6ERv9lmqFZE6A="
+    }
+  },
+  "io.github.gradle-nexus:publish-plugin:2.0.0": {
+    "publish-plugin-2.0.0.jar": {
+      "url": "https://plugins.gradle.org/m2/io/github/gradle-nexus/publish-plugin/2.0.0/publish-plugin-2.0.0.jar",
+      "hash": "sha256-lCwaFtFh9kYxkBtOLa1UHS/L/lHPAyOVXavgLiqe8qo="
+    },
+    "publish-plugin-2.0.0.module": {
+      "url": "https://plugins.gradle.org/m2/io/github/gradle-nexus/publish-plugin/2.0.0/publish-plugin-2.0.0.module",
+      "hash": "sha256-4T/01uEPKDtihxA8mC8Ha9YZ4qRh+znBbUTR0V1x6Pc="
+    },
+    "publish-plugin-2.0.0.pom": {
+      "url": "https://plugins.gradle.org/m2/io/github/gradle-nexus/publish-plugin/2.0.0/publish-plugin-2.0.0.pom",
+      "hash": "sha256-V4e4+lvBAqYRbTWnztW7vPEZ/XJgQxs3kXPuNQU5rQk="
+    }
+  },
+  "io.github.llamalad7:mixinextras-neoforge:0.5.5": {
+    "mixinextras-neoforge-0.5.5.jar": {
+      "url": "https://maven.neoforged.net/releases/io/github/llamalad7/mixinextras-neoforge/0.5.5/mixinextras-neoforge-0.5.5.jar",
+      "hash": "sha256-8MPjwa2DW4DnDLP3g1m3HxB/dGiVI7T7OR8WDuSHz78="
+    },
+    "mixinextras-neoforge-0.5.5.pom": {
+      "url": "https://maven.neoforged.net/releases/io/github/llamalad7/mixinextras-neoforge/0.5.5/mixinextras-neoforge-0.5.5.pom",
+      "hash": "sha256-y4M3VhnUvYeZAH2ExEH+p46A7JrQikEnw3B9gcLStzg="
+    }
+  },
+  "io.netty:netty-bom:4.1.104.Final": {
+    "netty-bom-4.1.104.Final.pom": {
+      "url": "https://maven.neoforged.net/releases/io/netty/netty-bom/4.1.104.Final/netty-bom-4.1.104.Final.pom",
+      "hash": "sha256-WmXgahWdINO0gAYkpXDGRtvucQsrU5s0SaJoVYwonpw="
+    }
+  },
+  "io.netty:netty-buffer:4.2.16.Final": {
+    "netty-buffer-4.2.16.Final.jar": {
+      "url": "https://libraries.minecraft.net/io/netty/netty-buffer/4.2.16.Final/netty-buffer-4.2.16.Final.jar",
+      "hash": "sha256-zDaun70LA/51XrTrRCTKU7Wc/Sl9f9R9SeWxBZvt7Ww="
+    },
+    "netty-buffer-4.2.16.Final.pom": {
+      "url": "https://libraries.minecraft.net/io/netty/netty-buffer/4.2.16.Final/netty-buffer-4.2.16.Final.pom",
+      "hash": "sha256-vlW9UE+MhdG1OfKuDpRwniKk9K7Ts5LdUZnz1EoOQBo="
+    }
+  },
+  "io.netty:netty-codec-base:4.2.16.Final": {
+    "netty-codec-base-4.2.16.Final.jar": {
+      "url": "https://libraries.minecraft.net/io/netty/netty-codec-base/4.2.16.Final/netty-codec-base-4.2.16.Final.jar",
+      "hash": "sha256-/rQQIlk42ZcN5rYkoMAx0HmAT6XMXh7G6SmPFttZmKc="
+    },
+    "netty-codec-base-4.2.16.Final.pom": {
+      "url": "https://libraries.minecraft.net/io/netty/netty-codec-base/4.2.16.Final/netty-codec-base-4.2.16.Final.pom",
+      "hash": "sha256-ZkVXYbAnBBnSS0CbBylN7eVw7u17Lq5bPi+Vk1sRWdc="
+    }
+  },
+  "io.netty:netty-codec-compression:4.2.16.Final": {
+    "netty-codec-compression-4.2.16.Final.jar": {
+      "url": "https://libraries.minecraft.net/io/netty/netty-codec-compression/4.2.16.Final/netty-codec-compression-4.2.16.Final.jar",
+      "hash": "sha256-E8hWVBTdIRUoEwPvStH3zGm9d3HY0Sx9L7MTB9/ybRE="
+    },
+    "netty-codec-compression-4.2.16.Final.pom": {
+      "url": "https://libraries.minecraft.net/io/netty/netty-codec-compression/4.2.16.Final/netty-codec-compression-4.2.16.Final.pom",
+      "hash": "sha256-KwI/X/Ssk3HYJ1WnuZcR7mc4nrQpGpnMNZPzcNI9S0s="
+    }
+  },
+  "io.netty:netty-codec-http:4.2.16.Final": {
+    "netty-codec-http-4.2.16.Final.jar": {
+      "url": "https://libraries.minecraft.net/io/netty/netty-codec-http/4.2.16.Final/netty-codec-http-4.2.16.Final.jar",
+      "hash": "sha256-DRb5gd6NDTBKKrGoHwpnSJIIn7qopYMQCuu0pbAEVuw="
+    },
+    "netty-codec-http-4.2.16.Final.pom": {
+      "url": "https://libraries.minecraft.net/io/netty/netty-codec-http/4.2.16.Final/netty-codec-http-4.2.16.Final.pom",
+      "hash": "sha256-8AXeoD9FJF3QsnAUqh8c73sSu+1aUr488RTY50ERIqQ="
+    }
+  },
+  "io.netty:netty-common:4.2.16.Final": {
+    "netty-common-4.2.16.Final.jar": {
+      "url": "https://libraries.minecraft.net/io/netty/netty-common/4.2.16.Final/netty-common-4.2.16.Final.jar",
+      "hash": "sha256-mCXuaKDcTNK1Pi9TJQJAGyIRutm3fosEiC2eZEhyg/8="
+    },
+    "netty-common-4.2.16.Final.pom": {
+      "url": "https://libraries.minecraft.net/io/netty/netty-common/4.2.16.Final/netty-common-4.2.16.Final.pom",
+      "hash": "sha256-TWJqGdVkbPRBGRaz/pS5hwgetg2OW3/gawO4P09avCU="
+    }
+  },
+  "io.netty:netty-handler:4.2.16.Final": {
+    "netty-handler-4.2.16.Final.jar": {
+      "url": "https://libraries.minecraft.net/io/netty/netty-handler/4.2.16.Final/netty-handler-4.2.16.Final.jar",
+      "hash": "sha256-olnKSW2gWsGYH5XNhWIR+JSjKAVqYSnpzXDbvV30Afc="
+    },
+    "netty-handler-4.2.16.Final.pom": {
+      "url": "https://libraries.minecraft.net/io/netty/netty-handler/4.2.16.Final/netty-handler-4.2.16.Final.pom",
+      "hash": "sha256-K3TxgB2lbN/5DgZBkWKU+78g0BwR+NXO6EAQdKhxwoU="
+    }
+  },
+  "io.netty:netty-parent:4.2.16.Final": {
+    "netty-parent-4.2.16.Final.pom": {
+      "url": "https://maven.neoforged.net/releases/io/netty/netty-parent/4.2.16.Final/netty-parent-4.2.16.Final.pom",
+      "hash": "sha256-WRgTKjEV1EispZT6haJhTZuGqWk8Ti9CSpSupdkpQXI="
+    }
+  },
+  "io.netty:netty-resolver:4.2.16.Final": {
+    "netty-resolver-4.2.16.Final.jar": {
+      "url": "https://libraries.minecraft.net/io/netty/netty-resolver/4.2.16.Final/netty-resolver-4.2.16.Final.jar",
+      "hash": "sha256-yeymqZA2SFzx0Ya0pqWVsKVMU4CDGe4DkkJw6uBMMrs="
+    },
+    "netty-resolver-4.2.16.Final.pom": {
+      "url": "https://libraries.minecraft.net/io/netty/netty-resolver/4.2.16.Final/netty-resolver-4.2.16.Final.pom",
+      "hash": "sha256-YuLxeXHiRXTb/RQxaaegsdtXdHYZQbVawwb5fjLYnCU="
+    }
+  },
+  "io.netty:netty-transport:4.2.16.Final": {
+    "netty-transport-4.2.16.Final.jar": {
+      "url": "https://libraries.minecraft.net/io/netty/netty-transport/4.2.16.Final/netty-transport-4.2.16.Final.jar",
+      "hash": "sha256-z6P2VMr/kGZTOF9LfdqlOdeVt49XEaYiSCsX0rc0hMA="
+    },
+    "netty-transport-4.2.16.Final.pom": {
+      "url": "https://libraries.minecraft.net/io/netty/netty-transport/4.2.16.Final/netty-transport-4.2.16.Final.pom",
+      "hash": "sha256-wUroBRmAFPeewCE4EL/oxFxaPWmUoYHyM+t2wZ6UIwo="
+    }
+  },
+  "io.netty:netty-transport-classes-epoll:4.2.16.Final": {
+    "netty-transport-classes-epoll-4.2.16.Final.jar": {
+      "url": "https://libraries.minecraft.net/io/netty/netty-transport-classes-epoll/4.2.16.Final/netty-transport-classes-epoll-4.2.16.Final.jar",
+      "hash": "sha256-nytTIQ25yNJOeH7UPziWqvMNaG7ScMevuymrYzDGqiM="
+    },
+    "netty-transport-classes-epoll-4.2.16.Final.pom": {
+      "url": "https://libraries.minecraft.net/io/netty/netty-transport-classes-epoll/4.2.16.Final/netty-transport-classes-epoll-4.2.16.Final.pom",
+      "hash": "sha256-vb/ZFXklc5aAVemBp4NeW2sZYu8+AFQ7W6FGL1ztVeY="
+    }
+  },
+  "io.netty:netty-transport-classes-kqueue:4.2.16.Final": {
+    "netty-transport-classes-kqueue-4.2.16.Final.jar": {
+      "url": "https://libraries.minecraft.net/io/netty/netty-transport-classes-kqueue/4.2.16.Final/netty-transport-classes-kqueue-4.2.16.Final.jar",
+      "hash": "sha256-ZZm0lfaUIMskCrChqmChmi3zvHJ5FykXDgmTcnY3pok="
+    },
+    "netty-transport-classes-kqueue-4.2.16.Final.pom": {
+      "url": "https://libraries.minecraft.net/io/netty/netty-transport-classes-kqueue/4.2.16.Final/netty-transport-classes-kqueue-4.2.16.Final.pom",
+      "hash": "sha256-BJZ8VzolqZK1UmaFI1J0tTxUF3TBTkhgSjzAuo+7xZo="
+    }
+  },
+  "io.netty:netty-transport-native-epoll:4.2.16.Final": {
+    "netty-transport-native-epoll-4.2.16.Final-linux-aarch_64.jar": {
+      "url": "https://libraries.minecraft.net/io/netty/netty-transport-native-epoll/4.2.16.Final/netty-transport-native-epoll-4.2.16.Final-linux-aarch_64.jar",
+      "hash": "sha256-ISzH2BOQ4xtYCh+5G2yNljtD52LtByxVXisJrUR26Sg="
+    },
+    "netty-transport-native-epoll-4.2.16.Final-linux-x86_64.jar": {
+      "url": "https://libraries.minecraft.net/io/netty/netty-transport-native-epoll/4.2.16.Final/netty-transport-native-epoll-4.2.16.Final-linux-x86_64.jar",
+      "hash": "sha256-LgBUjnMZSIgdDHPuedLq11klTnUJKUBqHVlUhHWPAmc="
+    },
+    "netty-transport-native-epoll-4.2.16.Final.pom": {
+      "url": "https://libraries.minecraft.net/io/netty/netty-transport-native-epoll/4.2.16.Final/netty-transport-native-epoll-4.2.16.Final.pom",
+      "hash": "sha256-QRVO4MBLhXd72/rfepRzUgHoyyTXYZQJxZl9OUzYd2Q="
+    }
+  },
+  "io.netty:netty-transport-native-kqueue:4.2.16.Final": {
+    "netty-transport-native-kqueue-4.2.16.Final-osx-aarch_64.jar": {
+      "url": "https://libraries.minecraft.net/io/netty/netty-transport-native-kqueue/4.2.16.Final/netty-transport-native-kqueue-4.2.16.Final-osx-aarch_64.jar",
+      "hash": "sha256-eWxQP3qAIXF3vTFfZEgmMTTuD5BCYn1f1pjHYLz5nIw="
+    },
+    "netty-transport-native-kqueue-4.2.16.Final-osx-x86_64.jar": {
+      "url": "https://libraries.minecraft.net/io/netty/netty-transport-native-kqueue/4.2.16.Final/netty-transport-native-kqueue-4.2.16.Final-osx-x86_64.jar",
+      "hash": "sha256-BaCaSrUfSI8MIvQszObAaTWvv6xRFz+uRBcEZaoHKCg="
+    },
+    "netty-transport-native-kqueue-4.2.16.Final.pom": {
+      "url": "https://libraries.minecraft.net/io/netty/netty-transport-native-kqueue/4.2.16.Final/netty-transport-native-kqueue-4.2.16.Final.pom",
+      "hash": "sha256-6WV9u1HizKEFYV5hou8q+IC25LLkuk5el0S0bVqDAAg="
+    }
+  },
+  "io.netty:netty-transport-native-unix-common:4.2.16.Final": {
+    "netty-transport-native-unix-common-4.2.16.Final.jar": {
+      "url": "https://libraries.minecraft.net/io/netty/netty-transport-native-unix-common/4.2.16.Final/netty-transport-native-unix-common-4.2.16.Final.jar",
+      "hash": "sha256-QcqP4ZIIPReRe+fdzs3tTaT8HbHRZW0D0LyxTi9DEVU="
+    },
+    "netty-transport-native-unix-common-4.2.16.Final.pom": {
+      "url": "https://libraries.minecraft.net/io/netty/netty-transport-native-unix-common/4.2.16.Final/netty-transport-native-unix-common-4.2.16.Final.pom",
+      "hash": "sha256-iLtMG6+R4rBUJGu5g7mqAvtmwj+w6G5aKCOHarJGbW4="
+    }
+  },
+  "it.unimi.dsi:fastutil:8.5.18": {
+    "fastutil-8.5.18.jar": {
+      "url": "https://plugins.gradle.org/m2/it/unimi/dsi/fastutil/8.5.18/fastutil-8.5.18.jar",
+      "hash": "sha256-kJSuZ9AdCtJG+IbxGtVX/C55xyy/P+7YPhUSqK6Qp0o="
+    },
+    "fastutil-8.5.18.pom": {
+      "url": "https://plugins.gradle.org/m2/it/unimi/dsi/fastutil/8.5.18/fastutil-8.5.18.pom",
+      "hash": "sha256-GE28pJp9A+Oh358Pl7RiCW6En1rQXFz3s4YibsFZ73k="
+    }
+  },
+  "it.unimi.dsi:fastutil:8.3.1": {
+    "fastutil-8.3.1.jar": {
+      "url": "https://maven.neoforged.net/releases/it/unimi/dsi/fastutil/8.3.1/fastutil-8.3.1.jar",
+      "hash": "sha256-HuXaHr/chquVdL48wpB2nzGd+QGulZMqEYiJt8Y2Nrk="
+    },
+    "fastutil-8.3.1.pom": {
+      "url": "https://maven.neoforged.net/releases/it/unimi/dsi/fastutil/8.3.1/fastutil-8.3.1.pom",
+      "hash": "sha256-fXldsM64/mn4rL/vZTU+hTDc2lK1L7YQgOQMmGd/DbQ="
+    }
+  },
+  "jakarta.platform:jakarta.jakartaee-bom:9.1.0": {
+    "jakarta.jakartaee-bom-9.1.0.pom": {
+      "url": "https://maven.neoforged.net/releases/jakarta/platform/jakarta.jakartaee-bom/9.1.0/jakarta.jakartaee-bom-9.1.0.pom",
+      "hash": "sha256-35jgJmIZ/buCVigm15o6IHdqi6Aqp4fw8HZaU4ZUyKQ="
+    }
+  },
+  "jakarta.platform:jakartaee-api-parent:9.1.0": {
+    "jakartaee-api-parent-9.1.0.pom": {
+      "url": "https://maven.neoforged.net/releases/jakarta/platform/jakartaee-api-parent/9.1.0/jakartaee-api-parent-9.1.0.pom",
+      "hash": "sha256-p3AsSHAmgCeEtXl7YjMKi41lkr8PRzeyXGel6sgmWcA="
+    }
+  },
+  "net.bytebuddy:byte-buddy:1.18.3": {
+    "byte-buddy-1.18.3.jar": {
+      "url": "https://maven.neoforged.net/releases/net/bytebuddy/byte-buddy/1.18.3/byte-buddy-1.18.3.jar",
+      "hash": "sha256-14OW48W84/KGXJGGZHSB5VidNMrMYySEcVtoYQjRfGY="
+    },
+    "byte-buddy-1.18.3.pom": {
+      "url": "https://maven.neoforged.net/releases/net/bytebuddy/byte-buddy/1.18.3/byte-buddy-1.18.3.pom",
+      "hash": "sha256-cVe2IqDWiFy1UmoQ8SIN3wkNu1LKL+OMMsxpxPFTB4g="
+    }
+  },
+  "net.bytebuddy:byte-buddy-agent:1.17.7": {
+    "byte-buddy-agent-1.17.7.jar": {
+      "url": "https://maven.neoforged.net/releases/net/bytebuddy/byte-buddy-agent/1.17.7/byte-buddy-agent-1.17.7.jar",
+      "hash": "sha256-qbqIfcolKtYbfVFTKU805vO99LJzawQ3PRNhWmlfwP8="
+    },
+    "byte-buddy-agent-1.17.7.pom": {
+      "url": "https://maven.neoforged.net/releases/net/bytebuddy/byte-buddy-agent/1.17.7/byte-buddy-agent-1.17.7.pom",
+      "hash": "sha256-gU7kLWsBF/S40etrHWLBbbTAtZfYOzrY2qV4HrFF19w="
+    }
+  },
+  "net.bytebuddy:byte-buddy-parent:1.18.3": {
+    "byte-buddy-parent-1.18.3.pom": {
+      "url": "https://maven.neoforged.net/releases/net/bytebuddy/byte-buddy-parent/1.18.3/byte-buddy-parent-1.18.3.pom",
+      "hash": "sha256-kOpTFzFQjup1/5KVFBxQjX+aU9GgX0W4D49JmVIUJu8="
+    }
+  },
+  "net.bytebuddy:byte-buddy-parent:1.17.7": {
+    "byte-buddy-parent-1.17.7.pom": {
+      "url": "https://maven.neoforged.net/releases/net/bytebuddy/byte-buddy-parent/1.17.7/byte-buddy-parent-1.17.7.pom",
+      "hash": "sha256-ilfiDczgDaccM+8+GdndhY/p0gQsouK8onhxcA1SaYw="
+    }
+  },
+  "net.covers1624:Quack:0.4.10.115": {
+    "Quack-0.4.10.115.jar": {
+      "url": "https://plugins.gradle.org/m2/net/covers1624/Quack/0.4.10.115/Quack-0.4.10.115.jar",
+      "hash": "sha256-2u13TP9cyASDAWU41AAZv3mfSRYLSdISlDDjGP3zBS4="
+    },
+    "Quack-0.4.10.115.pom": {
+      "url": "https://plugins.gradle.org/m2/net/covers1624/Quack/0.4.10.115/Quack-0.4.10.115.pom",
+      "hash": "sha256-xHSNE3/aNxQ1hc9xkTlqTDYdSomoy/C6YrM8q1T8v0Y="
+    }
+  },
+  "net.covers1624:Quack:0.4.10.101": {
+    "Quack-0.4.10.101.jar": {
+      "url": "https://maven.neoforged.net/releases/net/covers1624/Quack/0.4.10.101/Quack-0.4.10.101.jar",
+      "hash": "sha256-Iq/BaU/X/5nXH841RNVMO9gd9x7xqD6WztHauhnPaOY="
+    },
+    "Quack-0.4.10.101.pom": {
+      "url": "https://maven.neoforged.net/releases/net/covers1624/Quack/0.4.10.101/Quack-0.4.10.101.pom",
+      "hash": "sha256-h5XDQW8GFNmRY8SRhqM3IDOh9nISEvtPWmHIkEOex+g="
+    }
+  },
+  "net.fabricmc:sponge-mixin:0.17.4+mixin.0.8.7": {
+    "sponge-mixin-0.17.4+mixin.0.8.7.jar": {
+      "url": "https://maven.neoforged.net/releases/net/fabricmc/sponge-mixin/0.17.4+mixin.0.8.7/sponge-mixin-0.17.4+mixin.0.8.7.jar",
+      "hash": "sha256-HwrkTbcpX4Ym8zsdwK1/BD2JVKjWhHJHh1/MXfzsyTQ="
+    },
+    "sponge-mixin-0.17.4+mixin.0.8.7.pom": {
+      "url": "https://maven.neoforged.net/releases/net/fabricmc/sponge-mixin/0.17.4+mixin.0.8.7/sponge-mixin-0.17.4+mixin.0.8.7.pom",
+      "hash": "sha256-ws1HWO+UiITHtOVMWdsy25Y3b1BErEQ8jghX+Gu4mXk="
+    }
+  },
+  "net.java.dev.jna:jna:5.17.0": {
+    "jna-5.17.0.jar": {
+      "url": "https://libraries.minecraft.net/net/java/dev/jna/jna/5.17.0/jna-5.17.0.jar",
+      "hash": "sha256-s6lAjnxR4I7w47/MCPRD9uwPYZG6jNfBjVPSsi5b28A="
+    },
+    "jna-5.17.0.pom": {
+      "url": "https://libraries.minecraft.net/net/java/dev/jna/jna/5.17.0/jna-5.17.0.pom",
+      "hash": "sha256-UBoP8F2EpK0Q9t4lvpT0k5i3CjG+jzoO2fTGtE++/uQ="
+    }
+  },
+  "net.java.dev.jna:jna-platform:5.17.0": {
+    "jna-platform-5.17.0.jar": {
+      "url": "https://libraries.minecraft.net/net/java/dev/jna/jna-platform/5.17.0/jna-platform-5.17.0.jar",
+      "hash": "sha256-t+PUbIe60utAmw5wSRa82BIGFo41cxLf3dDiU2ec2eA="
+    },
+    "jna-platform-5.17.0.pom": {
+      "url": "https://libraries.minecraft.net/net/java/dev/jna/jna-platform/5.17.0/jna-platform-5.17.0.pom",
+      "hash": "sha256-CjC3l622giFH75jLJJ7z+/SiQ1QqqGv59C+tnmgwWkQ="
+    }
+  },
+  "net.jodah:typetools:0.6.3": {
+    "typetools-0.6.3.jar": {
+      "url": "https://maven.neoforged.net/releases/net/jodah/typetools/0.6.3/typetools-0.6.3.jar",
+      "hash": "sha256-QIMAhngEvgXRCDzAKH3TohKVqedgkOKIATulpBgtyW0="
+    },
+    "typetools-0.6.3.pom": {
+      "url": "https://maven.neoforged.net/releases/net/jodah/typetools/0.6.3/typetools-0.6.3.pom",
+      "hash": "sha256-tBBr3YJ/hop/G/x2Neq6+kHkdtyhILb3MkjXyJnBH3U="
+    }
+  },
+  "net.minecraftforge:mergetool:1.1.7": {
+    "mergetool-1.1.7-fatjar.jar": {
+      "url": "https://maven.neoforged.net/releases/net/minecraftforge/mergetool/1.1.7/mergetool-1.1.7-fatjar.jar",
+      "hash": "sha256-L7t0OGzJ+fToFtK1Fn7ZJ0wIZOrlMtZY40WHsqR4V+g="
+    },
+    "mergetool-1.1.7.module": {
+      "url": "https://maven.neoforged.net/releases/net/minecraftforge/mergetool/1.1.7/mergetool-1.1.7.module",
+      "hash": "sha256-O6pvwa35NjuWNrNM9cHfMTEwnyOAIvg+yH2bq2J6Ck8="
+    },
+    "mergetool-1.1.7.pom": {
+      "url": "https://maven.neoforged.net/releases/net/minecraftforge/mergetool/1.1.7/mergetool-1.1.7.pom",
+      "hash": "sha256-qSyMzVbbEmwRXhuEhVV5g1BOiDsauyRGIMI4PvdPjEc="
+    }
+  },
+  "net.minecraftforge:srgutils:0.4.15": {
+    "srgutils-0.4.15.jar": {
+      "url": "https://maven.neoforged.net/releases/net/minecraftforge/srgutils/0.4.15/srgutils-0.4.15.jar",
+      "hash": "sha256-9r3rt/rhCDKazd/IEvI3x/Yyipjj8oKhBe38Fh0CFeM="
+    },
+    "srgutils-0.4.15.module": {
+      "url": "https://maven.neoforged.net/releases/net/minecraftforge/srgutils/0.4.15/srgutils-0.4.15.module",
+      "hash": "sha256-wRh2jvW1nZuuoUdAGbLoUOS/uOnsD4K8YHbaTvPrgVU="
+    },
+    "srgutils-0.4.15.pom": {
+      "url": "https://maven.neoforged.net/releases/net/minecraftforge/srgutils/0.4.15/srgutils-0.4.15.pom",
+      "hash": "sha256-Tdp0TsOCSqXZJZ5Tc88JJflVbyVAr7zhycSqZCZ2E6s="
+    }
+  },
+  "net.minecrell:terminalconsoleappender:1.3.0": {
+    "terminalconsoleappender-1.3.0.jar": {
+      "url": "https://maven.neoforged.net/releases/net/minecrell/terminalconsoleappender/1.3.0/terminalconsoleappender-1.3.0.jar",
+      "hash": "sha256-Gv6hvKCVBo9/RIPwYf7tlHU740Iz3bDfnsOA/BTVqYU="
+    },
+    "terminalconsoleappender-1.3.0.module": {
+      "url": "https://maven.neoforged.net/releases/net/minecrell/terminalconsoleappender/1.3.0/terminalconsoleappender-1.3.0.module",
+      "hash": "sha256-7GWxbMkrkElhuvLsZAFBAOt7HJXkUQjw2LgmY260aoI="
+    },
+    "terminalconsoleappender-1.3.0.pom": {
+      "url": "https://maven.neoforged.net/releases/net/minecrell/terminalconsoleappender/1.3.0/terminalconsoleappender-1.3.0.pom",
+      "hash": "sha256-wzbQod6xYk6k0YpZ+csv21R8sy3A3+emAWDgqXj5NaU="
+    }
+  },
+  "net.neoforged:AutoRenamingTool:2.0.17": {
+    "AutoRenamingTool-2.0.17-all.jar": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/AutoRenamingTool/2.0.17/AutoRenamingTool-2.0.17-all.jar",
+      "hash": "sha256-6XfuRCLvtR61TMmfk5gzzvdp3otKoQQylM5UAMYPOx8="
+    },
+    "AutoRenamingTool-2.0.17.jar": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/AutoRenamingTool/2.0.17/AutoRenamingTool-2.0.17.jar",
+      "hash": "sha256-2zmiyV+CmdI787yBt8F/zSaTCBt9P+aPLH0Rqx/zzd4="
+    },
+    "AutoRenamingTool-2.0.17.module": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/AutoRenamingTool/2.0.17/AutoRenamingTool-2.0.17.module",
+      "hash": "sha256-i8BxgPkPpQJEUWkFyg6I6ZMYCOOHS7uACbQEIUW5d20="
+    },
+    "AutoRenamingTool-2.0.17.pom": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/AutoRenamingTool/2.0.17/AutoRenamingTool-2.0.17.pom",
+      "hash": "sha256-l2/erthn7z7nzwea2wSjlQzoT9XX81NpuIjqRyE++3A="
+    }
+  },
+  "net.neoforged:AutoRenamingTool:2.0.16": {
+    "AutoRenamingTool-2.0.16.jar": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/AutoRenamingTool/2.0.16/AutoRenamingTool-2.0.16.jar",
+      "hash": "sha256-rzhCU/QRyaBl47fA0sd6rsOcqf2YzrgpIQtaoEWHDRg="
+    },
+    "AutoRenamingTool-2.0.16.module": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/AutoRenamingTool/2.0.16/AutoRenamingTool-2.0.16.module",
+      "hash": "sha256-EgPzMZQ9KHesZbx5VJzgAZZY9uvXMv8SRPufgGget5U="
+    },
+    "AutoRenamingTool-2.0.16.pom": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/AutoRenamingTool/2.0.16/AutoRenamingTool-2.0.16.pom",
+      "hash": "sha256-xk+/gbk+UfVIggOuF7ZBIIi8JcZOztgzHIPKN6ByAic="
+    }
+  },
+  "net.neoforged:DevLaunch:1.0.2": {
+    "DevLaunch-1.0.2.jar": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/DevLaunch/1.0.2/DevLaunch-1.0.2.jar",
+      "hash": "sha256-NmrcTpWrmzLI4zufRJUpyJN8b8Ah7gxrJUGeortwN0A="
+    },
+    "DevLaunch-1.0.2.module": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/DevLaunch/1.0.2/DevLaunch-1.0.2.module",
+      "hash": "sha256-MKgRl57AT8y9H3jUscOHkTrNCMUuvQyX+H2wiw5h/dw="
+    },
+    "DevLaunch-1.0.2.pom": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/DevLaunch/1.0.2/DevLaunch-1.0.2.pom",
+      "hash": "sha256-SboFOS8b9KUT2oznI3cjDuwmG24ToBm231Jt0i0svDA="
+    }
+  },
+  "net.neoforged:JarJarMetadata:0.5.3": {
+    "JarJarMetadata-0.5.3.jar": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/JarJarMetadata/0.5.3/JarJarMetadata-0.5.3.jar",
+      "hash": "sha256-s/Hitouetsxz7gI8Y/zYdduSBVwre2nIM+ilgRk6bNE="
+    },
+    "JarJarMetadata-0.5.3.module": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/JarJarMetadata/0.5.3/JarJarMetadata-0.5.3.module",
+      "hash": "sha256-+KzhHZHEmxiZtYBl95oZtGceC5lKy05YznQHrwfPsbc="
+    },
+    "JarJarMetadata-0.5.3.pom": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/JarJarMetadata/0.5.3/JarJarMetadata-0.5.3.pom",
+      "hash": "sha256-xoVlbgEfflEGlsUSlBHYN3xzIqM/gJ6Wt+m2kaeriKI="
+    }
+  },
+  "net.neoforged:JarJarMetadata:0.5.0": {
+    "JarJarMetadata-0.5.0.jar": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/JarJarMetadata/0.5.0/JarJarMetadata-0.5.0.jar",
+      "hash": "sha256-9hj0zBmd2i8FzcECyJmyfYFR8TDRxWvDM4gpxB7s494="
+    },
+    "JarJarMetadata-0.5.0.module": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/JarJarMetadata/0.5.0/JarJarMetadata-0.5.0.module",
+      "hash": "sha256-JQt9pb1Xe8IgaRSVv5dTGjrsUyMoNrk6HgrwyTqwW1o="
+    },
+    "JarJarMetadata-0.5.0.pom": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/JarJarMetadata/0.5.0/JarJarMetadata-0.5.0.pom",
+      "hash": "sha256-kKd9YJDIgeJk6DhGQoV9caU85s4b04oN5V1nWZsHLQ8="
+    }
+  },
+  "net.neoforged:JarJarSelector:0.5.3": {
+    "JarJarSelector-0.5.3.jar": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/JarJarSelector/0.5.3/JarJarSelector-0.5.3.jar",
+      "hash": "sha256-zW6rKX+iabsjm39+ytWcgx/j83vwLei93GqdYzTG6hA="
+    },
+    "JarJarSelector-0.5.3.module": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/JarJarSelector/0.5.3/JarJarSelector-0.5.3.module",
+      "hash": "sha256-WFq1P8DUBCe94U3Z7DDoLPTlG66Y+rECzEzVOQNAHrk="
+    },
+    "JarJarSelector-0.5.3.pom": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/JarJarSelector/0.5.3/JarJarSelector-0.5.3.pom",
+      "hash": "sha256-/0Y5fWn/y+8jZ6flC1TQ8geSyDuPledILdU//leH5iQ="
+    }
+  },
+  "net.neoforged:JarJarSelector:0.5.0": {
+    "JarJarSelector-0.5.0.jar": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/JarJarSelector/0.5.0/JarJarSelector-0.5.0.jar",
+      "hash": "sha256-Fcob9NSdm6rksteMpHYZEldZ86PBu/oiMzATm95L8ss="
+    },
+    "JarJarSelector-0.5.0.module": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/JarJarSelector/0.5.0/JarJarSelector-0.5.0.module",
+      "hash": "sha256-yHhXX6dA+qXljicUyHuMmYvDFoAtY8j/nFm4fowQ7Oo="
+    },
+    "JarJarSelector-0.5.0.pom": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/JarJarSelector/0.5.0/JarJarSelector-0.5.0.pom",
+      "hash": "sha256-o/Uh6BACatxrwVSbjHtzEvs0xsT++JzVH7y22ufvm2A="
+    }
+  },
+  "net.neoforged:accesstransformers:13.0.1": {
+    "accesstransformers-13.0.1.jar": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/accesstransformers/13.0.1/accesstransformers-13.0.1.jar",
+      "hash": "sha256-1zVNNDsnZGbWiFbZOnjpCDjrLnKfsaENlCXbyxhvWiI="
+    },
+    "accesstransformers-13.0.1.module": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/accesstransformers/13.0.1/accesstransformers-13.0.1.module",
+      "hash": "sha256-+hRsRN00UrLcglTI4/3qVwFpfZBIhVvn9yfyftKfL0s="
+    },
+    "accesstransformers-13.0.1.pom": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/accesstransformers/13.0.1/accesstransformers-13.0.1.pom",
+      "hash": "sha256-hxxXHNWISNJjIFRzOfdaHfIxmAuaVj92CWXcAJqTJsk="
+    }
+  },
+  "net.neoforged:accesstransformers:11.0.2": {
+    "accesstransformers-11.0.2.jar": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/accesstransformers/11.0.2/accesstransformers-11.0.2.jar",
+      "hash": "sha256-5fF17KBPOraNq0V0IyP1w40bYc+aCYta2FvR0ZYhzbo="
+    },
+    "accesstransformers-11.0.2.module": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/accesstransformers/11.0.2/accesstransformers-11.0.2.module",
+      "hash": "sha256-Z8fgDyVy8lWlrkeGxFohVlTDXoziu/vhJevMLsoC0Zo="
+    },
+    "accesstransformers-11.0.2.pom": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/accesstransformers/11.0.2/accesstransformers-11.0.2.pom",
+      "hash": "sha256-6MxlKDtr1slHaPP/2nI3thamK7HxNuVZZWvM/hxLTaU="
+    }
+  },
+  "net.neoforged:bus:8.0.5": {
+    "bus-8.0.5.jar": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/bus/8.0.5/bus-8.0.5.jar",
+      "hash": "sha256-cF4k83dSgJSZpc0MfdMeqr89kzxdOyBgFo6U6e9iWTo="
+    },
+    "bus-8.0.5.module": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/bus/8.0.5/bus-8.0.5.module",
+      "hash": "sha256-2Igibe9iIMsvJ6Orb7RzI3Cl7JV94BOk/ig91M9+TwI="
+    },
+    "bus-8.0.5.pom": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/bus/8.0.5/bus-8.0.5.pom",
+      "hash": "sha256-sjy5qfoxFSBEWge6Ks2MYPqYkWSfWS8t1MY+9NHiw6I="
+    }
+  },
+  "net.neoforged:groovydslimprover:2.0.0": {
+    "groovydslimprover-2.0.0-base.jar": {
+      "url": "https://plugins.gradle.org/m2/net/neoforged/groovydslimprover/2.0.0/groovydslimprover-2.0.0-base.jar",
+      "hash": "sha256-tbdLTkP6ZKRN+8SxOcpWeW/fKErFjSPfP1YJeK0ljPM="
+    },
+    "groovydslimprover-2.0.0-runtime.jar": {
+      "url": "https://plugins.gradle.org/m2/net/neoforged/groovydslimprover/2.0.0/groovydslimprover-2.0.0-runtime.jar",
+      "hash": "sha256-8Eyb6Zq2OAv/lKO6M2QRO3nbV3TSZ+R8IIxZHWyHChE="
+    },
+    "groovydslimprover-2.0.0.jar": {
+      "url": "https://plugins.gradle.org/m2/net/neoforged/groovydslimprover/2.0.0/groovydslimprover-2.0.0.jar",
+      "hash": "sha256-SHfXcbSbPkfx3yIRUvi7d9u7ZJc3rvWgk1PhxBSHptg="
+    },
+    "groovydslimprover-2.0.0.module": {
+      "url": "https://plugins.gradle.org/m2/net/neoforged/groovydslimprover/2.0.0/groovydslimprover-2.0.0.module",
+      "hash": "sha256-nYcAOcjmhpkiuQNsw8G7KZWVSKxKCa6uEm102lRc1Ww="
+    },
+    "groovydslimprover-2.0.0.pom": {
+      "url": "https://plugins.gradle.org/m2/net/neoforged/groovydslimprover/2.0.0/groovydslimprover-2.0.0.pom",
+      "hash": "sha256-nGs47fp4scPGaKz9D9icur2YqSoIXYEbpo9Fu7nompU="
+    }
+  },
+  "net.neoforged:jarcompatibilitychecker:0.1.26": {
+    "jarcompatibilitychecker-0.1.26.jar": {
+      "url": "https://plugins.gradle.org/m2/net/neoforged/jarcompatibilitychecker/0.1.26/jarcompatibilitychecker-0.1.26.jar",
+      "hash": "sha256-WrLVR2rvMuCTc+RQERnCGKtMCdU7tPBji/dJVALwPtc="
+    },
+    "jarcompatibilitychecker-0.1.26.module": {
+      "url": "https://plugins.gradle.org/m2/net/neoforged/jarcompatibilitychecker/0.1.26/jarcompatibilitychecker-0.1.26.module",
+      "hash": "sha256-vCshl3jJrnhH2P/NvY7+WFlYUDyOXW8lQa6Mcpj8RsY="
+    },
+    "jarcompatibilitychecker-0.1.26.pom": {
+      "url": "https://plugins.gradle.org/m2/net/neoforged/jarcompatibilitychecker/0.1.26/jarcompatibilitychecker-0.1.26.pom",
+      "hash": "sha256-srAas6rTTrzCxSYDvkw51D9RtS3uGVY4k7y7uAoZ1WA="
+    }
+  },
+  "net.neoforged:legacyinstaller:3.0.48": {
+    "legacyinstaller-3.0.48-shrunk.jar": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/legacyinstaller/3.0.48/legacyinstaller-3.0.48-shrunk.jar",
+      "hash": "sha256-HArDFeLWkrYCWzeo10sAutRCMMe/dMcBYgArapWBx28="
+    },
+    "legacyinstaller-3.0.48.pom": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/legacyinstaller/3.0.48/legacyinstaller-3.0.48.pom",
+      "hash": "sha256-wyvMETP12JirCNAaS5BcCM7ZvC5HyLd5hbw178rs0vY="
+    }
+  },
+  "net.neoforged:mergetool:2.0.7": {
+    "mergetool-2.0.7-api.jar": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/mergetool/2.0.7/mergetool-2.0.7-api.jar",
+      "hash": "sha256-549YbghSBuO1aZvwqN4+6UxZ3TTYzVtAM+jFjlrJwuw="
+    },
+    "mergetool-2.0.7.module": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/mergetool/2.0.7/mergetool-2.0.7.module",
+      "hash": "sha256-PUZ6ia29y6agBvuASA8qd87kLOW4Oq9WvAGdOAzzbjM="
+    },
+    "mergetool-2.0.7.pom": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/mergetool/2.0.7/mergetool-2.0.7.pom",
+      "hash": "sha256-IPP332KkOQL3e7bqyRWSaV3uVKWe90o3rp4Gz1THX1M="
+    }
+  },
+  "net.neoforged:mergetool:2.0.0": {
+    "mergetool-2.0.0-api.jar": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/mergetool/2.0.0/mergetool-2.0.0-api.jar",
+      "hash": "sha256-AmCIEpTYshiv49Zz8ITTdFpVwos1IF0H1eYtfyIgKgA="
+    },
+    "mergetool-2.0.0.module": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/mergetool/2.0.0/mergetool-2.0.0.module",
+      "hash": "sha256-4eoNYvzO+guwR29Wi68vsYFzeobgOmVnDc4qZ6ZNAlE="
+    },
+    "mergetool-2.0.0.pom": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/mergetool/2.0.0/mergetool-2.0.0.pom",
+      "hash": "sha256-dMKvPYxcIfPVRPRmZ3ZLf5ZK4ku+5FX41GDB7w7uZR8="
+    }
+  },
+  "net.neoforged:minecraft-dependencies:26.3": {
+    "minecraft-dependencies-26.3.module": {
+      "url": "https://maven.neoforged.net/mojang-meta/net/neoforged/minecraft-dependencies/26.3/minecraft-dependencies-26.3.module",
+      "hash": "sha256-/Oow0s8ApP3Y+PYV7O/5Sa2FHwMJnC0qqQEr0ra2eVE="
+    },
+    "minecraft-dependencies-26.3.pom": {
+      "url": "https://maven.neoforged.net/mojang-meta/net/neoforged/minecraft-dependencies/26.3/minecraft-dependencies-26.3.pom",
+      "hash": "sha256-xWJHyO/leNwP9rlenQFpw6UEA4+Dvd7uazuQVCrPIDU="
+    }
+  },
+  "net.neoforged:moddev-gradle:2.0.148": {
+    "moddev-gradle-2.0.148.jar": {
+      "url": "https://plugins.gradle.org/m2/net/neoforged/moddev-gradle/2.0.148/moddev-gradle-2.0.148.jar",
+      "hash": "sha256-5Mqx4o/O3lIQH/xbtQUv6KTdQbaZmSxSyOwcJn4wYBc="
+    },
+    "moddev-gradle-2.0.148.module": {
+      "url": "https://plugins.gradle.org/m2/net/neoforged/moddev-gradle/2.0.148/moddev-gradle-2.0.148.module",
+      "hash": "sha256-PaWAtn1k9oWznuxls/MPxdPMivqhs6T9WoUgLrRp2JI="
+    },
+    "moddev-gradle-2.0.148.pom": {
+      "url": "https://plugins.gradle.org/m2/net/neoforged/moddev-gradle/2.0.148/moddev-gradle-2.0.148.pom",
+      "hash": "sha256-siKKvZkSdL4zr5YkJJ4qHVPWDp7YnUi2ilBUBMn1t44="
+    }
+  },
+  "net.neoforged:neoform:26.3-1": {
+    "neoform-26.3-1.module": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/neoform/26.3-1/neoform-26.3-1.module",
+      "hash": "sha256-yMnAr7eaEmIloND26UsCw6e3hxZxiAgbqbBwC4sC9UE="
+    },
+    "neoform-26.3-1.pom": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/neoform/26.3-1/neoform-26.3-1.pom",
+      "hash": "sha256-pzmPJWjGJuH+UN8IujXeTv6464rIrtXNzLEQllMrO0c="
+    },
+    "neoform-26.3-1.zip": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/neoform/26.3-1/neoform-26.3-1.zip",
+      "hash": "sha256-31/2c68tkrd5bzEBTT08br3b9SBsqNvNrAVTdc++lFA="
+    }
+  },
+  "net.neoforged:neoform-runtime:2.0.31": {
+    "neoform-runtime-2.0.31-all.jar": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/neoform-runtime/2.0.31/neoform-runtime-2.0.31-all.jar",
+      "hash": "sha256-b1sKrn5CPv7qIcuEjFCW52/E7sQCVsvv3PqhWDsZfAc="
+    },
+    "neoform-runtime-2.0.31.module": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/neoform-runtime/2.0.31/neoform-runtime-2.0.31.module",
+      "hash": "sha256-nrqVUgPYdiJDFQv5XP1cwMSRl7M3/mbUqePYI9+gB9M="
+    },
+    "neoform-runtime-2.0.31.pom": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/neoform-runtime/2.0.31/neoform-runtime-2.0.31.pom",
+      "hash": "sha256-3Rc96qAQUXrboF6PWxJMOAomdn4F32+GuI1OSU03cEE="
+    }
+  },
+  "net.neoforged:srgutils:1.0.10": {
+    "srgutils-1.0.10.jar": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/srgutils/1.0.10/srgutils-1.0.10.jar",
+      "hash": "sha256-5MvIeLxEYnGWsFBykdCaRF/Mi6hAdgGUSgbRuqA63Fw="
+    },
+    "srgutils-1.0.10.module": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/srgutils/1.0.10/srgutils-1.0.10.module",
+      "hash": "sha256-Exl0cNGbx3LA+fX9lcdvb6QMCxrf7phOtYQtlK1NpG8="
+    },
+    "srgutils-1.0.10.pom": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/srgutils/1.0.10/srgutils-1.0.10.pom",
+      "hash": "sha256-s+DdfFIYLADmi8Y/TjZceQu4/ASfjdgHTW6MyZtz7Cw="
+    }
+  },
+  "net.neoforged:srgutils:1.0.0": {
+    "srgutils-1.0.0.jar": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/srgutils/1.0.0/srgutils-1.0.0.jar",
+      "hash": "sha256-FmY64lBKBSLMo4avbBEoHT/eYdJba9JpDXIA6QCybDY="
+    },
+    "srgutils-1.0.0.module": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/srgutils/1.0.0/srgutils-1.0.0.module",
+      "hash": "sha256-thhYAndQztAWvfiRQAm6OZ+46lzdPk1SQYdiNqyOwpw="
+    },
+    "srgutils-1.0.0.pom": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/srgutils/1.0.0/srgutils-1.0.0.pom",
+      "hash": "sha256-sA3fDsxgs7yH25cHn99N/RnvDG0oUasRndOWpqF4+kI="
+    }
+  },
+  "net.neoforged:vineflower-plugins:0.1.6": {
+    "vineflower-plugins-0.1.6.jar": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/vineflower-plugins/0.1.6/vineflower-plugins-0.1.6.jar",
+      "hash": "sha256-RwKxQDoZ0vwILrZ961ZKGMaJIDFfvyy2fYgh7vZTq+8="
+    },
+    "vineflower-plugins-0.1.6.module": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/vineflower-plugins/0.1.6/vineflower-plugins-0.1.6.module",
+      "hash": "sha256-pGpsM+4kL49a5uS/05U9nR6gYRWNe+3lWhI4YAP+zuM="
+    },
+    "vineflower-plugins-0.1.6.pom": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/vineflower-plugins/0.1.6/vineflower-plugins-0.1.6.pom",
+      "hash": "sha256-yd6PNOl1168FYGZ69AjtfMKBzZLgUy23qYZs3NN7kfg="
+    }
+  },
+  "net.neoforged.accesstransformers:at-parser:13.0.1": {
+    "at-parser-13.0.1.jar": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/accesstransformers/at-parser/13.0.1/at-parser-13.0.1.jar",
+      "hash": "sha256-RXZQdjX9Q0pHZovROrESCboDbKtoJhaz4QgmN5Ofsvw="
+    },
+    "at-parser-13.0.1.module": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/accesstransformers/at-parser/13.0.1/at-parser-13.0.1.module",
+      "hash": "sha256-E1Pw84lEpWSkhgkzmBtTms6Zb7s8AT8PRpIfGiD04LU="
+    },
+    "at-parser-13.0.1.pom": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/accesstransformers/at-parser/13.0.1/at-parser-13.0.1.pom",
+      "hash": "sha256-XsSRIyJxZUhy2Ufx+CEoCQdpXJD9FCT/9WF3/UeFzYo="
+    }
+  },
+  "net.neoforged.accesstransformers:at-parser:11.0.2": {
+    "at-parser-11.0.2.jar": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/accesstransformers/at-parser/11.0.2/at-parser-11.0.2.jar",
+      "hash": "sha256-VGvzZTfGBrTRTLGjE4c/QfuhODfQZ5h6MhcMSjGZ8Io="
+    },
+    "at-parser-11.0.2.module": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/accesstransformers/at-parser/11.0.2/at-parser-11.0.2.module",
+      "hash": "sha256-quTNFSRrjPobb5wT9iKXlVkdMI6+bnxoL6qyHKrcK+Y="
+    },
+    "at-parser-11.0.2.pom": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/accesstransformers/at-parser/11.0.2/at-parser-11.0.2.pom",
+      "hash": "sha256-xam+tfuuIkPBkDXZ0CsCe7YPVK2fRnlxOz7sX/gVVUg="
+    }
+  },
+  "net.neoforged.fancymodloader:earlydisplay:12.0.12": {
+    "earlydisplay-12.0.12.jar": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/earlydisplay/12.0.12/earlydisplay-12.0.12.jar",
+      "hash": "sha256-KQvv41F40XyqVT+y9CUBs+GVqh0V6O1qCJNduCki5vY="
+    },
+    "earlydisplay-12.0.12.module": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/earlydisplay/12.0.12/earlydisplay-12.0.12.module",
+      "hash": "sha256-9kkEC1zf4B1ZgMACbyFrJLJ05QJYqSk/mhlYGvZCCgQ="
+    },
+    "earlydisplay-12.0.12.pom": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/earlydisplay/12.0.12/earlydisplay-12.0.12.pom",
+      "hash": "sha256-o446Npe6Szw47P7MbhBFYfgzLx/QDMEvJI8PFGG4Nvg="
+    }
+  },
+  "net.neoforged.fancymodloader:junit-fml:12.0.12": {
+    "junit-fml-12.0.12.jar": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/junit-fml/12.0.12/junit-fml-12.0.12.jar",
+      "hash": "sha256-bCXRMMa1FZLdeXGIM70+BACqkPKqX2/OLptuBjgC7A8="
+    },
+    "junit-fml-12.0.12.module": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/junit-fml/12.0.12/junit-fml-12.0.12.module",
+      "hash": "sha256-KJ4D15m3DvnBX17c/peuloGqhTtsZkDDcOQsQ6mVh9Y="
+    },
+    "junit-fml-12.0.12.pom": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/junit-fml/12.0.12/junit-fml-12.0.12.pom",
+      "hash": "sha256-EJc58sKAuKO7KutuS2KDzQqOr0cvG9lHmCaJnWG4jPU="
+    }
+  },
+  "net.neoforged.fancymodloader:loader:12.0.12": {
+    "loader-12.0.12.jar": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/loader/12.0.12/loader-12.0.12.jar",
+      "hash": "sha256-JOZPkV2iBmlDFEX/q19WdVLD4B/TxcLPAA5c63VCSic="
+    },
+    "loader-12.0.12.module": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/loader/12.0.12/loader-12.0.12.module",
+      "hash": "sha256-AIxD0m8akU2pa3QktTASojt1Y7+SmOxlSBFH3EyvlMU="
+    },
+    "loader-12.0.12.pom": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/loader/12.0.12/loader-12.0.12.pom",
+      "hash": "sha256-m/O5RzYcfcRXgUAX7q02I4DkPoxaZwcBpnSCIam1nAg="
+    }
+  },
+  "net.neoforged.gradleutils:GradleUtils:6.0.0": {
+    "GradleUtils-6.0.0.jar": {
+      "url": "https://plugins.gradle.org/m2/net/neoforged/gradleutils/GradleUtils/6.0.0/GradleUtils-6.0.0.jar",
+      "hash": "sha256-VxCJXm8OpP8A8e1yAOwQEKG6c20juAGOrhqno3mxLDY="
+    },
+    "GradleUtils-6.0.0.module": {
+      "url": "https://plugins.gradle.org/m2/net/neoforged/gradleutils/GradleUtils/6.0.0/GradleUtils-6.0.0.module",
+      "hash": "sha256-5GUeFfuugxUqUd6NS1MsBjKXWb9s+UKXP7tosXyIFDo="
+    },
+    "GradleUtils-6.0.0.pom": {
+      "url": "https://plugins.gradle.org/m2/net/neoforged/gradleutils/GradleUtils/6.0.0/GradleUtils-6.0.0.pom",
+      "hash": "sha256-aiSa4x2mg1yyoadfRF5neFuIYmg9z5Vyr/CYLM1OLNA="
+    }
+  },
+  "net.neoforged.gradleutils:net.neoforged.gradleutils.gradle.plugin:6.0.0": {
+    "net.neoforged.gradleutils.gradle.plugin-6.0.0.pom": {
+      "url": "https://plugins.gradle.org/m2/net/neoforged/gradleutils/net.neoforged.gradleutils.gradle.plugin/6.0.0/net.neoforged.gradleutils.gradle.plugin-6.0.0.pom",
+      "hash": "sha256-msUaYgQQPVnPp1oqQ1MisEUTqjKUVW4d0QjxDKB6LoA="
+    }
+  },
+  "net.neoforged.installertools:binarypatcher:4.0.17": {
+    "binarypatcher-4.0.17-fatjar.jar": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/installertools/binarypatcher/4.0.17/binarypatcher-4.0.17-fatjar.jar",
+      "hash": "sha256-O5nBA5r7sZECCtXfeMANAaV5o7IDPrgnHqnV40C7nIE="
+    },
+    "binarypatcher-4.0.17.jar": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/installertools/binarypatcher/4.0.17/binarypatcher-4.0.17.jar",
+      "hash": "sha256-QZAVJL0Z8h720ba4dZy6t/9gkvbaxWBi6wpCr2N5uTc="
+    },
+    "binarypatcher-4.0.17.module": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/installertools/binarypatcher/4.0.17/binarypatcher-4.0.17.module",
+      "hash": "sha256-eumH2GtfgWlrngvQ+KBJUyfduPBJXCGTiydhGW9UagQ="
+    },
+    "binarypatcher-4.0.17.pom": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/installertools/binarypatcher/4.0.17/binarypatcher-4.0.17.pom",
+      "hash": "sha256-iHp3Fdz9Ot8vlrtRXFfjdW3bd5R3R6OoK5tpKmkGysk="
+    }
+  },
+  "net.neoforged.installertools:binarypatcher:4.0.12": {
+    "binarypatcher-4.0.12.jar": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/installertools/binarypatcher/4.0.12/binarypatcher-4.0.12.jar",
+      "hash": "sha256-C6dMiamx8uMt+BULTdkJBFhOQ0PHn8XWZwZYjSpbauQ="
+    },
+    "binarypatcher-4.0.12.module": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/installertools/binarypatcher/4.0.12/binarypatcher-4.0.12.module",
+      "hash": "sha256-QBBTygcZ9h6en7Wd0qTed8+pbv92Um1MLGMgZOlE0P8="
+    },
+    "binarypatcher-4.0.12.pom": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/installertools/binarypatcher/4.0.12/binarypatcher-4.0.12.pom",
+      "hash": "sha256-AEyZF/XGE4SAiNhHivOnyBJK9fME3AnZUFyH6NNMOY0="
+    }
+  },
+  "net.neoforged.installertools:cli-utils:4.0.17": {
+    "cli-utils-4.0.17.jar": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/installertools/cli-utils/4.0.17/cli-utils-4.0.17.jar",
+      "hash": "sha256-8S52Zrqg3ZNftm574nIS2mM/HVOOvvzLEb5FBvKQCYQ="
+    },
+    "cli-utils-4.0.17.module": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/installertools/cli-utils/4.0.17/cli-utils-4.0.17.module",
+      "hash": "sha256-SDWI5xfluah31xDv9S7ZFK+4+P2wP7CJ+TeQfVN4CYA="
+    },
+    "cli-utils-4.0.17.pom": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/installertools/cli-utils/4.0.17/cli-utils-4.0.17.pom",
+      "hash": "sha256-3K1AOU1MGz7NuaPa5/yuMo8SC0+GVpxoF9p38TSulJI="
+    }
+  },
+  "net.neoforged.installertools:cli-utils:4.0.12": {
+    "cli-utils-4.0.12.jar": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/installertools/cli-utils/4.0.12/cli-utils-4.0.12.jar",
+      "hash": "sha256-6OLEHwsFhoms+6zUIEp+MuxdCyjgLEAg94gAPKJud6U="
+    },
+    "cli-utils-4.0.12.module": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/installertools/cli-utils/4.0.12/cli-utils-4.0.12.module",
+      "hash": "sha256-Xco0Lljn4O98wOmqEGSBem7aZlvoPvJ752jzHvOesC8="
+    },
+    "cli-utils-4.0.12.pom": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/installertools/cli-utils/4.0.12/cli-utils-4.0.12.pom",
+      "hash": "sha256-xBMbSKNCk8JPA7DoiF1yGJXBRZp0JXiNuSTtACjd12M="
+    }
+  },
+  "net.neoforged.installertools:cli-utils:2.1.4": {
+    "cli-utils-2.1.4.module": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/installertools/cli-utils/2.1.4/cli-utils-2.1.4.module",
+      "hash": "sha256-khhnj11zRvkbah1UvqRs+oaGxJV9NW/xTwMJYxPrKYg="
+    },
+    "cli-utils-2.1.4.pom": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/installertools/cli-utils/2.1.4/cli-utils-2.1.4.pom",
+      "hash": "sha256-g+B6OxcEZ3D8AGQQDp1IAUodEzuIn961NNMFWDRy66o="
+    }
+  },
+  "net.neoforged.installertools:installertools:4.0.17": {
+    "installertools-4.0.17-fatjar.jar": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/installertools/installertools/4.0.17/installertools-4.0.17-fatjar.jar",
+      "hash": "sha256-QSxfW9dHF9YkQaPVkUlFEi9/RPBjyQKEVFuwubqHUbk="
+    },
+    "installertools-4.0.17.module": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/installertools/installertools/4.0.17/installertools-4.0.17.module",
+      "hash": "sha256-aGwqF9vxbHXk6YrhHdmFUOPkhg0RXWUtgqse+pVnMmU="
+    },
+    "installertools-4.0.17.pom": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/installertools/installertools/4.0.17/installertools-4.0.17.pom",
+      "hash": "sha256-Ku2vSZku0MPKg2UdrNVcgk4H7qPBGkghgtTw5d4TmtE="
+    }
+  },
+  "net.neoforged.installertools:installertools:4.0.12": {
+    "installertools-4.0.12-fatjar.jar": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/installertools/installertools/4.0.12/installertools-4.0.12-fatjar.jar",
+      "hash": "sha256-uj6dJ9n1FF+CmslBJOPZe4DwJ5SdaQtDAwVzRSbxQ9s="
+    },
+    "installertools-4.0.12.module": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/installertools/installertools/4.0.12/installertools-4.0.12.module",
+      "hash": "sha256-OhlfwsLwRjoi0QKL5/a9f+wM/QhZbG0ncq73Jt/cZ3Y="
+    },
+    "installertools-4.0.12.pom": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/installertools/installertools/4.0.12/installertools-4.0.12.pom",
+      "hash": "sha256-BwxZHT5slhUj9TyRUh6337T0KK3I0aOLUaxWUI8iXIM="
+    }
+  },
+  "net.neoforged.jarcompatibilitychecker:net.neoforged.jarcompatibilitychecker.gradle.plugin:0.1.26": {
+    "net.neoforged.jarcompatibilitychecker.gradle.plugin-0.1.26.pom": {
+      "url": "https://plugins.gradle.org/m2/net/neoforged/jarcompatibilitychecker/net.neoforged.jarcompatibilitychecker.gradle.plugin/0.1.26/net.neoforged.jarcompatibilitychecker.gradle.plugin-0.1.26.pom",
+      "hash": "sha256-/AHvRndWgeNSLjI50ch2PmNkwcVZfP6yk3zwRP2znHE="
+    }
+  },
+  "net.neoforged.jarcompatibilitychecker:plugin:0.1.26": {
+    "plugin-0.1.26.jar": {
+      "url": "https://plugins.gradle.org/m2/net/neoforged/jarcompatibilitychecker/plugin/0.1.26/plugin-0.1.26.jar",
+      "hash": "sha256-ciMb07/nG3pb45GCG33lLsuU1w6aTY7Q51hSt5BepUQ="
+    },
+    "plugin-0.1.26.module": {
+      "url": "https://plugins.gradle.org/m2/net/neoforged/jarcompatibilitychecker/plugin/0.1.26/plugin-0.1.26.module",
+      "hash": "sha256-oC+PEk7kSR+PEuWNJDmcqjPzz1L6KS+u0PHKpaPnNoI="
+    },
+    "plugin-0.1.26.pom": {
+      "url": "https://plugins.gradle.org/m2/net/neoforged/jarcompatibilitychecker/plugin/0.1.26/plugin-0.1.26.pom",
+      "hash": "sha256-hSdVtav2xXL46fneprGnd/2KZKhZjgwpZJ4JUFFg/rI="
+    }
+  },
+  "net.neoforged.javadoctor:gson-io:2.0.17": {
+    "gson-io-2.0.17.jar": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/javadoctor/gson-io/2.0.17/gson-io-2.0.17.jar",
+      "hash": "sha256-3kChCttYEF6Ehk3/QePvSQ2HQRr6OQ2GqUDHSmv2mCE="
+    },
+    "gson-io-2.0.17.module": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/javadoctor/gson-io/2.0.17/gson-io-2.0.17.module",
+      "hash": "sha256-GzqwSTSmK8HVdnB9+7JgTr8P10GBTxHi6ABbAuGs/lk="
+    },
+    "gson-io-2.0.17.pom": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/javadoctor/gson-io/2.0.17/gson-io-2.0.17.pom",
+      "hash": "sha256-UDhTuExpBJF+3xdEOi4xipmGWSzpQF2nS1zRhq4/r+Q="
+    }
+  },
+  "net.neoforged.javadoctor:spec:2.0.17": {
+    "spec-2.0.17.jar": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/javadoctor/spec/2.0.17/spec-2.0.17.jar",
+      "hash": "sha256-Z9b93ph3DpHoIwP94c5VYPEggbcz2ge/p7rHGWipPf8="
+    },
+    "spec-2.0.17.module": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/javadoctor/spec/2.0.17/spec-2.0.17.module",
+      "hash": "sha256-ThVZo+tPLzzew/wspjklnXGlWBG+3Y7R4T/RwOFx7nw="
+    },
+    "spec-2.0.17.pom": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/javadoctor/spec/2.0.17/spec-2.0.17.pom",
+      "hash": "sha256-zuw2pBXP1xsxklMfxvXolOOgGrRPfGiDYJlJduxxNqY="
+    }
+  },
+  "net.neoforged.jst:jst-cli-bundle:2.0.11": {
+    "jst-cli-bundle-2.0.11.jar": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/jst/jst-cli-bundle/2.0.11/jst-cli-bundle-2.0.11.jar",
+      "hash": "sha256-HgWPh/bD3g0T121tFKdpinSecmhSGpUpj3ZCKOvuiNs="
+    },
+    "jst-cli-bundle-2.0.11.module": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/jst/jst-cli-bundle/2.0.11/jst-cli-bundle-2.0.11.module",
+      "hash": "sha256-PERQki9B+cnOFrYJCtEty8dmidnWrL/XG5+Rh2MPai8="
+    },
+    "jst-cli-bundle-2.0.11.pom": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/jst/jst-cli-bundle/2.0.11/jst-cli-bundle-2.0.11.pom",
+      "hash": "sha256-4iwPTk/YbIcSgELNSjrGf5d5Q95kqsTC9eB7SPcZuoI="
+    }
+  },
+  "net.neoforged.licenser:licenser:0.7.5": {
+    "licenser-0.7.5.jar": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/licenser/licenser/0.7.5/licenser-0.7.5.jar",
+      "hash": "sha256-KGTphDmdbI7Pl5xX7boIipjMgA9oOlu5M4NT2uyDvJk="
+    },
+    "licenser-0.7.5.module": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/licenser/licenser/0.7.5/licenser-0.7.5.module",
+      "hash": "sha256-wEDY8WEdosTIfYrqFv+2LCwmkZz0hhjKnfDRqMzzUWc="
+    },
+    "licenser-0.7.5.pom": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/licenser/licenser/0.7.5/licenser-0.7.5.pom",
+      "hash": "sha256-+L/r+XrmzTtmjYKEl7VGixJBM6y5uUxDGcM7xhH9Bgg="
+    }
+  },
+  "net.neoforged.licenser:net.neoforged.licenser.gradle.plugin:0.7.5": {
+    "net.neoforged.licenser.gradle.plugin-0.7.5.pom": {
+      "url": "https://maven.neoforged.net/releases/net/neoforged/licenser/net.neoforged.licenser.gradle.plugin/0.7.5/net.neoforged.licenser.gradle.plugin-0.7.5.pom",
+      "hash": "sha256-gLlFl2rkAzCvNePh5RdjlZxW+96h+SXsjQqTARagy7A="
+    }
+  },
+  "net.neoforged.moddev.repositories:net.neoforged.moddev.repositories.gradle.plugin:2.0.148": {
+    "net.neoforged.moddev.repositories.gradle.plugin-2.0.148.pom": {
+      "url": "https://plugins.gradle.org/m2/net/neoforged/moddev/repositories/net.neoforged.moddev.repositories.gradle.plugin/2.0.148/net.neoforged.moddev.repositories.gradle.plugin-2.0.148.pom",
+      "hash": "sha256-Rnqi2cMA8SvC3jFHx75GWUiTAhxka+r+no572ZM6z98="
+    }
+  },
+  "net.sf.jopt-simple:jopt-simple:6.0-alpha-3": {
+    "jopt-simple-6.0-alpha-3.jar": {
+      "url": "https://maven.neoforged.net/releases/net/sf/jopt-simple/jopt-simple/6.0-alpha-3/jopt-simple-6.0-alpha-3.jar",
+      "hash": "sha256-1EDOuDnWrbXPqBqjIYE9YCVeaKPpylZMkRJlmTEKveU="
+    },
+    "jopt-simple-6.0-alpha-3.pom": {
+      "url": "https://maven.neoforged.net/releases/net/sf/jopt-simple/jopt-simple/6.0-alpha-3/jopt-simple-6.0-alpha-3.pom",
+      "hash": "sha256-wTAtZV+AMPqkzRYATFLGX39cr2XbAZU9/CXSQ9thq+Q="
+    }
+  },
+  "net.sf.jopt-simple:jopt-simple:5.0.4": {
+    "jopt-simple-5.0.4.jar": {
+      "url": "https://plugins.gradle.org/m2/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar",
+      "hash": "sha256-3ybMWPI19HfbB/dTulo6skPr5Xidn4ns9o3WLqmmbCg="
+    },
+    "jopt-simple-5.0.4.pom": {
+      "url": "https://plugins.gradle.org/m2/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.pom",
+      "hash": "sha256-amd2O3avzZyAuV5cXiR4LRjMGw49m0VK0/h1THa3aBU="
+    }
+  },
+  "org.apache:apache:40": {
+    "apache-40.pom": {
+      "url": "https://plugins.gradle.org/m2/org/apache/apache/40/apache-40.pom",
+      "hash": "sha256-nHn1daWatbYi9ZEWlBGk/c+rcfjcBEC+rth6xrm5Qfc="
+    }
+  },
+  "org.apache:apache:37": {
+    "apache-37.pom": {
+      "url": "https://plugins.gradle.org/m2/org/apache/apache/37/apache-37.pom",
+      "hash": "sha256-Uk7EeHr/c69rOp+voVTH8YgbZIKZtmP9v8rdoShvI1M="
+    }
+  },
+  "org.apache:apache:35": {
+    "apache-35.pom": {
+      "url": "https://plugins.gradle.org/m2/org/apache/apache/35/apache-35.pom",
+      "hash": "sha256-6il9zRFBNui46LYwIw1Sp2wvxp9sXbJdZysYVwAHKLg="
+    }
+  },
+  "org.apache:apache:31": {
+    "apache-31.pom": {
+      "url": "https://maven.neoforged.net/releases/org/apache/apache/31/apache-31.pom",
+      "hash": "sha256-VV0MnqppwEKv+SSSe5OB6PgXQTbTVe6tRFIkRS5ikcw="
+    }
+  },
+  "org.apache:apache:25": {
+    "apache-25.pom": {
+      "url": "https://maven.neoforged.net/releases/org/apache/apache/25/apache-25.pom",
+      "hash": "sha256-5o/BmkjOxYKmcy/QsQ2/6f7KJQYJY974nlR/ijdZ03k="
+    }
+  },
+  "org.apache:apache:24": {
+    "apache-24.pom": {
+      "url": "https://maven.neoforged.net/releases/org/apache/apache/24/apache-24.pom",
+      "hash": "sha256-LpO7q+NBOviaDDv7nmv3Hbyej5+xTMux14vQJ13xxSU="
+    }
+  },
+  "org.apache:apache:23": {
+    "apache-23.pom": {
+      "url": "https://maven.neoforged.net/releases/org/apache/apache/23/apache-23.pom",
+      "hash": "sha256-vBBiTgYj82V3+sVjnKKTbTJA7RUvttjVM6tNJwVDSRw="
+    }
+  },
+  "org.apache:apache:21": {
+    "apache-21.pom": {
+      "url": "https://maven.neoforged.net/releases/org/apache/apache/21/apache-21.pom",
+      "hash": "sha256-rxDBCNoBTxfK+se1KytLWjocGCZfoq+XoyXZFDU3s4A="
+    }
+  },
+  "org.apache:apache:19": {
+    "apache-19.pom": {
+      "url": "https://maven.neoforged.net/releases/org/apache/apache/19/apache-19.pom",
+      "hash": "sha256-kfejMJbqabrCy69tAf65NMrAAsSNjIz6nCQLQPHsId8="
+    }
+  },
+  "org.apache:apache:18": {
+    "apache-18.pom": {
+      "url": "https://maven.neoforged.net/releases/org/apache/apache/18/apache-18.pom",
+      "hash": "sha256-eDEwcoX9R1u8NrIK4454gvEcMVOx1ZMPhS1E7ajzPBc="
+    }
+  },
+  "org.apache.commons:commons-compress:1.28.0": {
+    "commons-compress-1.28.0.jar": {
+      "url": "https://plugins.gradle.org/m2/org/apache/commons/commons-compress/1.28.0/commons-compress-1.28.0.jar",
+      "hash": "sha256-4VIpRSGEVvNkmjm8Sv1wzkvUZiIVGdun03jyFBpGQso="
+    },
+    "commons-compress-1.28.0.pom": {
+      "url": "https://plugins.gradle.org/m2/org/apache/commons/commons-compress/1.28.0/commons-compress-1.28.0.pom",
+      "hash": "sha256-Az9MeNYy2ojQ646tl0/BSiZDks6/EqtsaNbOp63wxko="
+    }
+  },
+  "org.apache.commons:commons-compress:1.18": {
+    "commons-compress-1.18.jar": {
+      "url": "https://maven.neoforged.net/releases/org/apache/commons/commons-compress/1.18/commons-compress-1.18.jar",
+      "hash": "sha256-Xy3x5GeCXkysWZbUSJDEIBwAC0PAsjz/wHgtKKC+ubA="
+    },
+    "commons-compress-1.18.pom": {
+      "url": "https://maven.neoforged.net/releases/org/apache/commons/commons-compress/1.18/commons-compress-1.18.pom",
+      "hash": "sha256-Zyxf6SvT6rQ+jVMzjK1coHO2Up3k6ys4hZo+qmyegRk="
+    }
+  },
+  "org.apache.commons:commons-lang3:3.20.0": {
+    "commons-lang3-3.20.0.jar": {
+      "url": "https://plugins.gradle.org/m2/org/apache/commons/commons-lang3/3.20.0/commons-lang3-3.20.0.jar",
+      "hash": "sha256-aeXJ+jXaelGl/SCZ3+VqLY0yzyM+L213DnlhRkQCY/Q="
+    },
+    "commons-lang3-3.20.0.pom": {
+      "url": "https://plugins.gradle.org/m2/org/apache/commons/commons-lang3/3.20.0/commons-lang3-3.20.0.pom",
+      "hash": "sha256-fKg7JwnB56ngO1ds1BQiGQN5SJqAhm5UL4yLlVQRoqo="
+    }
+  },
+  "org.apache.commons:commons-lang3:3.12.0": {
+    "commons-lang3-3.12.0.pom": {
+      "url": "https://libraries.minecraft.net/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.pom",
+      "hash": "sha256-gtMfHcxFg+/9dE6XkWWxbaZL+GvKYj/F0bA+2U9FyFo="
+    }
+  },
+  "org.apache.commons:commons-lang3:3.9": {
+    "commons-lang3-3.9.jar": {
+      "url": "https://maven.neoforged.net/releases/org/apache/commons/commons-lang3/3.9/commons-lang3-3.9.jar",
+      "hash": "sha256-3i4dzc8++ReozoWGYaBnJqmpRPKOM61/ngi+pE3DwjA="
+    },
+    "commons-lang3-3.9.pom": {
+      "url": "https://maven.neoforged.net/releases/org/apache/commons/commons-lang3/3.9/commons-lang3-3.9.pom",
+      "hash": "sha256-pAIkKbmEJbQwGBkVchJ5pS9hDzRki9rEh9TKy76N/rU="
+    }
+  },
+  "org.apache.commons:commons-parent:98": {
+    "commons-parent-98.pom": {
+      "url": "https://plugins.gradle.org/m2/org/apache/commons/commons-parent/98/commons-parent-98.pom",
+      "hash": "sha256-1AMYUn9WAz4P8HiZccw4yFaqmaaF7qEScIFOfx7an7o="
+    }
+  },
+  "org.apache.commons:commons-parent:92": {
+    "commons-parent-92.pom": {
+      "url": "https://plugins.gradle.org/m2/org/apache/commons/commons-parent/92/commons-parent-92.pom",
+      "hash": "sha256-lPbAJ7FfZAKZXdGyx+o1v+HryItoMrMTQ2i0GZhyGVM="
+    }
+  },
+  "org.apache.commons:commons-parent:85": {
+    "commons-parent-85.pom": {
+      "url": "https://plugins.gradle.org/m2/org/apache/commons/commons-parent/85/commons-parent-85.pom",
+      "hash": "sha256-0Yn/LAAn6Wu2XTHm8iftKvlmFps2rx6XPdW6CJJtx7U="
+    }
+  },
+  "org.apache.commons:commons-parent:52": {
+    "commons-parent-52.pom": {
+      "url": "https://maven.neoforged.net/releases/org/apache/commons/commons-parent/52/commons-parent-52.pom",
+      "hash": "sha256-ddvo806Y5MP/QtquSi+etMvNO18QR9VEYKzpBtu0UC4="
+    }
+  },
+  "org.apache.commons:commons-parent:48": {
+    "commons-parent-48.pom": {
+      "url": "https://maven.neoforged.net/releases/org/apache/commons/commons-parent/48/commons-parent-48.pom",
+      "hash": "sha256-Hh996TcKe3kB8Sjx2s0UIr504/R/lViw954EwGN8oLQ="
+    }
+  },
+  "org.apache.commons:commons-parent:47": {
+    "commons-parent-47.pom": {
+      "url": "https://maven.neoforged.net/releases/org/apache/commons/commons-parent/47/commons-parent-47.pom",
+      "hash": "sha256-io7LVwVTv58f+uIRqNTKnuYwwXr+WSkzaPunvZtC/Lc="
+    }
+  },
+  "org.apache.groovy:groovy-bom:4.0.27": {
+    "groovy-bom-4.0.27.module": {
+      "url": "https://maven.neoforged.net/releases/org/apache/groovy/groovy-bom/4.0.27/groovy-bom-4.0.27.module",
+      "hash": "sha256-1sIlTINHuEzahMr3SRShh8Lzd+QoTo2Ls/kBUhgQqos="
+    },
+    "groovy-bom-4.0.27.pom": {
+      "url": "https://maven.neoforged.net/releases/org/apache/groovy/groovy-bom/4.0.27/groovy-bom-4.0.27.pom",
+      "hash": "sha256-qkTrUr/f5h0ns+RQ0rNI2I3qo0N6tNnUmoQJU0j59vs="
+    }
+  },
+  "org.apache.logging:logging-parent:10.5.0": {
+    "logging-parent-10.5.0.pom": {
+      "url": "https://maven.neoforged.net/releases/org/apache/logging/logging-parent/10.5.0/logging-parent-10.5.0.pom",
+      "hash": "sha256-ngk5zAKXfp/1KOdmBj4PMiTTbok7pMkh8JINtI86xqk="
+    }
+  },
+  "org.apache.logging:logging-parent:5": {
+    "logging-parent-5.pom": {
+      "url": "https://maven.neoforged.net/releases/org/apache/logging/logging-parent/5/logging-parent-5.pom",
+      "hash": "sha256-3HYwz4LLMfTUdiFgVCIa/9UldG7pZUEkD0UvcyNwMCI="
+    }
+  },
+  "org.apache.logging:logging-parent:1": {
+    "logging-parent-1.pom": {
+      "url": "https://maven.neoforged.net/releases/org/apache/logging/logging-parent/1/logging-parent-1.pom",
+      "hash": "sha256-NLK/T1MagJFolhZy/0GdGr+WcluN/lKYDwDIxOsTS9Y="
+    }
+  },
+  "org.apache.logging.log4j:log4j:2.26.0": {
+    "log4j-2.26.0.pom": {
+      "url": "https://maven.neoforged.net/releases/org/apache/logging/log4j/log4j/2.26.0/log4j-2.26.0.pom",
+      "hash": "sha256-5fqx/dFG24mAzuDdE4P1+vinkmYG+si9qpv+8XyY1cQ="
+    }
+  },
+  "org.apache.logging.log4j:log4j:2.22.1": {
+    "log4j-2.22.1.pom": {
+      "url": "https://maven.neoforged.net/releases/org/apache/logging/log4j/log4j/2.22.1/log4j-2.22.1.pom",
+      "hash": "sha256-7Zibb7CaJW69TP3MIZaIuhw9beS087UUVC0WVj3CkJc="
+    }
+  },
+  "org.apache.logging.log4j:log4j:2.19.0": {
+    "log4j-2.19.0.pom": {
+      "url": "https://maven.neoforged.net/releases/org/apache/logging/log4j/log4j/2.19.0/log4j-2.19.0.pom",
+      "hash": "sha256-FWJLoaVtv4ZGBgdFMlM2GPoytGQvcoUfy+kuE2vq7JQ="
+    }
+  },
+  "org.apache.logging.log4j:log4j:2.8.1": {
+    "log4j-2.8.1.pom": {
+      "url": "https://maven.neoforged.net/releases/org/apache/logging/log4j/log4j/2.8.1/log4j-2.8.1.pom",
+      "hash": "sha256-eNSr7ft/3QHzJ2oNF6Xq7c6embnS7oO7n8imCeF3cpo="
+    }
+  },
+  "org.apache.logging.log4j:log4j-api:2.26.0": {
+    "log4j-api-2.26.0.jar": {
+      "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-api/2.26.0/log4j-api-2.26.0.jar",
+      "hash": "sha256-gg3nu69DDq8uPlzLkvI+IIV5fFrE1Pf8bItmD776Hbw="
+    },
+    "log4j-api-2.26.0.pom": {
+      "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-api/2.26.0/log4j-api-2.26.0.pom",
+      "hash": "sha256-pLhyPB5gXu3Cs5bdtTL6BhryQufi4mmOytUCsMNcV7I="
+    }
+  },
+  "org.apache.logging.log4j:log4j-api:2.22.1": {
+    "log4j-api-2.22.1.pom": {
+      "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-api/2.22.1/log4j-api-2.22.1.pom",
+      "hash": "sha256-bVdUd3E5Sz7hj57T7/ohWXGeLzY0Ynhj0FAjup/Y4Ys="
+    }
+  },
+  "org.apache.logging.log4j:log4j-bom:2.26.0": {
+    "log4j-bom-2.26.0.pom": {
+      "url": "https://maven.neoforged.net/releases/org/apache/logging/log4j/log4j-bom/2.26.0/log4j-bom-2.26.0.pom",
+      "hash": "sha256-1K8Y0C3O/GV/Wkl/M5wUuf3lVGhsfIHF+Acr4WXbdXg="
+    }
+  },
+  "org.apache.logging.log4j:log4j-bom:2.22.1": {
+    "log4j-bom-2.22.1.pom": {
+      "url": "https://maven.neoforged.net/releases/org/apache/logging/log4j/log4j-bom/2.22.1/log4j-bom-2.22.1.pom",
+      "hash": "sha256-nxUjceNriy6m6yyb0YgnYAafNhgKbygXfmpIwoFMDyM="
+    }
+  },
+  "org.apache.logging.log4j:log4j-bom:2.19.0": {
+    "log4j-bom-2.19.0.pom": {
+      "url": "https://maven.neoforged.net/releases/org/apache/logging/log4j/log4j-bom/2.19.0/log4j-bom-2.19.0.pom",
+      "hash": "sha256-jGp6wVCpGKIpBzNf1VZpFHMe14E2l3DVJfZMDQf+h+c="
+    }
+  },
+  "org.apache.logging.log4j:log4j-core:2.26.0": {
+    "log4j-core-2.26.0.jar": {
+      "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-core/2.26.0/log4j-core-2.26.0.jar",
+      "hash": "sha256-QGuzEyxHpdMi5cVx/rB4fKhElkafNG61Hx7y7kVJmQI="
+    },
+    "log4j-core-2.26.0.pom": {
+      "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-core/2.26.0/log4j-core-2.26.0.pom",
+      "hash": "sha256-pAJ6Ewgiftxul2LUHNIAqueglUL917rrR6l0EJ5WduM="
+    }
+  },
+  "org.apache.logging.log4j:log4j-core:2.22.1": {
+    "log4j-core-2.22.1.pom": {
+      "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-core/2.22.1/log4j-core-2.22.1.pom",
+      "hash": "sha256-HPf2SP7UPwv6wzKNk/yCPHSZB4/XkE4YtlSbsQeKnFI="
+    }
+  },
+  "org.apache.logging.log4j:log4j-core:2.8.1": {
+    "log4j-core-2.8.1.pom": {
+      "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-core/2.8.1/log4j-core-2.8.1.pom",
+      "hash": "sha256-bvvzoZuA+4EjkqyZoRMTjx6QnYXfpEwIE8HGlze4LFI="
+    }
+  },
+  "org.apache.logging.log4j:log4j-slf4j2-impl:2.26.0": {
+    "log4j-slf4j2-impl-2.26.0.jar": {
+      "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-slf4j2-impl/2.26.0/log4j-slf4j2-impl-2.26.0.jar",
+      "hash": "sha256-z8G929OeaEtpiuloKR2KOzpV7g7C7z0+pcIzap4VFZg="
+    },
+    "log4j-slf4j2-impl-2.26.0.pom": {
+      "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-slf4j2-impl/2.26.0/log4j-slf4j2-impl-2.26.0.pom",
+      "hash": "sha256-kGxQhfOYyeT5psxrpWxeVbjgpxXx5ytXT8qkkkO67Gw="
+    }
+  },
+  "org.apache.logging.log4j:log4j-slf4j2-impl:2.19.0": {
+    "log4j-slf4j2-impl-2.19.0.pom": {
+      "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-slf4j2-impl/2.19.0/log4j-slf4j2-impl-2.19.0.pom",
+      "hash": "sha256-o5VwJSFjp/whgpGlb2GBLon3vPtcqxSX+onCj0LsKPk="
+    }
+  },
+  "org.apache.maven:maven:3.10.0": {
+    "maven-3.10.0.pom": {
+      "url": "https://plugins.gradle.org/m2/org/apache/maven/maven/3.10.0/maven-3.10.0.pom",
+      "hash": "sha256-ZXge1fcIi5affT1494gyD6W24K0SPSILub1Hb+OZ+Xg="
+    }
+  },
+  "org.apache.maven:maven:3.9.11": {
+    "maven-3.9.11.pom": {
+      "url": "https://plugins.gradle.org/m2/org/apache/maven/maven/3.9.11/maven-3.9.11.pom",
+      "hash": "sha256-LL2ZfK9x/nnIAQxEDQ3PcuxdeqNGuJogFxt/G6KJr0I="
+    }
+  },
+  "org.apache.maven:maven:3.8.5": {
+    "maven-3.8.5.pom": {
+      "url": "https://maven.neoforged.net/releases/org/apache/maven/maven/3.8.5/maven-3.8.5.pom",
+      "hash": "sha256-Ys+lLVNk0h58//a14L/xuM4mTtNisKZKuxYs/x3BkHM="
+    }
+  },
+  "org.apache.maven:maven-artifact:3.10.0": {
+    "maven-artifact-3.10.0.jar": {
+      "url": "https://plugins.gradle.org/m2/org/apache/maven/maven-artifact/3.10.0/maven-artifact-3.10.0.jar",
+      "hash": "sha256-X5fVi1B81JiHzl9Q5BgyVz6iBOnPZwXJGHpRuK3ptUM="
+    },
+    "maven-artifact-3.10.0.pom": {
+      "url": "https://plugins.gradle.org/m2/org/apache/maven/maven-artifact/3.10.0/maven-artifact-3.10.0.pom",
+      "hash": "sha256-gfGmHRtbI8RpUkNzjokpjCl3JhPSMCCzSBwd3CM3wno="
+    }
+  },
+  "org.apache.maven:maven-artifact:3.9.11": {
+    "maven-artifact-3.9.11.jar": {
+      "url": "https://plugins.gradle.org/m2/org/apache/maven/maven-artifact/3.9.11/maven-artifact-3.9.11.jar",
+      "hash": "sha256-C/0cEh+QdkI0QxHYHk39k+umwk3HEswK6uJz6yKDMCI="
+    },
+    "maven-artifact-3.9.11.pom": {
+      "url": "https://plugins.gradle.org/m2/org/apache/maven/maven-artifact/3.9.11/maven-artifact-3.9.11.pom",
+      "hash": "sha256-y+zglxWuimfL5xL4Zn4owZQADFxPO4aGTCorQXjhtTg="
+    }
+  },
+  "org.apache.maven:maven-artifact:3.8.5": {
+    "maven-artifact-3.8.5.jar": {
+      "url": "https://maven.neoforged.net/releases/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar",
+      "hash": "sha256-kRcrwpTW6rAvyfRfTqAf0OQYli0SjPSJq+p7aVfZiO4="
+    },
+    "maven-artifact-3.8.5.pom": {
+      "url": "https://maven.neoforged.net/releases/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.pom",
+      "hash": "sha256-F2ucQXvrNf5dgV35H2LxrGy+lppEI0R8qsj8C7kjPV4="
+    }
+  },
+  "org.apache.maven:maven-parent:50": {
+    "maven-parent-50.pom": {
+      "url": "https://plugins.gradle.org/m2/org/apache/maven/maven-parent/50/maven-parent-50.pom",
+      "hash": "sha256-z59c3dCUdA3riRLP4G3e2oH4vZFHeaqQN0iMJ9CP59o="
+    }
+  },
+  "org.apache.maven:maven-parent:45": {
+    "maven-parent-45.pom": {
+      "url": "https://plugins.gradle.org/m2/org/apache/maven/maven-parent/45/maven-parent-45.pom",
+      "hash": "sha256-lP6Gnrm0zp/OOZXQXqhrFoyF2Sf50XvrgUoZYMdtfm8="
+    }
+  },
+  "org.apache.maven:maven-parent:35": {
+    "maven-parent-35.pom": {
+      "url": "https://maven.neoforged.net/releases/org/apache/maven/maven-parent/35/maven-parent-35.pom",
+      "hash": "sha256-0u3UB3wKvJzIICiDxFlQMYBCRjbLOagwMewREjlLJXY="
+    }
+  },
+  "org.apiguardian:apiguardian-api:1.1.2": {
+    "apiguardian-api-1.1.2.jar": {
+      "url": "https://maven.neoforged.net/releases/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar",
+      "hash": "sha256-tQlEisUG1gcxnxglN/CzXXEAdYLsdBgyofER5bW3Czg="
+    },
+    "apiguardian-api-1.1.2.module": {
+      "url": "https://maven.neoforged.net/releases/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.module",
+      "hash": "sha256-4IAoExN1s1fR0oc06aT7QhbahLJAZByz7358fWKCI/w="
+    },
+    "apiguardian-api-1.1.2.pom": {
+      "url": "https://maven.neoforged.net/releases/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.pom",
+      "hash": "sha256-MjVQgdEJCVw9XTdNWkO09MG3XVSemD71ByPidy5TAqA="
+    }
+  },
+  "org.assertj:assertj-core:3.27.7": {
+    "assertj-core-3.27.7.jar": {
+      "url": "https://maven.neoforged.net/releases/org/assertj/assertj-core/3.27.7/assertj-core-3.27.7.jar",
+      "hash": "sha256-xKRFQmw8KGFmaGO4QsxOx7uxxCJv79NwttL+g9bE/w8="
+    },
+    "assertj-core-3.27.7.pom": {
+      "url": "https://maven.neoforged.net/releases/org/assertj/assertj-core/3.27.7/assertj-core-3.27.7.pom",
+      "hash": "sha256-laENz7O6mq1NC16cUjqNWDN3vuXs1Lo34Z5Vo0Zn8Hk="
+    }
+  },
+  "org.bouncycastle:bc-jdk18on-bom:1.84": {
+    "bc-jdk18on-bom-1.84.module": {
+      "url": "https://maven.neoforged.net/releases/org/bouncycastle/bc-jdk18on-bom/1.84/bc-jdk18on-bom-1.84.module",
+      "hash": "sha256-iKuIhKXnQS6Y8JHBRu7BRNeej4yVjzgLwtTNDwrUaGk="
+    },
+    "bc-jdk18on-bom-1.84.pom": {
+      "url": "https://maven.neoforged.net/releases/org/bouncycastle/bc-jdk18on-bom/1.84/bc-jdk18on-bom-1.84.pom",
+      "hash": "sha256-8O7pMr+yRrDfvrwIkmE2TGA9ut6tGPxV/WNCwXxW80w="
+    }
+  },
+  "org.checkerframework:checker-qual:3.12.0": {
+    "checker-qual-3.12.0.jar": {
+      "url": "https://plugins.gradle.org/m2/org/checkerframework/checker-qual/3.12.0/checker-qual-3.12.0.jar",
+      "hash": "sha256-/xB4WsKjV+xd6cKTy5gqLLtgXAMJ6kzBy5ubxtvn88s="
+    },
+    "checker-qual-3.12.0.module": {
+      "url": "https://plugins.gradle.org/m2/org/checkerframework/checker-qual/3.12.0/checker-qual-3.12.0.module",
+      "hash": "sha256-0EeUnBuBCRwsORN3H6wvMqL6VJuj1dVIzIwLbfpJN3c="
+    },
+    "checker-qual-3.12.0.pom": {
+      "url": "https://maven.neoforged.net/releases/org/checkerframework/checker-qual/3.12.0/checker-qual-3.12.0.pom",
+      "hash": "sha256-d1t6425iggs7htwao5rzfArEuF/0j3/khakionkPRrk="
+    }
+  },
+  "org.codehaus.groovy:groovy-bom:3.0.19": {
+    "groovy-bom-3.0.19.pom": {
+      "url": "https://maven.neoforged.net/releases/org/codehaus/groovy/groovy-bom/3.0.19/groovy-bom-3.0.19.pom",
+      "hash": "sha256-E+POc+1L+fxu4rVA2FVWh/astwf4SSOUFMgnfUMd7KE="
+    }
+  },
+  "org.codehaus.plexus:plexus:27": {
+    "plexus-27.pom": {
+      "url": "https://plugins.gradle.org/m2/org/codehaus/plexus/plexus/27/plexus-27.pom",
+      "hash": "sha256-28fYDXnTdg/td3vqnkGxwKNwRC6o7Pkw0EpqViDTa24="
+    }
+  },
+  "org.codehaus.plexus:plexus:19": {
+    "plexus-19.pom": {
+      "url": "https://plugins.gradle.org/m2/org/codehaus/plexus/plexus/19/plexus-19.pom",
+      "hash": "sha256-jT5Rw5Av11luVI6rEh6/aw1KpzhXB38mok/Ib5uEVbQ="
+    }
+  },
+  "org.codehaus.plexus:plexus:5.1": {
+    "plexus-5.1.pom": {
+      "url": "https://maven.neoforged.net/releases/org/codehaus/plexus/plexus/5.1/plexus-5.1.pom",
+      "hash": "sha256-o0PkT/V5au0OpgvhFFTJNc4gqxxfFkrMjaV0SC3Lx+k="
+    }
+  },
+  "org.codehaus.plexus:plexus-utils:3.6.2": {
+    "plexus-utils-3.6.2.jar": {
+      "url": "https://plugins.gradle.org/m2/org/codehaus/plexus/plexus-utils/3.6.2/plexus-utils-3.6.2.jar",
+      "hash": "sha256-fCzfi0oCou4/BRS410rV624jZe6wc6XKvW8tYdj4cd8="
+    },
+    "plexus-utils-3.6.2.pom": {
+      "url": "https://plugins.gradle.org/m2/org/codehaus/plexus/plexus-utils/3.6.2/plexus-utils-3.6.2.pom",
+      "hash": "sha256-XuJrnwUpA4gC/BwgWlzlW+Xv8kevCl5bVc+DFlLBc+0="
+    }
+  },
+  "org.codehaus.plexus:plexus-utils:3.6.0": {
+    "plexus-utils-3.6.0.jar": {
+      "url": "https://plugins.gradle.org/m2/org/codehaus/plexus/plexus-utils/3.6.0/plexus-utils-3.6.0.jar",
+      "hash": "sha256-J+8TDjLCNgkOQI+1SY2Uy56ibRQHD7HImF1ge2LQmNE="
+    },
+    "plexus-utils-3.6.0.pom": {
+      "url": "https://plugins.gradle.org/m2/org/codehaus/plexus/plexus-utils/3.6.0/plexus-utils-3.6.0.pom",
+      "hash": "sha256-YTgwBIFHHH/mrrEV+RKWH4huGkbunCvShBtlGEgk2ig="
+    }
+  },
+  "org.codehaus.plexus:plexus-utils:3.3.0": {
+    "plexus-utils-3.3.0.jar": {
+      "url": "https://maven.neoforged.net/releases/org/codehaus/plexus/plexus-utils/3.3.0/plexus-utils-3.3.0.jar",
+      "hash": "sha256-dtF0eSVA4nda+U0D0Q+y08d24s0KwOv0J9PlcAcruc4="
+    },
+    "plexus-utils-3.3.0.pom": {
+      "url": "https://maven.neoforged.net/releases/org/codehaus/plexus/plexus-utils/3.3.0/plexus-utils-3.3.0.pom",
+      "hash": "sha256-ecl5IHP97jzb69YadrqMLdEWJKn4XRKLrla9oZ4gR1w="
+    }
+  },
+  "org.eclipse.ee4j:project:1.0.7": {
+    "project-1.0.7.pom": {
+      "url": "https://maven.neoforged.net/releases/org/eclipse/ee4j/project/1.0.7/project-1.0.7.pom",
+      "hash": "sha256-IFwDmkLLrjVW776wSkg+s6PPlVC9db+EJg3I8oIY8QU="
+    }
+  },
+  "org.eclipse.jetty:jetty-bom:9.4.53.v20231009": {
+    "jetty-bom-9.4.53.v20231009.pom": {
+      "url": "https://maven.neoforged.net/releases/org/eclipse/jetty/jetty-bom/9.4.53.v20231009/jetty-bom-9.4.53.v20231009.pom",
+      "hash": "sha256-+vlzoZh0JmzQhlsCmeup8WfLsHB13U/tvj1hVjV+ndU="
+    }
+  },
+  "org.eclipse.jgit:org.eclipse.jgit:7.7.0.202606012155-r": {
+    "org.eclipse.jgit-7.7.0.202606012155-r.jar": {
+      "url": "https://plugins.gradle.org/m2/org/eclipse/jgit/org.eclipse.jgit/7.7.0.202606012155-r/org.eclipse.jgit-7.7.0.202606012155-r.jar",
+      "hash": "sha256-onxHjV94vD2VRh8VOmDv3xYjknUCxopFetmplaNcWnw="
+    },
+    "org.eclipse.jgit-7.7.0.202606012155-r.pom": {
+      "url": "https://plugins.gradle.org/m2/org/eclipse/jgit/org.eclipse.jgit/7.7.0.202606012155-r/org.eclipse.jgit-7.7.0.202606012155-r.pom",
+      "hash": "sha256-owH00aR2nxrSVstU54V6Uq8n59A+UMo8UPTLZDw98SY="
+    }
+  },
+  "org.eclipse.jgit:org.eclipse.jgit-parent:7.7.0.202606012155-r": {
+    "org.eclipse.jgit-parent-7.7.0.202606012155-r.pom": {
+      "url": "https://plugins.gradle.org/m2/org/eclipse/jgit/org.eclipse.jgit-parent/7.7.0.202606012155-r/org.eclipse.jgit-parent-7.7.0.202606012155-r.pom",
+      "hash": "sha256-S4qHPLaFhEH/MSUDTbVU0leSL7cIIEeVtyAZDW+05iE="
+    }
+  },
+  "org.gradle.toolchains:foojay-resolver:1.0.0": {
+    "foojay-resolver-1.0.0.jar": {
+      "url": "https://plugins.gradle.org/m2/org/gradle/toolchains/foojay-resolver/1.0.0/foojay-resolver-1.0.0.jar",
+      "hash": "sha256-eLhqR9/fdpfJvRXaeJg/2A2nJH1uAvwQa98H4DiLYKg="
+    },
+    "foojay-resolver-1.0.0.module": {
+      "url": "https://plugins.gradle.org/m2/org/gradle/toolchains/foojay-resolver/1.0.0/foojay-resolver-1.0.0.module",
+      "hash": "sha256-YZDPDkLmZMEeGsCnhWmasCtUnOo0OSxnnzbYosVQ/Lk="
+    },
+    "foojay-resolver-1.0.0.pom": {
+      "url": "https://plugins.gradle.org/m2/org/gradle/toolchains/foojay-resolver/1.0.0/foojay-resolver-1.0.0.pom",
+      "hash": "sha256-m8SLSeQi2e2rw5asGNiwQd/CIhLX+ujjVmfShdSBApo="
+    }
+  },
+  "org.gradle.toolchains.foojay-resolver-convention:org.gradle.toolchains.foojay-resolver-convention.gradle.plugin:1.0.0": {
+    "org.gradle.toolchains.foojay-resolver-convention.gradle.plugin-1.0.0.pom": {
+      "url": "https://plugins.gradle.org/m2/org/gradle/toolchains/foojay-resolver-convention/org.gradle.toolchains.foojay-resolver-convention.gradle.plugin/1.0.0/org.gradle.toolchains.foojay-resolver-convention.gradle.plugin-1.0.0.pom",
+      "hash": "sha256-8TMkmhh1Suah0nAdANhJsa+6ewaD3bX8GxinAHHOwvo="
+    }
+  },
+  "org.jcraft:jorbis:0.0.17": {
+    "jorbis-0.0.17.jar": {
+      "url": "https://libraries.minecraft.net/org/jcraft/jorbis/0.0.17/jorbis-0.0.17.jar",
+      "hash": "sha256-4GfymjcBQmtn7ZcwNpScbljKW7U+73JAsuceKG0lKp4="
+    },
+    "jorbis-0.0.17.pom": {
+      "url": "https://libraries.minecraft.net/org/jcraft/jorbis/0.0.17/jorbis-0.0.17.pom",
+      "hash": "sha256-GN47DZMq+Zgy202DL2g1B/vdWgsMJN1oDoTOb1cYLiQ="
+    }
+  },
+  "org.jetbrains:annotations:26.0.2-1": {
+    "annotations-26.0.2-1.jar": {
+      "url": "https://maven.neoforged.net/releases/org/jetbrains/annotations/26.0.2-1/annotations-26.0.2-1.jar",
+      "hash": "sha256-IDe+N4mA07qTM+l5VfOyzeOSqhJNBMpzzi7uZlcZkpc="
+    },
+    "annotations-26.0.2-1.module": {
+      "url": "https://maven.neoforged.net/releases/org/jetbrains/annotations/26.0.2-1/annotations-26.0.2-1.module",
+      "hash": "sha256-n+hq62S4YyPo5XlQOxGgOKFAaUwTtoBDQ/ik3Jo6RrE="
+    },
+    "annotations-26.0.2-1.pom": {
+      "url": "https://maven.neoforged.net/releases/org/jetbrains/annotations/26.0.2-1/annotations-26.0.2-1.pom",
+      "hash": "sha256-mn4e3huQFzBSwebtck+w8OvMiP9oLQI/DJs0PhN3p/8="
+    }
+  },
+  "org.jetbrains:annotations:24.1.0": {
+    "annotations-24.1.0.jar": {
+      "url": "https://maven.neoforged.net/releases/org/jetbrains/annotations/24.1.0/annotations-24.1.0.jar",
+      "hash": "sha256-J6dw3HzlBQCRi7jDwGYMmCkGMOx5a1489rkPQDswM8Y="
+    },
+    "annotations-24.1.0.pom": {
+      "url": "https://maven.neoforged.net/releases/org/jetbrains/annotations/24.1.0/annotations-24.1.0.pom",
+      "hash": "sha256-Ljf9cCCkNkueXZ93xbZ0Kjvqkn3VYMoeOQ3IFcnFCCA="
+    }
+  },
+  "org.jetbrains:annotations:23.0.0": {
+    "annotations-23.0.0.jar": {
+      "url": "https://plugins.gradle.org/m2/org/jetbrains/annotations/23.0.0/annotations-23.0.0.jar",
+      "hash": "sha256-ew8ZckCCy/y8ZuWr6iubySzwih6hHhkZM+1DgB6zzQU="
+    },
+    "annotations-23.0.0.pom": {
+      "url": "https://plugins.gradle.org/m2/org/jetbrains/annotations/23.0.0/annotations-23.0.0.pom",
+      "hash": "sha256-yUkPZVEyMo3yz7z990P1P8ORbWwdEENxdabKbjpndxw="
+    }
+  },
+  "org.jline:jline-parent:3.20.0": {
+    "jline-parent-3.20.0.pom": {
+      "url": "https://maven.neoforged.net/releases/org/jline/jline-parent/3.20.0/jline-parent-3.20.0.pom",
+      "hash": "sha256-cXjGACAsS8Jux6S2IlXu829wVsrSpeYjnFdL7qXCEMo="
+    }
+  },
+  "org.jline:jline-reader:3.20.0": {
+    "jline-reader-3.20.0.jar": {
+      "url": "https://maven.neoforged.net/releases/org/jline/jline-reader/3.20.0/jline-reader-3.20.0.jar",
+      "hash": "sha256-rNHJTR4iiqe3li9psh7Tqf2CjrOmPkuvkIaVTmJq8fA="
+    },
+    "jline-reader-3.20.0.pom": {
+      "url": "https://maven.neoforged.net/releases/org/jline/jline-reader/3.20.0/jline-reader-3.20.0.pom",
+      "hash": "sha256-2fF+3XIcAqExcgN21sB4eHgutrb6/rX/QkBKtXFD4TY="
+    }
+  },
+  "org.jline:jline-terminal:3.20.0": {
+    "jline-terminal-3.20.0.jar": {
+      "url": "https://maven.neoforged.net/releases/org/jline/jline-terminal/3.20.0/jline-terminal-3.20.0.jar",
+      "hash": "sha256-EhJRcOeVUZum3IAQwHC1PHaq6StIXB43Uw5Uq13QjUM="
+    },
+    "jline-terminal-3.20.0.pom": {
+      "url": "https://maven.neoforged.net/releases/org/jline/jline-terminal/3.20.0/jline-terminal-3.20.0.pom",
+      "hash": "sha256-EMo7z1F48YUH8hCmOtljeJaFM0OtHBKRoBmhFvIWpUg="
+    }
+  },
+  "org.joml:joml:1.10.9": {
+    "joml-1.10.9.jar": {
+      "url": "https://libraries.minecraft.net/org/joml/joml/1.10.9/joml-1.10.9.jar",
+      "hash": "sha256-/spNuFM3FwQzhiHBIKzFzDIwDYr2NfpCQUtiEzAeIWs="
+    },
+    "joml-1.10.9.pom": {
+      "url": "https://libraries.minecraft.net/org/joml/joml/1.10.9/joml-1.10.9.pom",
+      "hash": "sha256-1eBH6Mrn4CGnsKlupAb6aDG+d0EXIzHjwyti1xW88BY="
+    }
+  },
+  "org.jspecify:jspecify:1.0.1": {
+    "jspecify-1.0.1.jar": {
+      "url": "https://libraries.minecraft.net/org/jspecify/jspecify/1.0.1/jspecify-1.0.1.jar",
+      "hash": "sha256-Bw118mH+TFuCAlCDZnFffy1GYPiMjvfm01deSMloO2Y="
+    },
+    "jspecify-1.0.1.pom": {
+      "url": "https://libraries.minecraft.net/org/jspecify/jspecify/1.0.1/jspecify-1.0.1.pom",
+      "hash": "sha256-VbOL8aex2OpRjPL0866aqiNuYbvwtr0x/7SXU6BZ3V4="
+    }
+  },
+  "org.jspecify:jspecify:1.0.0": {
+    "jspecify-1.0.0.jar": {
+      "url": "https://libraries.minecraft.net/org/jspecify/jspecify/1.0.0/jspecify-1.0.0.jar",
+      "hash": "sha256-H61ua+dVd4Hk0zcp1Jrhzcj92m/kd7sMxozjUer9+6s="
+    },
+    "jspecify-1.0.0.pom": {
+      "url": "https://libraries.minecraft.net/org/jspecify/jspecify/1.0.0/jspecify-1.0.0.pom",
+      "hash": "sha256-zauSmjuVIR9D0gkMXi0N/oRllg43i8MrNYQdqzJEM6Y="
+    }
+  },
+  "org.junit:junit-bom:5.14.4": {
+    "junit-bom-5.14.4.module": {
+      "url": "https://plugins.gradle.org/m2/org/junit/junit-bom/5.14.4/junit-bom-5.14.4.module",
+      "hash": "sha256-il6Y0THefXqtse6Iv9htZuYqfC4qQHSjskmLA9I262Q="
+    },
+    "junit-bom-5.14.4.pom": {
+      "url": "https://plugins.gradle.org/m2/org/junit/junit-bom/5.14.4/junit-bom-5.14.4.pom",
+      "hash": "sha256-Vwbo8poKB/Vu+76koGcHk0FBlLuNJNgUO6Hnh6LzKFY="
+    }
+  },
+  "org.junit:junit-bom:5.14.2": {
+    "junit-bom-5.14.2.module": {
+      "url": "https://plugins.gradle.org/m2/org/junit/junit-bom/5.14.2/junit-bom-5.14.2.module",
+      "hash": "sha256-XSb0RAOSMm3SSDz0kBQ+6hSV1QlUWaC5ZRp7GzjiTr8="
+    },
+    "junit-bom-5.14.2.pom": {
+      "url": "https://plugins.gradle.org/m2/org/junit/junit-bom/5.14.2/junit-bom-5.14.2.pom",
+      "hash": "sha256-7S3MeFW9RgvMyTob8Mli5jtWb/fY8d7Q8fJZO6gYOq8="
+    }
+  },
+  "org.junit:junit-bom:5.13.4": {
+    "junit-bom-5.13.4.module": {
+      "url": "https://plugins.gradle.org/m2/org/junit/junit-bom/5.13.4/junit-bom-5.13.4.module",
+      "hash": "sha256-6Vkoj94bGwUNm8CC/HhniRKNpdKFMJFGj8pQQQS99AA="
+    },
+    "junit-bom-5.13.4.pom": {
+      "url": "https://plugins.gradle.org/m2/org/junit/junit-bom/5.13.4/junit-bom-5.13.4.pom",
+      "hash": "sha256-16CKmbJQLwu2jNTh+YTwv2kySqogi9D3M2bAP8NUikI="
+    }
+  },
+  "org.junit:junit-bom:5.13.1": {
+    "junit-bom-5.13.1.module": {
+      "url": "https://plugins.gradle.org/m2/org/junit/junit-bom/5.13.1/junit-bom-5.13.1.module",
+      "hash": "sha256-M8B6uXJHkKblhZugfWkResUwQ5ckVFqBxBeeMnLHXeg="
+    },
+    "junit-bom-5.13.1.pom": {
+      "url": "https://plugins.gradle.org/m2/org/junit/junit-bom/5.13.1/junit-bom-5.13.1.pom",
+      "hash": "sha256-+mhFHqgwVy7UP/5R11tqBfel5mWmAqUfSda+AgY6ZfM="
+    }
+  },
+  "org.junit:junit-bom:5.11.1": {
+    "junit-bom-5.11.1.module": {
+      "url": "https://plugins.gradle.org/m2/org/junit/junit-bom/5.11.1/junit-bom-5.11.1.module",
+      "hash": "sha256-42L7gWcgLW8NSlsWcHxTJFEP0pA9U2SYiMRJasgcM34="
+    },
+    "junit-bom-5.11.1.pom": {
+      "url": "https://plugins.gradle.org/m2/org/junit/junit-bom/5.11.1/junit-bom-5.11.1.pom",
+      "hash": "sha256-xyEkqcmnmRDBhYdmtyw1Dho5JEy/tLB2NI+/4HgoGWU="
+    }
+  },
+  "org.junit:junit-bom:5.10.1": {
+    "junit-bom-5.10.1.module": {
+      "url": "https://maven.neoforged.net/releases/org/junit/junit-bom/5.10.1/junit-bom-5.10.1.module",
+      "hash": "sha256-IbCvz//i7LN3D16wCuehn+rulOdx+jkYFzhQ2ueAZ7c="
+    },
+    "junit-bom-5.10.1.pom": {
+      "url": "https://maven.neoforged.net/releases/org/junit/junit-bom/5.10.1/junit-bom-5.10.1.pom",
+      "hash": "sha256-IcSwKG9LIAaVd/9LIJeKhcEArIpGtvHIZy+6qzN7w/I="
+    }
+  },
+  "org.junit:junit-bom:5.9.0": {
+    "junit-bom-5.9.0.module": {
+      "url": "https://maven.neoforged.net/releases/org/junit/junit-bom/5.9.0/junit-bom-5.9.0.module",
+      "hash": "sha256-oFTq9QFrWLvN6GZgREp8DdPiyvhNKhrV/Ey1JZecGbk="
+    },
+    "junit-bom-5.9.0.pom": {
+      "url": "https://maven.neoforged.net/releases/org/junit/junit-bom/5.9.0/junit-bom-5.9.0.pom",
+      "hash": "sha256-2D6H8Wds3kQZHuxc2mkEkjkvJpI7HkmBSMpznf7XUpU="
+    }
+  },
+  "org.junit:junit-bom:5.7.2": {
+    "junit-bom-5.7.2.module": {
+      "url": "https://maven.neoforged.net/releases/org/junit/junit-bom/5.7.2/junit-bom-5.7.2.module",
+      "hash": "sha256-87zrHFndT2mT9DBN/6WAFyuN9lp2zTb6T9ksBXjSitg="
+    },
+    "junit-bom-5.7.2.pom": {
+      "url": "https://maven.neoforged.net/releases/org/junit/junit-bom/5.7.2/junit-bom-5.7.2.pom",
+      "hash": "sha256-zRSqqGmZH4ICHFhdVw0x/zQry6WLtEIztwGTdxuWSHs="
+    }
+  },
+  "org.junit:junit-bom:5.7.1": {
+    "junit-bom-5.7.1.module": {
+      "url": "https://maven.neoforged.net/releases/org/junit/junit-bom/5.7.1/junit-bom-5.7.1.module",
+      "hash": "sha256-mFTjiU1kskhSB+AEa8oHs9QtFp54L0+oyc4imnj67gQ="
+    },
+    "junit-bom-5.7.1.pom": {
+      "url": "https://maven.neoforged.net/releases/org/junit/junit-bom/5.7.1/junit-bom-5.7.1.pom",
+      "hash": "sha256-C5sUo9YhBvr+jGinF7h7h60YaFiZRRt1PAT6QbaFd4Q="
+    }
+  },
+  "org.junit.jupiter:junit-jupiter:5.14.4": {
+    "junit-jupiter-5.14.4.jar": {
+      "url": "https://maven.neoforged.net/releases/org/junit/jupiter/junit-jupiter/5.14.4/junit-jupiter-5.14.4.jar",
+      "hash": "sha256-pXPJqZr3PhiJ0dPtfhIGfIXP9qghuWoZFuXMzMN1rlg="
+    },
+    "junit-jupiter-5.14.4.module": {
+      "url": "https://maven.neoforged.net/releases/org/junit/jupiter/junit-jupiter/5.14.4/junit-jupiter-5.14.4.module",
+      "hash": "sha256-hOYzUerPVhvxLgRgGfCtso6N9U+WC2tRcspZTT59+xk="
+    },
+    "junit-jupiter-5.14.4.pom": {
+      "url": "https://maven.neoforged.net/releases/org/junit/jupiter/junit-jupiter/5.14.4/junit-jupiter-5.14.4.pom",
+      "hash": "sha256-R0SH2q7xXjv2oKgLg4jtECq25qoIQyy0U9E9dZaAOdY="
+    }
+  },
+  "org.junit.jupiter:junit-jupiter-api:5.14.4": {
+    "junit-jupiter-api-5.14.4.jar": {
+      "url": "https://maven.neoforged.net/releases/org/junit/jupiter/junit-jupiter-api/5.14.4/junit-jupiter-api-5.14.4.jar",
+      "hash": "sha256-qhrghf2S39v4XYZ+YOWa3FmbrBg7Rvx+BpgZi/QmrT8="
+    },
+    "junit-jupiter-api-5.14.4.module": {
+      "url": "https://maven.neoforged.net/releases/org/junit/jupiter/junit-jupiter-api/5.14.4/junit-jupiter-api-5.14.4.module",
+      "hash": "sha256-1Tlq6LtUXoOOb9/soPkjsF7ETc954DcMiedrQD335oA="
+    },
+    "junit-jupiter-api-5.14.4.pom": {
+      "url": "https://maven.neoforged.net/releases/org/junit/jupiter/junit-jupiter-api/5.14.4/junit-jupiter-api-5.14.4.pom",
+      "hash": "sha256-TBdRif13Tc2QyyPPyrLOnb8vXQoW1+83AufPzWQRp2I="
+    }
+  },
+  "org.junit.jupiter:junit-jupiter-engine:5.14.4": {
+    "junit-jupiter-engine-5.14.4.jar": {
+      "url": "https://maven.neoforged.net/releases/org/junit/jupiter/junit-jupiter-engine/5.14.4/junit-jupiter-engine-5.14.4.jar",
+      "hash": "sha256-4eNc9lGuFjVjjUMepEEtXGWTi+VBUERPB7pllYYEKxE="
+    },
+    "junit-jupiter-engine-5.14.4.module": {
+      "url": "https://maven.neoforged.net/releases/org/junit/jupiter/junit-jupiter-engine/5.14.4/junit-jupiter-engine-5.14.4.module",
+      "hash": "sha256-4224yr82OMrd4YHaEf4+oAw6EekUsxyOBAyxzQpjVnA="
+    },
+    "junit-jupiter-engine-5.14.4.pom": {
+      "url": "https://maven.neoforged.net/releases/org/junit/jupiter/junit-jupiter-engine/5.14.4/junit-jupiter-engine-5.14.4.pom",
+      "hash": "sha256-EjKXQcZV/1AQo9R1i7NLmOV6yPlxpvoPuHLG1gq4foQ="
+    }
+  },
+  "org.junit.jupiter:junit-jupiter-params:5.14.4": {
+    "junit-jupiter-params-5.14.4.jar": {
+      "url": "https://maven.neoforged.net/releases/org/junit/jupiter/junit-jupiter-params/5.14.4/junit-jupiter-params-5.14.4.jar",
+      "hash": "sha256-KPKo2rW50lmxj6awulpvMCy8cN2HX0IDLqnjr+oJqHA="
+    },
+    "junit-jupiter-params-5.14.4.module": {
+      "url": "https://maven.neoforged.net/releases/org/junit/jupiter/junit-jupiter-params/5.14.4/junit-jupiter-params-5.14.4.module",
+      "hash": "sha256-uIRYK+Mjt9O1EU28KA2xOxXdBwA5CwMXuY1rl/nY4MY="
+    },
+    "junit-jupiter-params-5.14.4.pom": {
+      "url": "https://maven.neoforged.net/releases/org/junit/jupiter/junit-jupiter-params/5.14.4/junit-jupiter-params-5.14.4.pom",
+      "hash": "sha256-qxorS7W3Skrqwf0iDM861g8nm7ehU7awuCMs0+2B9is="
+    }
+  },
+  "org.junit.platform:junit-platform-commons:1.14.4": {
+    "junit-platform-commons-1.14.4.jar": {
+      "url": "https://maven.neoforged.net/releases/org/junit/platform/junit-platform-commons/1.14.4/junit-platform-commons-1.14.4.jar",
+      "hash": "sha256-VcigwGmsG8Th+Luya16ulcvRDk/xsjJIRBq2GmBzgeE="
+    },
+    "junit-platform-commons-1.14.4.module": {
+      "url": "https://maven.neoforged.net/releases/org/junit/platform/junit-platform-commons/1.14.4/junit-platform-commons-1.14.4.module",
+      "hash": "sha256-sZqAeYwHWJr03/IA+F0JHqgtTHyRjgFEf6BeVZfXojs="
+    },
+    "junit-platform-commons-1.14.4.pom": {
+      "url": "https://maven.neoforged.net/releases/org/junit/platform/junit-platform-commons/1.14.4/junit-platform-commons-1.14.4.pom",
+      "hash": "sha256-13voFwjPmDbbegmQjm2eTZTFJ+CQvVlMxK8GcRudhT0="
+    }
+  },
+  "org.junit.platform:junit-platform-engine:1.14.4": {
+    "junit-platform-engine-1.14.4.jar": {
+      "url": "https://maven.neoforged.net/releases/org/junit/platform/junit-platform-engine/1.14.4/junit-platform-engine-1.14.4.jar",
+      "hash": "sha256-PH8/hKZ0eu8Ntr1f3Spsj+NxMuZTyTm9Zzhzd69m2Rw="
+    },
+    "junit-platform-engine-1.14.4.module": {
+      "url": "https://maven.neoforged.net/releases/org/junit/platform/junit-platform-engine/1.14.4/junit-platform-engine-1.14.4.module",
+      "hash": "sha256-9UQm5AbZfpqapokboWJ+Jb6gxUhZNV9U0ai0SKyq2vE="
+    },
+    "junit-platform-engine-1.14.4.pom": {
+      "url": "https://maven.neoforged.net/releases/org/junit/platform/junit-platform-engine/1.14.4/junit-platform-engine-1.14.4.pom",
+      "hash": "sha256-GArxVHKsackZAvu9IQVm54qC/W005j0/utpof1FhTmQ="
+    }
+  },
+  "org.junit.platform:junit-platform-launcher:1.14.4": {
+    "junit-platform-launcher-1.14.4.jar": {
+      "url": "https://maven.neoforged.net/releases/org/junit/platform/junit-platform-launcher/1.14.4/junit-platform-launcher-1.14.4.jar",
+      "hash": "sha256-do1i8bKlI3E7cC21NgnCMK9iu9ZF/CwHp9eU302jIig="
+    },
+    "junit-platform-launcher-1.14.4.module": {
+      "url": "https://maven.neoforged.net/releases/org/junit/platform/junit-platform-launcher/1.14.4/junit-platform-launcher-1.14.4.module",
+      "hash": "sha256-mXF3mHBCsgZm+3oBxyduShBoIPLeF5/6CdlWM46LBZ8="
+    },
+    "junit-platform-launcher-1.14.4.pom": {
+      "url": "https://maven.neoforged.net/releases/org/junit/platform/junit-platform-launcher/1.14.4/junit-platform-launcher-1.14.4.pom",
+      "hash": "sha256-EZenSsK01xFy9Wy5xLCeVMAB5q6J9Gp4c7OMbmtgi9U="
+    }
+  },
+  "org.lwjgl:lwjgl:3.4.3": {
+    "lwjgl-3.4.3-natives-linux.jar": {
+      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/3.4.3/lwjgl-3.4.3-natives-linux.jar",
+      "hash": "sha256-1xnlRabbTqh+tk1VYwumKHVVcrtbVtUaFUg0e1NUyts="
+    },
+    "lwjgl-3.4.3.jar": {
+      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/3.4.3/lwjgl-3.4.3.jar",
+      "hash": "sha256-Ru7KVHGDPDz12jwdoBW0Hjuz6xbdPaA/NmiG2hAJZ1E="
+    },
+    "lwjgl-3.4.3.pom": {
+      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/3.4.3/lwjgl-3.4.3.pom",
+      "hash": "sha256-119y53vSBpx+hNPlIZmNP9fl9ywtMaGolsvjIoUnV7w="
+    }
+  },
+  "org.lwjgl:lwjgl-bom:3.4.3": {
+    "lwjgl-bom-3.4.3.module": {
+      "url": "https://maven.neoforged.net/releases/org/lwjgl/lwjgl-bom/3.4.3/lwjgl-bom-3.4.3.module",
+      "hash": "sha256-uq78zPJi1mJumB8xLfanfHJREvNjCGD5NXQE7lnebCc="
+    },
+    "lwjgl-bom-3.4.3.pom": {
+      "url": "https://maven.neoforged.net/releases/org/lwjgl/lwjgl-bom/3.4.3/lwjgl-bom-3.4.3.pom",
+      "hash": "sha256-lM81+G1stvQ/PpTRV/m8dnIg7vjw/RvqDGg2Ld0S/2E="
+    }
+  },
+  "org.lwjgl:lwjgl-freetype:3.4.3": {
+    "lwjgl-freetype-3.4.3-natives-linux.jar": {
+      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-freetype/3.4.3/lwjgl-freetype-3.4.3-natives-linux.jar",
+      "hash": "sha256-y8cCqh2cj+zm/kak5gbHwWTrfw98p59mjdlVRNtT+yw="
+    },
+    "lwjgl-freetype-3.4.3.jar": {
+      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-freetype/3.4.3/lwjgl-freetype-3.4.3.jar",
+      "hash": "sha256-szG50qKcGzMMOIfTPBTaudfu0/dju49cpVnuwC1z8HU="
+    },
+    "lwjgl-freetype-3.4.3.pom": {
+      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-freetype/3.4.3/lwjgl-freetype-3.4.3.pom",
+      "hash": "sha256-Ox0GIgQLeRosA0taB4wa53fuSLYuCPo0l1u01l2hCrI="
+    }
+  },
+  "org.lwjgl:lwjgl-jemalloc:3.4.3": {
+    "lwjgl-jemalloc-3.4.3-natives-linux.jar": {
+      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-jemalloc/3.4.3/lwjgl-jemalloc-3.4.3-natives-linux.jar",
+      "hash": "sha256-HH/CcfEy49YG0wRLJSD8tmNIHlXleDxu9CcuO65zp9k="
+    },
+    "lwjgl-jemalloc-3.4.3.jar": {
+      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-jemalloc/3.4.3/lwjgl-jemalloc-3.4.3.jar",
+      "hash": "sha256-80BitkiUVPfiw79ZeeN2Z+YsfIXNAPc3YPRBVXyxl4o="
+    },
+    "lwjgl-jemalloc-3.4.3.pom": {
+      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-jemalloc/3.4.3/lwjgl-jemalloc-3.4.3.pom",
+      "hash": "sha256-OYbz6pQZdfszJTgPQLKj+HtUtN3ik3NlkvC85mHfeTw="
+    }
+  },
+  "org.lwjgl:lwjgl-openal:3.4.3": {
+    "lwjgl-openal-3.4.3-natives-linux.jar": {
+      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.4.3/lwjgl-openal-3.4.3-natives-linux.jar",
+      "hash": "sha256-Qzy/GbFrF33RKJfvJMNxF9n//0hza2yBYW78cq1Gkfk="
+    },
+    "lwjgl-openal-3.4.3.jar": {
+      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.4.3/lwjgl-openal-3.4.3.jar",
+      "hash": "sha256-SgBJyFVNaJBxj+52UHVy8vn48/YUTSXX0up2vMwtlgU="
+    },
+    "lwjgl-openal-3.4.3.pom": {
+      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.4.3/lwjgl-openal-3.4.3.pom",
+      "hash": "sha256-rNOToMdApurCjAe9noiskozb4kR0HIPLOIvKYOFCAv0="
+    }
+  },
+  "org.lwjgl:lwjgl-opengl:3.4.3": {
+    "lwjgl-opengl-3.4.3-natives-linux.jar": {
+      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.4.3/lwjgl-opengl-3.4.3-natives-linux.jar",
+      "hash": "sha256-QFboHBF0IB9j6YD3a5lVdGwPE9cS5NMO4Cw4rmvM1M4="
+    },
+    "lwjgl-opengl-3.4.3.jar": {
+      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.4.3/lwjgl-opengl-3.4.3.jar",
+      "hash": "sha256-qSzzDyW2+2Bm81CFEfg8XE/ioM/xT8LnNzvB9scmN08="
+    },
+    "lwjgl-opengl-3.4.3.pom": {
+      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.4.3/lwjgl-opengl-3.4.3.pom",
+      "hash": "sha256-tXsPgT66BXUJ0j/WshMc2ALaa9klLh7mQ+R+WhMCEq4="
+    }
+  },
+  "org.lwjgl:lwjgl-sdl:3.4.3": {
+    "lwjgl-sdl-3.4.3-natives-linux.jar": {
+      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-sdl/3.4.3/lwjgl-sdl-3.4.3-natives-linux.jar",
+      "hash": "sha256-4YgGg6SvMymemhuNfsF5m+2PtwkGTqCNzCoVzREBwLM="
+    },
+    "lwjgl-sdl-3.4.3.jar": {
+      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-sdl/3.4.3/lwjgl-sdl-3.4.3.jar",
+      "hash": "sha256-3LM6vL2UZVMXa7ZovoDXrcYMudkZq1xx+wH8UcrMTI8="
+    },
+    "lwjgl-sdl-3.4.3.pom": {
+      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-sdl/3.4.3/lwjgl-sdl-3.4.3.pom",
+      "hash": "sha256-9bx8et8FyCpn+urkaT1wy+dH+MGch8IVc49P76BbE+M="
+    }
+  },
+  "org.lwjgl:lwjgl-shaderc:3.4.3": {
+    "lwjgl-shaderc-3.4.3-natives-linux.jar": {
+      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-shaderc/3.4.3/lwjgl-shaderc-3.4.3-natives-linux.jar",
+      "hash": "sha256-Dc7W0zYsvNaNismgfyzgRcYEqavONx4fZsd8+4N/f9c="
+    },
+    "lwjgl-shaderc-3.4.3.jar": {
+      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-shaderc/3.4.3/lwjgl-shaderc-3.4.3.jar",
+      "hash": "sha256-gse1Jw0seEWPVyDGOUWXEMjwhsoFDuqasMRCVv7npiY="
+    },
+    "lwjgl-shaderc-3.4.3.pom": {
+      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-shaderc/3.4.3/lwjgl-shaderc-3.4.3.pom",
+      "hash": "sha256-pWM29Vwik2BcwMoyEgNxrmf568I9D2h/l6B6JFKqWW4="
+    }
+  },
+  "org.lwjgl:lwjgl-spvc:3.4.3": {
+    "lwjgl-spvc-3.4.3-natives-linux.jar": {
+      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-spvc/3.4.3/lwjgl-spvc-3.4.3-natives-linux.jar",
+      "hash": "sha256-iJgWWpCRG/1r4KoRaESdkJLxdH9rehbCJw2CZZgXJbM="
+    },
+    "lwjgl-spvc-3.4.3.jar": {
+      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-spvc/3.4.3/lwjgl-spvc-3.4.3.jar",
+      "hash": "sha256-1zfrqFEsqi9T23qNvqTAjZw9lEk7sKJE5tZK+VVB90I="
+    },
+    "lwjgl-spvc-3.4.3.pom": {
+      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-spvc/3.4.3/lwjgl-spvc-3.4.3.pom",
+      "hash": "sha256-yFuRKkNl7h+0qph618Q3DHup9qM0p8D8cOG2inuj0LQ="
+    }
+  },
+  "org.lwjgl:lwjgl-stb:3.4.3": {
+    "lwjgl-stb-3.4.3-natives-linux.jar": {
+      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-stb/3.4.3/lwjgl-stb-3.4.3-natives-linux.jar",
+      "hash": "sha256-XGai8RsYBiti75xkM/dTcg972tRLGKtAeKCmQEpkpyA="
+    },
+    "lwjgl-stb-3.4.3.jar": {
+      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-stb/3.4.3/lwjgl-stb-3.4.3.jar",
+      "hash": "sha256-VEdT9eScU1gJSbnx/DQfDkNJkTA8k9WkKPuq+qzCzWk="
+    },
+    "lwjgl-stb-3.4.3.pom": {
+      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-stb/3.4.3/lwjgl-stb-3.4.3.pom",
+      "hash": "sha256-4+hT6ChTfXx6KNVTjQkKUAyTEJCrNYfiHUzRCYuDL6M="
+    }
+  },
+  "org.lwjgl:lwjgl-vma:3.4.3": {
+    "lwjgl-vma-3.4.3-natives-linux.jar": {
+      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-vma/3.4.3/lwjgl-vma-3.4.3-natives-linux.jar",
+      "hash": "sha256-+GkHEchC3lqhV1lFm4KU/WguRSRBsGO9f5AnENuAGAQ="
+    },
+    "lwjgl-vma-3.4.3.jar": {
+      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-vma/3.4.3/lwjgl-vma-3.4.3.jar",
+      "hash": "sha256-JUFi75S9ITZjpBc2iQLqkW1R4OD6MFTQfqDOmot6yeY="
+    },
+    "lwjgl-vma-3.4.3.pom": {
+      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-vma/3.4.3/lwjgl-vma-3.4.3.pom",
+      "hash": "sha256-CwAyNaM40s4seUxyc7LkTrfTdSgJ2bRg/tDiVu6EDoQ="
+    }
+  },
+  "org.lwjgl:lwjgl-vulkan:3.4.3": {
+    "lwjgl-vulkan-3.4.3.jar": {
+      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-vulkan/3.4.3/lwjgl-vulkan-3.4.3.jar",
+      "hash": "sha256-rNtAdnd17RIj3DsqjJ0850DJ48SvB0REzi3+Lqm6YuA="
+    },
+    "lwjgl-vulkan-3.4.3.pom": {
+      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-vulkan/3.4.3/lwjgl-vulkan-3.4.3.pom",
+      "hash": "sha256-IvCwWAAqEwZu6W9sUYTohXCVEwrRjSCBNyTeoIMh+r0="
+    }
+  },
+  "org.mockito:mockito-bom:4.11.0": {
+    "mockito-bom-4.11.0.pom": {
+      "url": "https://maven.neoforged.net/releases/org/mockito/mockito-bom/4.11.0/mockito-bom-4.11.0.pom",
+      "hash": "sha256-2FMadGyYj39o7V8YjN6pRQBq6pk+xd+eUk4NJ9YUkdo="
+    }
+  },
+  "org.mockito:mockito-core:5.24.0": {
+    "mockito-core-5.24.0.jar": {
+      "url": "https://maven.neoforged.net/releases/org/mockito/mockito-core/5.24.0/mockito-core-5.24.0.jar",
+      "hash": "sha256-l6H4Na2EB1JVqjeAnkN57/VBJzwCxiAcutSb1ZUJMs0="
+    },
+    "mockito-core-5.24.0.pom": {
+      "url": "https://maven.neoforged.net/releases/org/mockito/mockito-core/5.24.0/mockito-core-5.24.0.pom",
+      "hash": "sha256-cYB0v8ujWS4yg6HLz/LrAWPd3XQuLtItVKeOr+2twGI="
+    }
+  },
+  "org.objenesis:objenesis:3.3": {
+    "objenesis-3.3.jar": {
+      "url": "https://maven.neoforged.net/releases/org/objenesis/objenesis/3.3/objenesis-3.3.jar",
+      "hash": "sha256-At/QsEOaVZHjW3CO0vVHTrCUj1Or90Y36Vm45O9pv+s="
+    },
+    "objenesis-3.3.pom": {
+      "url": "https://maven.neoforged.net/releases/org/objenesis/objenesis/3.3/objenesis-3.3.pom",
+      "hash": "sha256-ugxA2iZpoEi24k73BmpHHw+8v8xQnmo+hWyk3fphStM="
+    }
+  },
+  "org.objenesis:objenesis-parent:3.3": {
+    "objenesis-parent-3.3.pom": {
+      "url": "https://maven.neoforged.net/releases/org/objenesis/objenesis-parent/3.3/objenesis-parent-3.3.pom",
+      "hash": "sha256-MFw4SqLx4cf+U6ltpBw+w1JDuX1CjSSo93mBjMEL5P8="
+    }
+  },
+  "org.opentest4j:opentest4j:1.3.0": {
+    "opentest4j-1.3.0.jar": {
+      "url": "https://maven.neoforged.net/releases/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar",
+      "hash": "sha256-SOLfY2yrZWPO1k3N/4q7I1VifLI27wvzdZhoLd90Lxs="
+    },
+    "opentest4j-1.3.0.module": {
+      "url": "https://maven.neoforged.net/releases/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.module",
+      "hash": "sha256-SL8dbItdyU90ZSvReQD2VN63FDUCSM9ej8onuQkMjg0="
+    },
+    "opentest4j-1.3.0.pom": {
+      "url": "https://maven.neoforged.net/releases/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.pom",
+      "hash": "sha256-m/fP/EEPPoNywlIleN+cpW2dQ72TfjCUhwbCMqlDs1U="
+    }
+  },
+  "org.ow2:ow2:1.5.1": {
+    "ow2-1.5.1.pom": {
+      "url": "https://plugins.gradle.org/m2/org/ow2/ow2/1.5.1/ow2-1.5.1.pom",
+      "hash": "sha256-Mh3bt+5v5PU96mtM1tt0FU1r+kI5HB92OzYbn0hazwU="
+    }
+  },
+  "org.ow2.asm:asm:9.11": {
+    "asm-9.11.jar": {
+      "url": "https://plugins.gradle.org/m2/org/ow2/asm/asm/9.11/asm-9.11.jar",
+      "hash": "sha256-X+O0abhkblvFOol4QJUtY7cS1JI9KnomrrxYXx/sdnY="
+    },
+    "asm-9.11.pom": {
+      "url": "https://plugins.gradle.org/m2/org/ow2/asm/asm/9.11/asm-9.11.pom",
+      "hash": "sha256-xqVcmd9VTjppSW3hhKUH4dOwz64aX0FUKApgDwQlLR8="
+    }
+  },
+  "org.ow2.asm:asm:9.10.1": {
+    "asm-9.10.1.jar": {
+      "url": "https://plugins.gradle.org/m2/org/ow2/asm/asm/9.10.1/asm-9.10.1.jar",
+      "hash": "sha256-7YJdEKsTmcjAy2aeaIzwyMgmKbTIOZtYNSto6SyhD8s="
+    },
+    "asm-9.10.1.pom": {
+      "url": "https://plugins.gradle.org/m2/org/ow2/asm/asm/9.10.1/asm-9.10.1.pom",
+      "hash": "sha256-4bHDgyyjrAqeVjxAX0x2ARi1VWpJINruFAWIhhl+CU0="
+    }
+  },
+  "org.ow2.asm:asm:9.9.1": {
+    "asm-9.9.1.jar": {
+      "url": "https://maven.neoforged.net/releases/org/ow2/asm/asm/9.9.1/asm-9.9.1.jar",
+      "hash": "sha256-bzgoohXJIAWaXvovtVwjPWxU7FytypnOGxvdEAd8fd0="
+    },
+    "asm-9.9.1.pom": {
+      "url": "https://maven.neoforged.net/releases/org/ow2/asm/asm/9.9.1/asm-9.9.1.pom",
+      "hash": "sha256-rKaN7pui9s2Q/95yjv3H4+v89Z8/Qfv+JI0tAdW4Zq8="
+    }
+  },
+  "org.ow2.asm:asm:9.5": {
+    "asm-9.5.jar": {
+      "url": "https://maven.neoforged.net/releases/org/ow2/asm/asm/9.5/asm-9.5.jar",
+      "hash": "sha256-ti6EtZgHKXUbBFjFNM8TZvcnVCu40VhiEzVoKkYPA1M="
+    },
+    "asm-9.5.pom": {
+      "url": "https://maven.neoforged.net/releases/org/ow2/asm/asm/9.5/asm-9.5.pom",
+      "hash": "sha256-LJzOuVHMZYbejZoWxnKtPkwwucMjAo16PDNmVg1WJ7E="
+    }
+  },
+  "org.ow2.asm:asm-analysis:9.11": {
+    "asm-analysis-9.11.jar": {
+      "url": "https://maven.neoforged.net/releases/org/ow2/asm/asm-analysis/9.11/asm-analysis-9.11.jar",
+      "hash": "sha256-oUIcIJeMoKMw8kGxeSOnUaI/sclCP9oaunWRuwhrAdg="
+    },
+    "asm-analysis-9.11.pom": {
+      "url": "https://maven.neoforged.net/releases/org/ow2/asm/asm-analysis/9.11/asm-analysis-9.11.pom",
+      "hash": "sha256-FL4u2BF+Lpc3DvkYbQjPmsdswQ9bxYu2xuaiQGzc5qo="
+    }
+  },
+  "org.ow2.asm:asm-analysis:9.5": {
+    "asm-analysis-9.5.jar": {
+      "url": "https://maven.neoforged.net/releases/org/ow2/asm/asm-analysis/9.5/asm-analysis-9.5.jar",
+      "hash": "sha256-OfHPF5EzVwHDsCyueyvCEFfsmlWyJAeJy21VKyssYvo="
+    },
+    "asm-analysis-9.5.pom": {
+      "url": "https://maven.neoforged.net/releases/org/ow2/asm/asm-analysis/9.5/asm-analysis-9.5.pom",
+      "hash": "sha256-KimVCRD5nfexmlA36z3Dm+rOnKOgeFWmN5Hm2rPrQ6M="
+    }
+  },
+  "org.ow2.asm:asm-commons:9.11": {
+    "asm-commons-9.11.jar": {
+      "url": "https://maven.neoforged.net/releases/org/ow2/asm/asm-commons/9.11/asm-commons-9.11.jar",
+      "hash": "sha256-/P835qAiep9e6Bp8B/USSTB/oViJtWo1mub3c8Fkwis="
+    },
+    "asm-commons-9.11.pom": {
+      "url": "https://maven.neoforged.net/releases/org/ow2/asm/asm-commons/9.11/asm-commons-9.11.pom",
+      "hash": "sha256-y5iIOxRRv0mC9snny/tKlsOekV0hq7Sfzl2c6PdjXks="
+    }
+  },
+  "org.ow2.asm:asm-commons:9.10.1": {
+    "asm-commons-9.10.1.jar": {
+      "url": "https://plugins.gradle.org/m2/org/ow2/asm/asm-commons/9.10.1/asm-commons-9.10.1.jar",
+      "hash": "sha256-bQq++3y/ly6hbts37BSDU3JQUGOkX5dqt+qIntlJeJU="
+    },
+    "asm-commons-9.10.1.pom": {
+      "url": "https://plugins.gradle.org/m2/org/ow2/asm/asm-commons/9.10.1/asm-commons-9.10.1.pom",
+      "hash": "sha256-zrLEPzonPbiK+GUtie1jEvPpGhoeD/xveCMWknjPeVw="
+    }
+  },
+  "org.ow2.asm:asm-commons:9.9.1": {
+    "asm-commons-9.9.1.jar": {
+      "url": "https://maven.neoforged.net/releases/org/ow2/asm/asm-commons/9.9.1/asm-commons-9.9.1.jar",
+      "hash": "sha256-wjGeAUznGZ8rf31W1ruZGGMWjD9LbNbJ9UKkk37374g="
+    },
+    "asm-commons-9.9.1.pom": {
+      "url": "https://maven.neoforged.net/releases/org/ow2/asm/asm-commons/9.9.1/asm-commons-9.9.1.pom",
+      "hash": "sha256-3vcPp9Oku3FmC8ZhUjMpV5pLwxzMlsQtOlw7n3amtkk="
+    }
+  },
+  "org.ow2.asm:asm-commons:9.5": {
+    "asm-commons-9.5.pom": {
+      "url": "https://maven.neoforged.net/releases/org/ow2/asm/asm-commons/9.5/asm-commons-9.5.pom",
+      "hash": "sha256-im5GDu34zHuF0zx1YhPmpfeHX0qDg9U10ZnzIR7CNVw="
+    }
+  },
+  "org.ow2.asm:asm-tree:9.11": {
+    "asm-tree-9.11.jar": {
+      "url": "https://maven.neoforged.net/releases/org/ow2/asm/asm-tree/9.11/asm-tree-9.11.jar",
+      "hash": "sha256-2orSTQv377BnSpBvWafUQWkrZBcYNx87zmdisZGhaf0="
+    },
+    "asm-tree-9.11.pom": {
+      "url": "https://maven.neoforged.net/releases/org/ow2/asm/asm-tree/9.11/asm-tree-9.11.pom",
+      "hash": "sha256-ejfZfpPdBVANJwokB0rbNN9Qt0hMdB056YS1sqqXh30="
+    }
+  },
+  "org.ow2.asm:asm-tree:9.10.1": {
+    "asm-tree-9.10.1.jar": {
+      "url": "https://plugins.gradle.org/m2/org/ow2/asm/asm-tree/9.10.1/asm-tree-9.10.1.jar",
+      "hash": "sha256-PfsNW2oQbNQLWyUOOZNfvy+Sf0R3VGpTaaOsYJzwUGs="
+    },
+    "asm-tree-9.10.1.pom": {
+      "url": "https://plugins.gradle.org/m2/org/ow2/asm/asm-tree/9.10.1/asm-tree-9.10.1.pom",
+      "hash": "sha256-lj7r3qbi4f8lyQaLZKI44Vhcmfis1FVZWsFZp/UrbEE="
+    }
+  },
+  "org.ow2.asm:asm-tree:9.9.1": {
+    "asm-tree-9.9.1.jar": {
+      "url": "https://maven.neoforged.net/releases/org/ow2/asm/asm-tree/9.9.1/asm-tree-9.9.1.jar",
+      "hash": "sha256-DzVVCWtyC4ILusqwtRVYm+4CAL7gmb2hTFYXOK6De6E="
+    },
+    "asm-tree-9.9.1.pom": {
+      "url": "https://maven.neoforged.net/releases/org/ow2/asm/asm-tree/9.9.1/asm-tree-9.9.1.pom",
+      "hash": "sha256-Z/7kRrpRKHEwBzjw+Vb2GlAKhS9oYf9w8KPHvwwPpAU="
+    }
+  },
+  "org.ow2.asm:asm-tree:9.5": {
+    "asm-tree-9.5.jar": {
+      "url": "https://maven.neoforged.net/releases/org/ow2/asm/asm-tree/9.5/asm-tree-9.5.jar",
+      "hash": "sha256-PDOmSBkQea6urrfBmkmxU5UvnkD+hvusUgVVTd2azZQ="
+    },
+    "asm-tree-9.5.pom": {
+      "url": "https://maven.neoforged.net/releases/org/ow2/asm/asm-tree/9.5/asm-tree-9.5.pom",
+      "hash": "sha256-pyqq+N0FGJn6CJ54PsfUgnrE19GHYgHG3uy6qUoNyVY="
+    }
+  },
+  "org.ow2.asm:asm-util:9.11": {
+    "asm-util-9.11.jar": {
+      "url": "https://maven.neoforged.net/releases/org/ow2/asm/asm-util/9.11/asm-util-9.11.jar",
+      "hash": "sha256-1aI6Z38xuKfSQZiVkG4fy9msmVvv+yCUTIYQwbw3dgk="
+    },
+    "asm-util-9.11.pom": {
+      "url": "https://maven.neoforged.net/releases/org/ow2/asm/asm-util/9.11/asm-util-9.11.pom",
+      "hash": "sha256-G1xELBDEwAsHZO+JY+gBUv33J2DWQ/pW9HzXOscU3Ek="
+    }
+  },
+  "org.ow2.asm:asm-util:9.5": {
+    "asm-util-9.5.jar": {
+      "url": "https://maven.neoforged.net/releases/org/ow2/asm/asm-util/9.5/asm-util-9.5.jar",
+      "hash": "sha256-xGfxuzwIiI9HJD4tR1IJs0p3LWJ+RPygZ1Lhi7A4vXQ="
+    },
+    "asm-util-9.5.pom": {
+      "url": "https://maven.neoforged.net/releases/org/ow2/asm/asm-util/9.5/asm-util-9.5.pom",
+      "hash": "sha256-rX7zkKRvi+aPz6jqEBydc5HxmMqb4bLLFR0IO1/BKS8="
+    }
+  },
+  "org.slf4j:slf4j-api:2.0.18": {
+    "slf4j-api-2.0.18.jar": {
+      "url": "https://plugins.gradle.org/m2/org/slf4j/slf4j-api/2.0.18/slf4j-api-2.0.18.jar",
+      "hash": "sha256-RFCP0VdlAGiMeQsZCs3Rb+xPjHmj4LkAr9cFA88FX1U="
+    },
+    "slf4j-api-2.0.18.pom": {
+      "url": "https://plugins.gradle.org/m2/org/slf4j/slf4j-api/2.0.18/slf4j-api-2.0.18.pom",
+      "hash": "sha256-bCx/LAJ3TMK3thn70t94c82tKXGJJuRHVLh/cNHrQ8s="
+    }
+  },
+  "org.slf4j:slf4j-api:2.0.17": {
+    "slf4j-api-2.0.17.jar": {
+      "url": "https://libraries.minecraft.net/org/slf4j/slf4j-api/2.0.17/slf4j-api-2.0.17.jar",
+      "hash": "sha256-e3UdlSBhlU1av+1xgcH2RdM2CRtnmJFZHWMynGIuuDI="
+    },
+    "slf4j-api-2.0.17.pom": {
+      "url": "https://libraries.minecraft.net/org/slf4j/slf4j-api/2.0.17/slf4j-api-2.0.17.pom",
+      "hash": "sha256-FQxAKH987NwhuTgMqsmOkoxPM8Aj22s0jfHFrJdwJr8="
+    }
+  },
+  "org.slf4j:slf4j-api:2.0.9": {
+    "slf4j-api-2.0.9.pom": {
+      "url": "https://libraries.minecraft.net/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.pom",
+      "hash": "sha256-nDplT50KoaNLMXjr5TqJx2eS4dgfwelznL6bFhBSM4U="
+    }
+  },
+  "org.slf4j:slf4j-bom:2.0.18": {
+    "slf4j-bom-2.0.18.pom": {
+      "url": "https://plugins.gradle.org/m2/org/slf4j/slf4j-bom/2.0.18/slf4j-bom-2.0.18.pom",
+      "hash": "sha256-khmqtgFXUSbE5m4TMesrDGwXozCsTVoH480R1YCgwS0="
+    }
+  },
+  "org.slf4j:slf4j-bom:2.0.17": {
+    "slf4j-bom-2.0.17.pom": {
+      "url": "https://maven.neoforged.net/releases/org/slf4j/slf4j-bom/2.0.17/slf4j-bom-2.0.17.pom",
+      "hash": "sha256-940ntkK0uIbrg5/BArXNn+fzDzdZn/5oGFvk4WCQMek="
+    }
+  },
+  "org.slf4j:slf4j-bom:2.0.9": {
+    "slf4j-bom-2.0.9.pom": {
+      "url": "https://maven.neoforged.net/releases/org/slf4j/slf4j-bom/2.0.9/slf4j-bom-2.0.9.pom",
+      "hash": "sha256-6u9FhIB9gSxqC2z4OdXkf1DHVDJ3GbnOCB4nHRXaYkM="
+    }
+  },
+  "org.slf4j:slf4j-parent:2.0.18": {
+    "slf4j-parent-2.0.18.pom": {
+      "url": "https://plugins.gradle.org/m2/org/slf4j/slf4j-parent/2.0.18/slf4j-parent-2.0.18.pom",
+      "hash": "sha256-CziWvtrSye2Wl+3L6h2gxUzSOKcjWDqBNYqDv7eC6fo="
+    }
+  },
+  "org.slf4j:slf4j-parent:2.0.17": {
+    "slf4j-parent-2.0.17.pom": {
+      "url": "https://maven.neoforged.net/releases/org/slf4j/slf4j-parent/2.0.17/slf4j-parent-2.0.17.pom",
+      "hash": "sha256-lc1x6FLf2ykSbli3uTnVfsKy5gJDkYUuC1Rd7ggrvzs="
+    }
+  },
+  "org.slf4j:slf4j-parent:2.0.9": {
+    "slf4j-parent-2.0.9.pom": {
+      "url": "https://maven.neoforged.net/releases/org/slf4j/slf4j-parent/2.0.9/slf4j-parent-2.0.9.pom",
+      "hash": "sha256-wwfwQkFB8cUArlzw04aOSGbLIZ7V45m2bFoHxh6iH9U="
+    }
+  },
+  "org.sonatype.oss:oss-parent:9": {
+    "oss-parent-9.pom": {
+      "url": "https://plugins.gradle.org/m2/org/sonatype/oss/oss-parent/9/oss-parent-9.pom",
+      "hash": "sha256-+0AmX5glSCEv+C42LllzKyGH7G8NgBgohcFO8fmCgno="
+    }
+  },
+  "org.sonatype.oss:oss-parent:7": {
+    "oss-parent-7.pom": {
+      "url": "https://plugins.gradle.org/m2/org/sonatype/oss/oss-parent/7/oss-parent-7.pom",
+      "hash": "sha256-tR+IZ8kranIkmVV/w6H96ne9+e9XRyL+kM5DailVlFQ="
+    }
+  },
+  "org.sonatype.oss:oss-parent:5": {
+    "oss-parent-5.pom": {
+      "url": "https://plugins.gradle.org/m2/org/sonatype/oss/oss-parent/5/oss-parent-5.pom",
+      "hash": "sha256-FnjUEgpYXYpjATGu7ExSTZKDmFg7fqthbufVqH9SDT0="
+    }
+  },
+  "org.springframework:spring-framework-bom:5.3.39": {
+    "spring-framework-bom-5.3.39.module": {
+      "url": "https://maven.neoforged.net/releases/org/springframework/spring-framework-bom/5.3.39/spring-framework-bom-5.3.39.module",
+      "hash": "sha256-+ItA4qUDM7QLQvGB7uJyt17HXdhmbLFFvZCxW5fhg+M="
+    },
+    "spring-framework-bom-5.3.39.pom": {
+      "url": "https://maven.neoforged.net/releases/org/springframework/spring-framework-bom/5.3.39/spring-framework-bom-5.3.39.pom",
+      "hash": "sha256-9tSBCT51dny6Gsfh2zj49pLL4+OHRGkzcada6yHGFIs="
+    }
+  },
+  "org.tukaani:xz:1.10": {
+    "xz-1.10.jar": {
+      "url": "https://plugins.gradle.org/m2/org/tukaani/xz/1.10/xz-1.10.jar",
+      "hash": "sha256-lcY8GlWyLdZFOJCkGcwaZA95C799iugtseMK7++wiIg="
+    },
+    "xz-1.10.pom": {
+      "url": "https://plugins.gradle.org/m2/org/tukaani/xz/1.10/xz-1.10.pom",
+      "hash": "sha256-72CLg8O7bI4+azvqo4hCuhWWO0ZJXkr5GwdGyLdQ87k="
+    }
+  },
+  "org.tukaani:xz:1.8": {
+    "xz-1.8.pom": {
+      "url": "https://maven.neoforged.net/releases/org/tukaani/xz/1.8/xz-1.8.pom",
+      "hash": "sha256-8p51y4jrSsv35apcCe1V6sLLrmAdY6nzdSMfRUUsEBM="
+    }
+  },
+  "org.vineflower:vineflower:1.12.0": {
+    "vineflower-1.12.0.jar": {
+      "url": "https://maven.neoforged.net/releases/org/vineflower/vineflower/1.12.0/vineflower-1.12.0.jar",
+      "hash": "sha256-Hfz+l0OVc0+kZ85iBmHHYj0FuoNnDeBSmx+9Y/9Ui50="
+    },
+    "vineflower-1.12.0.pom": {
+      "url": "https://maven.neoforged.net/releases/org/vineflower/vineflower/1.12.0/vineflower-1.12.0.pom",
+      "hash": "sha256-uE+s5oNduUwT3hFygXy5/8MgA846qgcwTxXens04Sqc="
+    }
+  },
+  "trove:trove:1.0.2": {
+    "trove-1.0.2.jar": {
+      "url": "https://maven.neoforged.net/releases/trove/trove/1.0.2/trove-1.0.2.jar",
+      "hash": "sha256-rWiobP0CVaK8BSXOEexJZAyup+NP+R64nDGT3MzXfwU="
+    },
+    "trove-1.0.2.pom": {
+      "url": "https://maven.neoforged.net/releases/trove/trove/1.0.2/trove-1.0.2.pom",
+      "hash": "sha256-g/JoK9Pe0f5Be36Y56yGUQzXRzeOrn46XR01x8fw0uo="
+    }
+  }
+}

@@ -33,12 +33,24 @@
           };
           mkMod = pkgs.callPackage ./lib/mkMod.nix { inherit loaders; };
           gradle7 = pkgs.callPackage ./packages/devel/gradle_7 { };
+          gradleJdk21 = pkgs.callPackage ./packages/devel/gradle-jdk {
+            jdk = pkgs.jdk21;
+            javaVersion = "21";
+          };
+          gradleJdk25 = pkgs.callPackage ./packages/devel/gradle-jdk {
+            jdk = pkgs.jdk25;
+            javaVersion = "25";
+          };
         in
         {
           packages = {
             inherit (inputs.gradle2nix.packages.${system}) gradle2nix;
             gradle_7 = gradle7;
-            neoforge = pkgs.callPackage ./packages/loaders/neoforge { };
+            neoforge = pkgs.callPackage ./packages/loaders/neoforge {
+              inherit (builders) buildGradlePackage;
+              inherit gradleJdk21 gradleJdk25;
+              neoformArtifacts = pkgs.callPackage ./builders/neoforge/caches.nix { };
+            };
             loom-cache-1_20_2 = pkgs.callPackage ./builders/fabric/caches.nix { } {
               minecraftVersion = "1.20.2";
             };
